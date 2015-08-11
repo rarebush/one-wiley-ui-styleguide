@@ -1,0 +1,27 @@
+.f--page-title {
+    font-size: 3em;
+    position: relative;
+    &:after {
+        content: "";
+        display: block;
+        margin: 0.2em 0;
+        border-width: 0 0 6px 0;
+        border-style: solid;
+        border-color: map-get($colors, accent);
+        border-image-slice: 6 6 6 6;
+        border-image-width: 0 0 6px 0;
+        border-image-repeat: round;
+        border-image-source: url('../../toolkit/images/dots.svg');
+    }
+}
+.f--heading {
+    &:after {
+        content: "";
+        display: block;
+        border-bottom: 1px solid map-get($colors, grey-300);
+        margin: 0.5em 0;
+    }
+}
+.lnk--fab {
+    color: map-get($colors, accent);
+}

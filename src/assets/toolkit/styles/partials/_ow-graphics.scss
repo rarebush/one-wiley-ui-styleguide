@@ -1,0 +1,60 @@
+.wly-lgo {
+    width: 72px;
+    height: 15px;
+    padding: 1em;
+    &.wly-lgo--black {
+        use {
+            fill: map-get($ow-colors, grey-900);
+        }
+    }
+    &.wly-lgo--white {
+        background-color: map-get($ow-colors, grey-900);
+        use {
+            fill: map-get($ow-colors, grey-50);
+        }
+    }
+}
+.circle-cont {
+    padding: 3em;
+    position: relative;
+    .big-circle {
+        box-sizing: content-box;
+        position: relative;
+        background-color: map-get($ow-colors, orange);
+        height: 8em;
+        width: 8em;
+        border-radius: 6em;
+        padding: 1em;
+        .small-circle {
+            box-sizing: border-box;
+            border: 2px solid map-get($ow-colors, red-light);
+            background-color: map-get($ow-colors, orange-dark);
+            height: 8em;
+            width: 8em;
+            border-radius: 4em;
+            box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.25);
+            position: relative;
+            .circle-txt {
+                margin: 0;
+                color: map-get($ow-colors, grey-50);
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-right: -50%;
+                transform: translate(-50%, -50%);
+                font-size: 2em;
+                font-weight: 700;
+            }
+        }
+    }
+    .big-circle::after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 4em;
+        z-index: -1;
+        height: 2em;
+        width: 50vw;
+        background: linear-gradient(to left, map-get($ow-colors, orange-dark) 65%, map-get($ow-colors, red-light) 80%);
+    }
+}

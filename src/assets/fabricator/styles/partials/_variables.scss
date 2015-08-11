@@ -1,0 +1,62 @@
+// fonts
+$wiley-sans: 'Open Sans', sans-serif;
+$wiley-mono: 'Roboto Mono', monospace;
+$wiley-serif: 'Droid Serif', serif;
+$wiley-slab: 'Roboto Slab', serif;
+
+// colors
+$greys: (
+    grey-50: #FAFAFA,
+    grey-100: #F5F5F5,
+    grey-200: #EEEEEE,
+    grey-300: #E0E0E0,
+    grey-400: #BDBDBD,
+    grey-500: #9E9E9E,
+    grey-600: #757575,
+    grey-700: #616161,
+    grey-800: #424242,
+    grey-900: #212121
+);
+
+$base-colors: (
+	dark: hsl(0, 0%, 12%),
+	medium: hsl(0, 0%, 46%),
+	light: hsl(0, 0%, 80%),
+	accent: #00A3B2
+);
+
+$theme-dark: (
+	menu-background: map-get($base-colors, dark),
+	menu-text: map-get($base-colors, light),
+	normal: map-get($base-colors, medium)
+);
+
+$theme-light: (
+	menu-background: map-get($greys, grey-100),
+	menu-text: map-get($base-colors, medium),
+	normal: map-get($base-colors, medium)
+);
+
+$theme: map-merge($theme-light, $greys);
+
+$colors: map-merge($base-colors, $theme);
+
+$menu-width: 14rem;
+
+
+// mixins
+@mixin clearfix {
+	&:after {
+		clear: both;
+	}
+
+	&:before,
+	&:after {
+		display: table;
+		content: ' ';
+	}
+}
+
+@mixin border-box {
+	box-sizing: border-box;
+}

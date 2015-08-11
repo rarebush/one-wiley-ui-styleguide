@@ -1,0 +1,87 @@
+// wiley basic
+.wly-ftr {
+    width: 100%;
+    min-height: 3em;
+    margin-bottom: 1em;
+    position: relative;
+    text-align: center;
+    border-top: 1px solid map-get($ow-colors, grey-700);
+    @media (min-width: 600px) {
+        text-align: left;
+    }
+    .cpy-cnt {
+        .cpy-txt {
+            font-family: $wiley-sans;
+            font-size: 0.6em;
+            font-weight: 400;
+            display: block;
+            padding: 1em;
+        }
+        @media (min-width: 600px) {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    }
+    .wly-lgo-cnt {
+        svg {
+            display: block;
+            margin: auto;
+        }
+        @media (min-width: 600px) {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+    }
+}
+
+// wiley links
+@mixin clearfix {
+  &:after {
+    content: ""; 
+    display: table;
+    clear: both; 
+  }
+}
+
+.links-cnt-cnt {
+    padding-top: 1em;
+    border-top: 1px solid map-get($ow-colors, grey-700);
+    @include container;
+    font-size: 0.8em;
+    color: map-get($ow-colors, grey-700);
+    text-align: center;
+    @media (min-width: 600px) {
+        text-align: left;
+        .strapline-cnt {
+            @include span(6 of 12);
+        }
+        .links-cnt {
+            @include span(6 of 12);
+            @include last;
+            @include clearfix;
+            a {
+                @include gallery(2 of 6);
+                &:last-child {
+                    @include last;
+                }
+            }
+        }
+    }
+    .strapline-cnt {
+        margin-bottom: 2em;
+    }
+    .links-cnt {
+        margin-bottom: 1em;
+        a {
+            display: block;
+            color: inherit;
+            text-decoration: none;
+            margin-bottom: 0.5em;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}

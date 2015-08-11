@@ -1,0 +1,10 @@
+.lnk {
+    text-decoration: none;
+    border-width: 0 0 0 0;
+    border-style: solid;
+    transition: border-width 0.1s ease;
+    animation-duration: 1s;
+    &:hover {
+        border-width: 0 0 2px 0;
+    }
+}
