@@ -13,15 +13,37 @@
         border-image-repeat: round;
         border-image-source: url('../../toolkit/images/dots.svg');
     }
+    &.f--page-title--teal {
+        color: map-get($colors, accent);
+    }
 }
 .f--heading {
-    &:after {
-        content: "";
-        display: block;
-        border-bottom: 1px solid map-get($colors, grey-300);
-        margin: 0.5em 0;
+    color: white;
+    display: table;
+    font-weight: 400;
+    padding: 0.3em 1em 0.4em;
+    border-bottom-right-radius: 10em;
+    border-top-right-radius: 10em;
+    @media (min-width: 30em) {
+        min-width: 450px;
+    }
+    &.f--heading--green {
+        background-image: linear-gradient(to right, map-get($colors, green-dark) 0%,map-get($colors, green) 30%);
+    }
+    &.f--heading--purple {
+        background-image: linear-gradient(to right, map-get($colors, purple-dark) 0%,map-get($colors, purple) 30%);
+    }
+    &.f--heading--blue {
+        background-image: linear-gradient(to right, map-get($colors, teal-dark) 0%,map-get($colors, teal) 30%);
+    }
+    &.f--heading--extendleft {
+        padding-left: 1em;
+        margin-left: -1em;
     }
 }
 .lnk--fab {
     color: map-get($colors, accent);
+}
+.f--bodycopy {
+    max-width: 600px;
 }

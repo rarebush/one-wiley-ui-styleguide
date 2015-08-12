@@ -18,6 +18,27 @@ $greys: (
     grey-900: #212121
 );
 
+$others: (
+    teal-light: #B1D8CF,
+    teal: #00A3B2,
+    teal-dark: #075B81,
+    purple-light: #BCADE2,
+    purple: #855199,
+    purple-dark: #522464,
+    blue-light: #A0C7E5,
+    blue: #648FD8,
+    blue-dark: #032977,
+    green-light: #C6DE8C,
+    green: #92CB9C,
+    green-dark: #1D5C56,
+    red-light: #D22938,
+    red: #B40043,
+    red-dark: #800049,
+    orange-light: #F2BA49,
+    orange: #E87700,
+    orange-dark: #E55800
+);
+
 $base-colors: (
 	dark: hsl(0, 0%, 12%),
 	medium: hsl(0, 0%, 46%),
@@ -37,7 +58,9 @@ $theme-light: (
 	normal: map-get($base-colors, medium)
 );
 
-$theme: map-merge($theme-light, $greys);
+$w-colors: map-merge($others, $greys);
+
+$theme: map-merge($theme-light, $w-colors);
 
 $colors: map-merge($base-colors, $theme);
 
