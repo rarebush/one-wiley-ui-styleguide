@@ -32,7 +32,7 @@
 	@include border-box;
 	display: inline-block;
 	cursor: pointer;
-	margin-left: 0.618rem;
+	margin-left: 0.5rem;
 
 	&:first-child {
 		margin-left: 0;
@@ -47,11 +47,32 @@
 			fill: map-get($colors, light);
 		}
 	}
+    
+    &:hover {
+        svg {
+            use {
+			 fill: map-get($colors, grey-700);
+            }
+        }
+    }
 }
 
 .f-control-bar {
 	@include clearfix;
-	padding: 1rem 0;
+	@include border-box;
+	position: relative;
+    margin: 0;
+	padding: 1rem;
+    position: fixed;
+	z-index: 10;
+	.f-menu-active & {
+			margin-left: $menu-width;
+			transform: translate(0, 0);
+		@media (min-width: 60em) {
+			margin-left: $menu-width;
+			transform: translate(0, 0);
+		}
+	}
 }
 
 .f-menu-toggle {

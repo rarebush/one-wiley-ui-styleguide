@@ -7,19 +7,19 @@
 	flex-grow: 1;
 	flex-shrink: 0;
 	flex-basis: 100%;
-	border-top-width: 8em;
+	border-top-width: 4rem;
 	border-top-style: solid;
 	border-bottom-width: 0;
 	border-bottom-style: solid;
 	background-color: #fff;
 	font-weight: 700;
-	font-size: 0.75em;
-    padding: 0.5em 0 1em;
-	margin-bottom: 1em;
+	font-size: 0.75rem;
+    padding: 0.5rem 0 1rem;
+	margin-bottom: 1rem;
     box-sizing: border-box;
 
 	@media (min-width: 15em) {
-		flex-basis: 13em;
+		flex-basis: 6rem;
 	}
 
 	.f-color-chip__color {

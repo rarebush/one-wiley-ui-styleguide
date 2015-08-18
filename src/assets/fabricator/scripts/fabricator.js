@@ -374,3 +374,17 @@ fabricator.setInitialMenuState = function () {
 		.bindCodeAutoSelect();
 
 }());
+
+/**
+ * Icon search
+ */
+
+document.getElementById("icon-search").oninput = function () {
+    for (var i = 0; i < document.getElementsByClassName("ic-text").length; i++) {
+        if (document.getElementsByClassName("ic-text")[i].innerHTML.match(new RegExp(document.getElementById("icon-search").value, "gi"))) {
+            document.getElementsByClassName("ic-text")[i].parentElement.style.display = "list-item";
+        } else {
+            document.getElementsByClassName("ic-text")[i].parentElement.style.display = "none";
+        }
+    }
+}
