@@ -77,6 +77,11 @@
 		use {
 			fill: map-get($colors, light);
 		}
+        &.f-item-enabled {
+            use {
+                fill: map-get($colors, normal);
+            }
+        }
 	}
 }
 
@@ -86,4 +91,8 @@
 
 .f-item-notes {
 	font-size: 0.875rem;
+    padding: 1rem;
+    background-color: map-get($colors, grey-100);
+    border: 1px solid map-get($colors, grey-300);
+    margin-bottom: 1rem;
 }

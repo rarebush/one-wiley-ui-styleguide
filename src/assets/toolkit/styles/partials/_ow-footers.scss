@@ -37,13 +37,6 @@
 }
 
 // wiley links
-@mixin clearfix {
-  &:after {
-    content: ""; 
-    display: table;
-    clear: both; 
-  }
-}
 
 .links-cnt-cnt {
     padding-top: 1em;

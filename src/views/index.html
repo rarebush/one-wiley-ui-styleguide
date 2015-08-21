@@ -5,10 +5,28 @@ fabricator: true
 
 <div class="f--section f--bg--grey-200">
     <div class="f--section__max-width">
-        <h1 class="f--page-title f--page-title--teal">One Wiley UI Guidelines</h1>
+        <h1 class="f--page-title f--page-title--teal">One Wiley UI Guidelines</h1>        
+    </div>
+</div>
+
+<div class="f--section">
+    <div class="f--section__max-width">
+        <h2 class="f--heading">Introduction</h2>
         <p>This UI toolkit is an accessory to the <a class="lnk lnk--fab" href="#">One Wiley Brand Guidelines</a>. The purpose of the contents here is to document and communicate the various UI elements that appear across the Wiley digital product portfolio. Once inside the toolkit, the assets are easily discoverabe by <a class="lnk lnk--fab" href="#">element type</a>, <a class="lnk lnk--fab" href="#">project</a>, <a class="lnk lnk--fab" href="#">relation to the wiley brand</a> and <a class="lnk lnk--fab" href="#">device</a>.</p>
 
         <p>The UI guidelines are a highly-modular design system for rapid web page development. It contains different materials that can be assembled into more complex components and page layouts.</p>
+    </div>
+</div>
+
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="atoms">
+            <ul>
+                {{#each materials.atoms.items}}                    
+                    <li><a href="atoms.html#{{@key}}"><span class="section-label">{{name}}</span></a></li>
+                {{/each}}
+            </ul>
+        </div>
     </div>
 </div>
 
@@ -25,11 +43,15 @@ fabricator: true
 -->
 <div class="f--section">
     <div class="f--section__max-width">
-<h2 class="f--heading f--heading--green f--heading--extendleft">How to use these guidelines</h2>
-    <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into xx key sections that should provide a good understanding of what to do and how to do it.</p>
-    <p>Whilst we’ve covered off many examples and step by step guides, there will always be some exceptions to the rules, or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. But if there’s anything that you’re not 100% sure about then please feel free to contact a member of the brand team. Their details are on the back cover.</p>
-
-<h2 class="f--heading f--heading--purple f--heading--extendleft">Our brand architecture</h2>
-<h2 class="f--heading f--heading--blue f--heading--extendleft">UI toolkit overview</h2>
-        </div>
+        <h2 class="f--heading">How to use these guidelines</h2>
+        <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into xx key sections that should provide a good understanding of what to do and how to do it.</p>
+        <p>Whilst we’ve covered off many examples and step by step guides, there will always be some exceptions to the rules, or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. But if there’s anything that you’re not 100% sure about then please feel free to contact a member of the brand team. Their details are on the back cover.</p>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <h2 class="f--heading">Our brand architecture</h2>
+        <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into xx key sections that should provide a good understanding of what to do and how to do it.</p>
+        <p>Whilst we’ve covered off many examples and step by step guides, there will always be some exceptions to the rules, or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. But if there’s anything that you’re not 100% sure about then please feel free to contact a member of the brand team. Their details are on the back cover.</p>
+    </div>
 </div>

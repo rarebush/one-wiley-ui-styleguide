@@ -23,3 +23,9 @@ colors:
     orange-light: "#F2BA49"
     orange: "#E87700"
     orange-dark: "#E55800"
+  grey:
+    grey-100: "#F5F5F5"
+    grey-300: "#E0E0E0"
+    grey-500: "#9E9E9E"
+    grey-700: "#616161"
+    grey-900: "#212121"

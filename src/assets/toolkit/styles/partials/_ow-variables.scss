@@ -38,3 +38,11 @@ $wiley-sans: 'Open Sans', sans-serif;
 $wiley-mono: 'Roboto Mono', monospace;
 $wiley-serif: 'Droid Serif', serif;
 $wiley-slab: 'Roboto Slab', serif;
+
+@mixin clearfix {
+  &:after {
+    content: ""; 
+    display: table;
+    clear: both; 
+  }
+}

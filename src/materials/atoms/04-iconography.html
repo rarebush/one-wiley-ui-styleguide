@@ -1,0 +1,23 @@
+---
+notes: |
+  These are notes associated with this `Iconography` component.
+---
+
+<div class="f-iconsearch">
+    <input placeholder="search icons" id="icon-search" type="text" />
+</div>
+{{#each ow-icons.svg}}
+<ul class="f-iconlist">
+    {{#each this}}
+    <li>
+        <div class="ic-cont">            
+            <div class="oi" data-glyph="{{this}}" title="{{this}}" aria-hidden="true"></div>
+        </div>
+        <br>
+        <span class="ic-text">{{this}}</span>
+        <br>
+        <span class="ic-text-links"><a href="">SVG</a> | <a href="">EPS</a></span>
+    </li>
+    {{/each}}
+</ul>
+{{/each}}

@@ -293,6 +293,14 @@ fabricator.singleItemToggle = function () {
 			type = e.currentTarget.getAttribute('data-f-toggle-control');
 
 		group.querySelector('[data-f-toggle=' + type + ']').classList.toggle('f-item-hidden');
+        
+        // toggle single class
+        if (group.querySelector('[data-f-toggle=' + type + ']').classList.contains('f-item-hidden')) {
+            this.classList.remove('f-item-enabled');
+        } else {
+            this.classList.add('f-item-enabled');
+        }
+        
 	};
 
 	for (var i = 0; i < itemToggleSingle.length; i++) {
