@@ -40,14 +40,28 @@ body {
 	}
     .f--section {
         padding: 1em 1em 1em 3em;
-        &.f--bg--grey-200 {
+        &.f--section--light {
             background-color: map-get($colors, grey-200);
+        }
+        &.f--section--dark {
+            color: white;
+            background-color: map-get($colors, teal-dark);
         }
         .f--section__max-width {
             margin: auto;
             max-width: 48em;
             @media (min-width: 70em) {
                 max-width: 64em;
+            }
+            &.f--section--hr::after {
+                content: "";
+                padding-top: 1rem;
+                display: block;
+                position: relative;
+                width: 100%;
+                border-bottom-color: map-get($colors, grey-300);
+                border-bottom-style: solid;
+                border-bottom-width: 1px;
             }
         }
     }
@@ -122,10 +136,4 @@ body {
             }
         }
     }
-}
-
-// atoms display
-
-.atoms {
-    
 }

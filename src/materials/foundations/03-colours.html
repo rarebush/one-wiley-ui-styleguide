@@ -1,0 +1,38 @@
+---
+notes: |
+    - stuff about colours
+---
+
+<h3>Core and secondary color palette</h3>
+{{#each toolkit.colors}}
+<h4 class="capitalize">{{@key}}s</h4>
+<div class="f-color-chips">
+    {{#each this}}
+    <div class="f-color-chip">
+        <div class="f-color-chip__name">{{@key}}</div>
+        <div class="f-color-chip__color">{{this}}</div>
+    </div>
+    {{/each}}
+</div>
+{{/each}}
+
+<h3>Tints</h3>
+<p>If the need arises, tints can be used. Below is an example that uses the color teal.</p>
+<p>The process is the same for each of the colours above (besides 'Greys' and 'Wiley Colors') and can be handled either through opacity changes or using the absolute values listed below.</p>
+<h4>Teal</h4>
+<div class="tint-table__row">
+    {{#each tints.tints.teal}}
+        <div style="border-color:{{this}};"><h5>{{@key}}<br>{{this}}</h5></div>
+    {{/each}}
+</div>
+<!--
+<div class="tint-table">
+        {{#each tints.tints}}
+        <div>{{@key}}</div>
+        <div class="tint-table__row">
+            {{#each this}}
+            <div style="border-color:{{this}};">{{this}}</div>
+            {{/each}}
+        </div>
+        {{/each}}
+</div>-->

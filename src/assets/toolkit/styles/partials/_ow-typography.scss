@@ -5,15 +5,45 @@ body {
 
 h1 {
     font-weight: 600;
+    font-size: 2rem;
 }
 h2 {
     font-weight: 300;
+    font-size: 1.5rem;
 }
 h3 {
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 1.25rem;
 }
 h4 {    
+    font-weight: 600;
+    font-size: 1rem;
+}
+h5 {    
+    font-weight: 700;
+    font-size: 0.75rem;
+}
+h6 {    
     font-weight: 400;
+    font-size: 0.75rem;
+}
+
+blockquote {
+    position: relative;
+    &:before {
+        content: '\e054';
+        font-family: 'Icons';
+        position: absolute;
+        top: 0;
+        left: -2rem;
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+    }
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid map-get($ow-colors, grey-300);
 }
 
 .capitalize {

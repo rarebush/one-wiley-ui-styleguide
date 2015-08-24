@@ -1,31 +1,35 @@
 colors:
-  teal:
-    teal-light: "#B1D8CF"
-    teal: "#00A3B2"
-    teal-dark: "#075B81"
-  purple:
-    purple-light: "#BCADE2"
-    purple: "#855199"
-    purple-dark: "#522464"
-  blue:
-    blue-light: "#A0C7E5"
-    blue: "#648FD8"
-    blue-dark: "#032977"
-  green:
-    green-light: "#C6DE8C"
-    green: "#92CB9C"
-    green-dark: "#1D5C56"
-  red:
-    red-light: "#D22938"
-    red: "#B40043"
-    red-dark: "#800049"
-  orange:
-    orange-light: "#F2BA49"
-    orange: "#E87700"
-    orange-dark: "#E55800"
-  grey:
-    grey-100: "#F5F5F5"
-    grey-300: "#E0E0E0"
-    grey-500: "#9E9E9E"
-    grey-700: "#616161"
-    grey-900: "#212121"
+    wiley color:
+        wiley-black: "#1f1f1e"
+        wiley-white: "#ffffff"
+        wiley-grey: "#E7E4DF"
+    teal:
+        teal-light: "#B1D8CF"
+        teal: "#00A3B2"
+        teal-dark: "#075B81"
+    purple:
+        purple-light: "#BCADE2"
+        purple: "#855199"
+        purple-dark: "#522464"
+    blue:
+        blue-light: "#A0C7E5"
+        blue: "#648FD8"
+        blue-dark: "#032977"
+    green:
+        green-light: "#C6DE8C"
+        green: "#92CB9C"
+        green-dark: "#1D5C56"
+    red:
+        red-light: "#D22938"
+        red: "#B40043"
+        red-dark: "#800049"
+    orange:
+        orange-light: "#F2BA49"
+        orange: "#E87700"
+        orange-dark: "#E55800"
+    grey:
+        grey-100: "#F5F5F5"
+        grey-300: "#E0E0E0"
+        grey-500: "#9E9E9E"
+        grey-700: "#616161"
+        grey-900: "#212121"
