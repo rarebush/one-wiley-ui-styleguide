@@ -1,0 +1,23 @@
+---
+fabricator: true
+title: Toolkit
+---
+
+<div class="f--section f--section--light">
+    <div class="f--section__max-width">
+        <h1 class="f--page-title f--page-title--teal" data-f-toggle="labels">Toolkit</h1>
+    </div>
+</div>
+{{#each materials.toolkit.items}}
+<div class="f--section">
+    <div class="f--section__max-width">
+        {{> f-item this}}
+    </div>
+</div>
+{{/each}}
+
+<div class="f--section footer">
+    <div class="f--section__max-width">
+        <a href="footers.html" class="footer__text">Footers<span class="oi" data-glyph="chevron-right"></span></a>
+    </div>
+</div>

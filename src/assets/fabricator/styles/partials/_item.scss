@@ -1,9 +1,9 @@
 .f-item-group {
 	@include clearfix;
-	margin-top: 3rem;
+	margin-top: 1.5rem;
 	margin-bottom: 3rem;
 	padding-bottom: 3rem;
-	border-bottom: 1px solid map-get($colors, light);
+	border-bottom: 1px solid map-get($colors, grey-300);
 
 	&:last-child {
 		margin-bottom: 0;
@@ -31,6 +31,7 @@
 
 .f-item-code {
 	margin-top: 2rem;
+    font-size: 0.75em;
 }
 
 .f-item-preview {
@@ -44,42 +45,34 @@
 .f-item-heading-group {
 	@include clearfix;
 	margin-bottom: 2rem;
-	vertical-align: middle;
 }
 
 .f-item-heading {
 	margin-top: 0;
 	margin-bottom: 0;
 	display: inline-block;
-	vertical-align: middle;
 	line-height: 1;
 }
 
 
 .f-item-controls {
 	display: inline-block;
-	vertical-align: middle;
 	margin-left: 0.5rem;
+    
+    span {
+        font-size: 12px;
+    }
 
 	.f-control {
-		width: 16px;
-		height: 16px;
-		display: block;
-		float: left;
+		display: inline;
 
 		&:hover {
-			use {
-				fill: map-get($colors, normal);
-			}
+			color: map-get($colors, orange);
 		}
 
-		use {
-			fill: map-get($colors, light);
-		}
+		color: map-get($colors, orange-light);
         &.f-item-enabled {
-            use {
-                fill: map-get($colors, normal);
-            }
+            color: map-get($colors, orange-dark);
         }
 	}
 }
@@ -89,9 +82,18 @@
 }
 
 .f-item-notes {
-	font-size: 0.875rem;
-    padding: 1rem;
+    position: relative;
+	font-size: 0.875em;
+    padding: 1.5rem 1rem 1rem;
     background-color: map-get($colors, grey-100);
     border: 1px solid map-get($colors, grey-300);
     margin-bottom: 1rem;
+    &:before {
+        content: "Notes";
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 0.875em;
+        padding: 0.5rem;
+    }
 }

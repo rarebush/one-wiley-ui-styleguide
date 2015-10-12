@@ -4,21 +4,36 @@ $wiley-mono: 'Roboto Mono', monospace;
 $wiley-serif: 'Droid Serif', serif;
 $wiley-slab: 'Roboto Slab', serif;
 
-// colors
+// normal greys colors
+//$greys: (
+//    grey-50: #FAFAFA,
+//    grey-100: #F5F5F5,
+//    grey-200: #EEEEEE,
+//    grey-300: #E0E0E0,
+//    grey-400: #BDBDBD,
+//    grey-500: #9E9E9E,
+//    grey-600: #757575,
+//    grey-700: #616161,
+//    grey-800: #424242,
+//    grey-900: #212121
+//);
+
+// warm greys
 $greys: (
-    grey-50: #FAFAFA,
-    grey-100: #F5F5F5,
-    grey-200: #EEEEEE,
-    grey-300: #E0E0E0,
-    grey-400: #BDBDBD,
-    grey-500: #9E9E9E,
-    grey-600: #757575,
-    grey-700: #616161,
-    grey-800: #424242,
-    grey-900: #212121
+    grey-100: #f5f2ed,
+    grey-200: #edebe6,
+    grey-300: #E7E4DF,
+    grey-400: #bdbbb7,
+    grey-500: #9e9d99,
+    grey-600: #757472,
+    grey-700: #61605e,
+    grey-800: #424240,
+    grey-900: #212120
 );
 
 $others: (
+    wiley-black: #1F1F1E,
+    wiley-white: #FFFFFF,
     teal-light: #B1D8CF,
     teal: #00A3B2,
     teal-dark: #075B81,
@@ -40,9 +55,9 @@ $others: (
 );
 
 $base-colors: (
-	dark: hsl(0, 0%, 12%),
-	medium: hsl(0, 0%, 46%),
-	light: hsl(0, 0%, 80%),
+	dark: #212120,
+	medium: #757472,
+	light: #f5f2ed,
 	accent: #00A3B2
 );
 
@@ -53,7 +68,7 @@ $theme-dark: (
 );
 
 $theme-light: (
-	menu-background: map-get($greys, grey-100),
+	menu-background: map-get($base-colors, light),
 	menu-text: map-get($base-colors, medium),
 	normal: map-get($base-colors, medium)
 );

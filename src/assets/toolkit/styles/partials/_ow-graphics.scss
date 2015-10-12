@@ -1,81 +1,105 @@
-.foundations {
-    @include susy-clearfix;
-    ul {
-        padding: 0;
+// wiley icons (examples on overview page)
+
+.wic {
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    &.wic--round {
+        border-radius: 10rem; 
+        box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.5);
+        &:hover {
+            box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
+        }
+        &:active {
+            box-shadow: none;
+        }
+    }
+    &.wic--orange-dark {        
+        background-color: map-get($ow-colors, orange-dark);
+    }
+}
+
+//// decoration
+// list
+.ow-list--decorated {
+    position: relative;
+    max-width: 350px;    
+    margin: 2rem;
+    padding-left: 1rem;
+    &:before {
+        content: "";
+        border-left: 4px dashed map-get($ow-colors, teal-light);
+        height: 100%;
+        display: block;
+        position: absolute;
+        left: -0.6rem;
+    }
+    li {
         list-style: none;
-        //flex stuff
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        li {
-            padding: 0;
-            margin: 1rem;
-            text-align: center;
-            // flex stuff
-            flex-grow: 0;
-            flex-basis: 12rem;
+        position: relative;
+        padding: 1rem;
+        &:before {
+            width: 2rem;
+            height: 2rem;
+            border: 1px solid map-get($ow-colors, teal-light);
             box-sizing: border-box;
-            a {
-                display: block;
-                text-decoration: none;
-                margin: auto;
-                width: 160px;
-                height: 160px;
-                border: 8px solid map-get($ow-colors, teal-light);
-                background-color: map-get($ow-colors, teal);
-                border-radius: 100rem;
-                box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.25);
-                transform-style: preserve-3d;
-                box-sizing: border-box;
-                line-height: 0;
-                cursor: pointer;
-                transition: background-color 0.1s ease-out;
-                .section-label {
-                    position: relative;
-                    top: 50%;
-                    transform: translateY(-50%);
-                    color: white;
-                    text-transform: capitalize;
-                    font-weight: 600;
-                }
-                &:hover {                    
-                    background-color: map-get($ow-colors, teal-light);
-                }
-            }
+            border-radius: 1rem;
+            display: block;
+            position: absolute;
+            left: -2.5rem;
+            top: 1.3rem;
+            background-color: map-get($ow-colors, green-light);
+            content: "";
+        }
+        .ow-list__heading {
+            color: map-get($ow-colors, green-light);
+            font-weight: 700;
+            font-size: 2em;
+        }
+        .ow-list__copy {
+            color: map-get($ow-colors, green-dark);
+            font-weight: 600;
+            font-size: 1.5em;
         }
     }
 }
-
-// old
-
-.wly-lgo {
-    width: 72px;
-    height: 15px;
-    padding: 1em;
-    &.wly-lgo--black {
-        use {
-            fill: map-get($ow-colors, grey-900);
+//heading
+.ow-heading--decorated {
+    padding: 3rem 0 3rem 5rem;
+    background-color: map-get($ow-colors, grey-300);
+    .ow-heading__heading {
+        color: map-get($ow-colors, red-light);
+        font-weight: 700;
+        font-size: 2em;
+        letter-spacing: -0.05em;
+        line-height: 1em;
+        .ow-heading__heading--orange-dark {
+            color: map-get($ow-colors, orange-dark);
         }
     }
-    &.wly-lgo--white {
-        background-color: map-get($ow-colors, grey-900);
-        use {
-            fill: map-get($ow-colors, grey-50);
-        }
+    .ow-heading__line {
+        margin-top: 1em;
+        height: 2em;
+        background-color: map-get($ow-colors, orange-dark);
+        background: linear-gradient(to right, map-get($ow-colors, orange-dark) 0%, map-get($ow-colors, red-light) 100%);
+        border-top-left-radius: 0.3em;
+        border-bottom-left-radius: 0.3em;
     }
 }
-.circle-cont {
+
+//key info
+.ow-keyinfo--decorated {
     padding: 3em;
     position: relative;
-    .big-circle {
-        box-sizing: content-box;
+    overflow: hidden;
+    .ow-keyinfo__big-circle {
         position: relative;
         background-color: map-get($ow-colors, orange);
         height: 8em;
         width: 8em;
         border-radius: 6em;
         padding: 1em;
-        .small-circle {
+        .ow-keyinfo__small-circle {
             box-sizing: border-box;
             border: 2px solid map-get($ow-colors, red-light);
             background-color: map-get($ow-colors, orange-dark);
@@ -84,9 +108,9 @@
             border-radius: 4em;
             box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.25);
             position: relative;
-            .circle-txt {
+            .ow-keyinfo__copy {
                 margin: 0;
-                color: map-get($ow-colors, grey-50);
+                color: map-get($ow-colors, wiley-white);
                 position: absolute;
                 top: 50%;
                 left: 50%;
@@ -97,14 +121,14 @@
             }
         }
     }
-    .big-circle::after {
+    .ow-keyinfo__big-circle::after {
         content: "";
-        display: block;
+        display:block;
         position: absolute;
         top: 4em;
         z-index: -1;
         height: 2em;
-        width: 50vw;
-        background: linear-gradient(to left, map-get($ow-colors, orange-dark) 65%, map-get($ow-colors, red-light) 80%);
+        width: 100em;
+        background: linear-gradient(to left, map-get($ow-colors, orange-dark) 85%, map-get($ow-colors, red-light) 100%);
     }
 }

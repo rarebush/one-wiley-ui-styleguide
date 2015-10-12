@@ -1,31 +1,36 @@
+html {
+    font-size: 16px;
+}
+
 body {
     color: map-get($ow-colors, grey-700);
     font-family: $wiley-sans;
+    margin: 0;
 }
 
 h1 {
     font-weight: 600;
-    font-size: 2rem;
+    font-size: 2em;
 }
 h2 {
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1.5em;
 }
 h3 {
     font-weight: 700;
-    font-size: 1.25rem;
+    font-size: 1.25em;
 }
 h4 {    
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1em;
 }
 h5 {    
     font-weight: 700;
-    font-size: 0.75rem;
+    font-size: 0.75em;
 }
 h6 {    
     font-weight: 400;
-    font-size: 0.75rem;
+    font-size: 0.75em;
 }
 
 blockquote {
@@ -36,8 +41,8 @@ blockquote {
         position: absolute;
         top: 0;
         left: -2rem;
-        font-size: 1.5rem;
-        line-height: 1.5rem;
+        font-size: 1.5em;
+        color: map-get($ow-colors, teal);
     }
 }
 

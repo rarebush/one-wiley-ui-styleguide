@@ -1,0 +1,25 @@
+---
+fabricator: true
+---
+<div class="f--section">
+    <div class="f--section__max-width">
+        <h4>Teal</h4>
+        <div class="tint-table__row">
+            {{#each tints.tints.teal}}
+            <div style="border-color:{{this}};">
+                <h5>{{@key}}<br>{{this}}</h5></div>
+            {{/each}}
+        </div>
+
+        <div class="tint-table">
+            {{#each tints.tints}}
+            <div>{{@key}}</div>
+            <div class="tint-table__row">
+                {{#each this}}
+                <div style="border-color:{{this}};">{{this}}</div>
+                {{/each}}
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</div>

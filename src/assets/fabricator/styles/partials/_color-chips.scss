@@ -15,11 +15,11 @@
     font-weight: 700;
     font-size: 0.75rem;
     text-align: right;
-    padding: 0.5rem 0 0;
+    padding: 0.5rem 0 0 0.5rem;
     margin-bottom: 0.5rem;
     box-sizing: border-box;
     @media (min-width: 15em) {
-        flex-basis: 6rem;
+        flex-basis: 5rem;
     }
     .f-color-chip__color {
         background-color: #fff;
@@ -75,16 +75,17 @@
         flex-grow: 1;
         flex-shrink: 0;
         flex-basis: 100%;
-        text-align: right;
+        text-align: left;
         padding: 0;
         border-width: 0 0 0 5rem;
         border-style: solid;
         @media (min-width: 30em) {
+            text-align: right;
             flex-basis: 3rem;
             border-width: 5rem 0 0 0;         
         }
         h5 {
-            margin: 0.5rem 0;
+            margin: 0.5rem 0 0.5rem 0.5rem;
         }
     }
 }

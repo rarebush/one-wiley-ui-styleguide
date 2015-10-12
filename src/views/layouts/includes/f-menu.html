@@ -7,21 +7,45 @@
 
 		<li>
 			<a href="index.html" class="f-menu__heading">Overview</a>
+            <ul>
+                <li><a href="index.html#contact">Contact us</a></li>
+            </ul>
 		</li>
 
-		{{#each materials}}
+<!--	Toolkit    	-->
 		<li>
-			<a href="{{@key}}.html" class="f-menu__heading">{{name}}</a>
+			<a href="toolkit.html" class="f-menu__heading">Toolkit</a>
 			<ul>
-				{{#each items}}
+                {{#each materials.toolkit.items}}
 				<li>
-					<a href="{{@../key}}.html#{{@key}}">{{name}}</a>
+					<a href="toolkit.html#{{@key}}">{{name}}</a>
 				</li>
 				{{/each}}
 			</ul>
 		</li>
-		{{/each}}
-
+<!--	Structures    	-->
+        <li>
+			<a href="structures.html" class="f-menu__heading">Structures</a>
+			<ul>
+                {{#each materials.structures.items}}
+				<li>
+					<a href="structures.html#{{@key}}">{{name}}</a>
+				</li>
+				{{/each}}
+			</ul>
+		</li>
+<!--	footers    	-->
+        
+        <li>
+			<a href="footers.html" class="f-menu__heading">Footers</a>
+			<ul>
+                {{#each materials.footers.items}}
+				<li>
+					<a href="footers.html#{{@key}}">{{name}}</a>
+				</li>
+				{{/each}}
+			</ul>
+		</li>
 <!--
 		{{#each views}}
 		<li>

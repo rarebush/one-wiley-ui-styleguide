@@ -1,0 +1,44 @@
+---
+notes: |
+    The Wiley color palette is an important part of our brand identity. When designing UIs, we encourage you to choose from a subset of the secondary colors and to use them only to enhance the usability of your design. If you can easily start implementing this color palette on your digital product, please start doing so immediately. Otherwise, please implement with your next redesign.
+
+    Our extended secondary color palette helps to make our communications more engaging. There are six key colors in our secondary palette and within each of these are three tones – a light tone, mid tone and dark tone.
+---
+
+<h3>Core and secondary color palette</h3>
+{{#each toolkit.colors}}
+<h4 class="capitalize">{{@key}}s</h4>
+<div class="f-color-chips">
+    {{#each this}}
+    <div class="f-color-chip">
+        <div class="f-color-chip__name">{{colorName}}</div>
+        <div class="f-color-chip__color">#{{colorHex}}</div>
+        {{#if wcagFG}}
+        <div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor={{wcagFG}}&bcolor={{colorHex}}">click for WCAG contrast checker</span> <span class="oi" data-glyph="external-link"></span></a></div>
+        {{/if}}
+    </div>
+    {{/each}}
+</div>
+{{/each}}
+
+<h3>Tints</h3>
+<p>If the need arises, tints can be used. They can be implemented either through opacity changes or using the absolute values as described <a href="tints.html">here</a>.</p>
+<!--
+<h4>Teal</h4>
+<div class="tint-table__row">
+    {{#each tints.tints.teal}}
+        <div style="border-color:{{this}};"><h5>{{@key}}<br>{{this}}</h5></div>
+    {{/each}}
+</div>
+
+<div class="tint-table">
+        {{#each tints.tints}}
+        <div>{{@key}}</div>
+        <div class="tint-table__row">
+            {{#each this}}
+            <div style="border-color:{{this}};">{{this}}</div>
+            {{/each}}
+        </div>
+        {{/each}}
+</div>
+-->

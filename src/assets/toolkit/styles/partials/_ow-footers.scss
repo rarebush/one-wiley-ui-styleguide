@@ -1,80 +1,182 @@
-// wiley basic
-.wly-ftr {
-    width: 100%;
-    min-height: 3em;
-    margin-bottom: 1em;
+// wiley branded footer base
+// please change the max width of the footer__base__content to the max width of your website
+.footer-base {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     position: relative;
-    text-align: center;
-    border-top: 1px solid map-get($ow-colors, grey-700);
-    @media (min-width: 600px) {
-        text-align: left;
+    background: url('/assets/toolkit/images/decoration/footer-01.svg') repeat-x;
+    &:after {
+        content: " ";
+        position: absolute;
+        right: 0;
+        top: 0;
+        background: url('/assets/toolkit/images/decoration/footer-02.svg') right;
+        display: block;
+        height: 70px;
+        width: 100%;
+        max-width: 296px;
     }
-    .cpy-cnt {
-        .cpy-txt {
-            font-family: $wiley-sans;
-            font-size: 0.6em;
-            font-weight: 400;
-            display: block;
-            padding: 1em;
-        }
-        @media (min-width: 600px) {
-            position: absolute;
-            top: 0;
-            left: 0;
+    &.nodeco {
+        background: url('/assets/toolkit/images/decoration/footer-03.svg') repeat-x;
+        &:after {
+            content: none;
         }
     }
-    .wly-lgo-cnt {
-        svg {
+    .footer-base__content {
+        display: block;
+        max-width: 960px;
+        position: relative;
+        margin: auto;
+        .logo {
             display: block;
             margin: auto;
+            @media (min-width: 60em) {
+                position: absolute;
+                right: 2rem;
+                top: -1rem;
+            }
         }
-        @media (min-width: 600px) {
-            position: absolute;
-            right: 0;
-            top: 0;
+    }
+    &.footer-base--black.nodeco {
+        color: map-get($ow-colors, grey-100);
+        background-color: map-get($ow-colors, wiley-black);
+        background-image: url('/assets/toolkit/images/decoration/footer-04.svg');
+    }
+}
+
+// copyright line
+.copyright {
+    text-align: center;
+    font-size: 0.625em;
+    margin: 1rem 3rem;
+    a {
+        color: inherit;
+        font-weight: 700;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    @media (min-width: 60em) {
+        text-align: left;
+        margin-left: 1rem;
+        margin-right: 10rem;
+    }
+}
+
+
+// wiley.com footer links
+
+.footer-wiley {
+    max-width: 960px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0 1rem;
+    text-transform: uppercase;
+    @include susy-clearfix;
+    .footer-wiley__list {
+        font-size: 0.7em;
+        text-align: center;
+        span {
+            font-weight: 700;
+        }
+        ul {
+            padding: 0;
+            list-style: none;
+            margin-top: 0.5rem;
+        }
+        li {
+            margin: 0 0 0.25rem;
+        }
+        @media (min-width: 38em) {
+            text-align: left;
+            &.footer-wiley__list--2col {
+                @include span(6 of 12);
+                li {
+                    width: 50%;
+                    float: left;
+                }
+            }
+            &.footer-wiley__list--1col {
+                @include span(3 of 12);
+            }
+            &:last-child {
+                @include last;
+            }
+        }
+        @media (min-width: 60em) {
+            text-align: left;
+            &.footer-wiley__list--2col {
+                @include span(4 of 12);
+                li {
+                    width: 50%;
+                    float: left;
+                }
+            }
+            &.footer-wiley__list--1col {
+                @include span(2 of 12);
+            }
         }
     }
 }
 
-// wiley links
-
-.links-cnt-cnt {
-    padding-top: 1em;
-    border-top: 1px solid map-get($ow-colors, grey-700);
-    @include container;
-    font-size: 0.8em;
-    color: map-get($ow-colors, grey-700);
-    text-align: center;
-    @media (min-width: 600px) {
-        text-align: left;
-        .strapline-cnt {
-            @include span(6 of 12);
-        }
-        .links-cnt {
-            @include span(6 of 12);
-            @include last;
-            @include clearfix;
-            a {
-                @include gallery(2 of 6);
+// wiley online library footer links OR 'product and services footer'
+.footer--product {
+    padding-top: 1.5rem;
+    border-top: 4px solid map-get($ow-colors, purple);
+    .footer--product__content {
+        max-width: 960px;
+        margin: auto;
+        box-sizing: border-box;
+        padding: 0 1rem;
+        font-size: 0.75em;
+        @include susy-clearfix;
+        .footer--product__col {
+            text-align: center;
+            span {
+                display: inline-block;
+                margin-bottom: 1rem;
+            }
+            ul {
+                margin-top: 0;
+                padding: 0;
+                list-style: none;
+                color: map-get($ow-colors, teal);
+                li {
+                    font-weight: 600;
+                }
+            }
+            @media (min-width: 38em) {
+                text-align: left;
+                &.footer--product__col--brand {
+                    @include span(3 of 12);
+                }
+                &.footer--product__col--links {
+                    @include span(3 of 12);
+                }
+                &:last-child {
+                    @include last;
+                }
+            }
+            @media (min-width: 38em) {
+                text-align: left;
+                &.footer--product__col--brand {
+                    @include span(6 of 12);
+                }
+                &.footer--product__col--links {
+                    @include span(2 of 12);
+                }
                 &:last-child {
                     @include last;
                 }
             }
         }
     }
-    .strapline-cnt {
-        margin-bottom: 2em;
-    }
-    .links-cnt {
-        margin-bottom: 1em;
-        a {
-            display: block;
-            color: inherit;
-            text-decoration: none;
-            margin-bottom: 0.5em;
-            &:hover {
-                text-decoration: underline;
-            }
+    &.nobrandcolor {
+        border-top: 4px solid black;
+        li {
+            color: map-get($ow-colors, grey-700);
         }
     }
 }
+
+

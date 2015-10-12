@@ -1,0 +1,33 @@
+---
+notes: |
+    Coming soon! Please check back next month.
+---
+
+<div class="f-iconsearch">
+    <input placeholder="search icons" id="icon-search" type="text" />
+</div>
+<h3>Wiley Illustrative Icons</h3>
+<ul class="f-iconlist f-iconlist--illustrative">
+    {{#each wiley-icons}}
+    <li>           
+        <div class="ic-glyph ic-i-{{this.name}}" title="{{this.name}}"></div>
+        <div class="ic-text">{{this.name}}</div>
+        <div class="ic-links"><a href="">SVG</a> | <a href="">EPS</a> | <a href="">PNG</a></div>
+    </li>
+    {{/each}}
+</ul>
+<h3>Wiley UI Icons</h3>
+{{#each ow-icons.svg}}
+<ul class="f-iconlist">
+    {{#each this}}
+    <li>
+        <div class="ic-cont">            
+            <div class="oi" data-glyph="{{this}}" title="{{this}}" aria-hidden="true"></div>
+        </div>
+        <br>
+        <div class="ic-text">{{this}}</div>
+        <div class="ic-links"><a href="">SVG</a> | <a href="">EPS</a> | <a href="">PNG</a></div>
+    </li>
+    {{/each}}
+</ul>
+{{/each}}

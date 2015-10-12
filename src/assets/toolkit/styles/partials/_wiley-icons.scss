@@ -1,0 +1,544 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "ow-icons-illustrative";
+  src:url("../fonts/ow-icons-illustrative.eot");
+  src:url("../fonts/ow-icons-illustrative.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ow-icons-illustrative.woff") format("woff"),
+    url("../fonts/ow-icons-illustrative.ttf") format("truetype"),
+    url("../fonts/ow-icons-illustrative.svg#ow-icons-illustrative") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "ow-icons-illustrative" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ic-i-"]:before,
+[class*=" ic-i-"]:before {
+  font-family: "ow-icons-illustrative" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-i-author-marketing-archive:before {
+  content: "a";
+}
+.ic-i-author-marketing-bar-chart:before {
+  content: "b";
+}
+.ic-i-author-marketing-book:before {
+  content: "c";
+}
+.ic-i-author-marketing-check-mark:before {
+  content: "d";
+}
+.ic-i-author-marketing-cite:before {
+  content: "e";
+}
+.ic-i-author-marketing-cloud:before {
+  content: "f";
+}
+.ic-i-author-marketing-comp-monitor:before {
+  content: "g";
+}
+.ic-i-author-marketing-conference:before {
+  content: "h";
+}
+.ic-i-author-marketing-convers-bubble:before {
+  content: "i";
+}
+.ic-i-author-marketing-data1:before {
+  content: "j";
+}
+.ic-i-author-marketing-email:before {
+  content: "k";
+}
+.ic-i-author-marketing-data2:before {
+  content: "l";
+}
+.ic-i-author-marketing-funder:before {
+  content: "m";
+}
+.ic-i-author-marketing-read:before {
+  content: "n";
+}
+.ic-i-author-marketing-publicity:before {
+  content: "o";
+}
+.ic-i-author-marketing-pencil:before {
+  content: "p";
+}
+.ic-i-author-marketing-paper-clip:before {
+  content: "q";
+}
+.ic-i-author-marketing-padlock:before {
+  content: "r";
+}
+.ic-i-author-marketing-openaccess2:before {
+  content: "s";
+}
+.ic-i-author-marketing-openaccess1:before {
+  content: "t";
+}
+.ic-i-author-marketing-multimedia:before {
+  content: "u";
+}
+.ic-i-author-marketing-microphone:before {
+  content: "v";
+}
+.ic-i-author-marketing-light-bulb:before {
+  content: "w";
+}
+.ic-i-author-marketing-lab-equip:before {
+  content: "x";
+}
+.ic-i-author-marketing-globe:before {
+  content: "y";
+}
+.ic-i-author-marketing-gear:before {
+  content: "z";
+}
+.ic-i-author-marketing-scissors:before {
+  content: "A";
+}
+.ic-i-author-marketing-seo:before {
+  content: "B";
+}
+.ic-i-author-marketing-smartphone:before {
+  content: "C";
+}
+.ic-i-author-marketing-social-media:before {
+  content: "D";
+}
+.ic-i-author-marketing-star:before {
+  content: "E";
+}
+.ic-i-author-marketing-time:before {
+  content: "F";
+}
+.ic-i-author-marketing-wider-web:before {
+  content: "G";
+}
+.ic-i-channel-marketing-advertising:before {
+  content: "H";
+}
+.ic-i-channel-marketing-elearning:before {
+  content: "I";
+}
+.ic-i-channel-marketing-journalreprintbooks:before {
+  content: "J";
+}
+.ic-i-channel-marketing-microsite:before {
+  content: "K";
+}
+.ic-i-channel-marketing-mobileapp:before {
+  content: "L";
+}
+.ic-i-channel-marketing-sponsoredsub:before {
+  content: "M";
+}
+.ic-i-cross-knowledge-health-and-enviro:before {
+  content: "N";
+}
+.ic-i-cross-knowledge-event:before {
+  content: "O";
+}
+.ic-i-cross-knowledge-energy:before {
+  content: "P";
+}
+.ic-i-cross-knowledge-education:before {
+  content: "Q";
+}
+.ic-i-cross-knowledge-ebook:before {
+  content: "R";
+}
+.ic-i-cross-knowledge-docdownload:before {
+  content: "S";
+}
+.ic-i-cross-knowledge-detailedinfo:before {
+  content: "T";
+}
+.ic-i-cross-knowledge-contactphone:before {
+  content: "U";
+}
+.ic-i-cross-knowledge-contactemail:before {
+  content: "V";
+}
+.ic-i-cross-knowledge-consumergoods:before {
+  content: "W";
+}
+.ic-i-cross-knowledge-certification:before {
+  content: "X";
+}
+.ic-i-cross-knowledge-banking-insurance:before {
+  content: "Y";
+}
+.ic-i-channel-marketing-webinar:before {
+  content: "Z";
+}
+.ic-i-cross-knowledge-industry:before {
+  content: "0";
+}
+.ic-i-cross-knowledge-news:before {
+  content: "1";
+}
+.ic-i-cross-knowledge-media:before {
+  content: "2";
+}
+.ic-i-cross-knowledge-print:before {
+  content: "3";
+}
+.ic-i-cross-knowledge-publicserv:before {
+  content: "4";
+}
+.ic-i-cross-knowledge-qa:before {
+  content: "5";
+}
+.ic-i-cross-knowledge-retail:before {
+  content: "6";
+}
+.ic-i-cross-knowledge-services:before {
+  content: "7";
+}
+.ic-i-cross-knowledge-share:before {
+  content: "8";
+}
+.ic-i-cross-knowledge-source:before {
+  content: "9";
+}
+.ic-i-cross-knowledge-telecom-hitech:before {
+  content: "!";
+}
+.ic-i-cross-knowledge-video:before {
+  content: "\"";
+}
+.ic-i-cross-knowledge-webinar:before {
+  content: "#";
+}
+.ic-i-health-sciences-emergencymed:before {
+  content: "$";
+}
+.ic-i-health-sciences-dermatology:before {
+  content: "%";
+}
+.ic-i-health-sciences-dentistry:before {
+  content: "&";
+}
+.ic-i-health-sciences-cardiology:before {
+  content: "'";
+}
+.ic-i-health-sciences-anesthesia:before {
+  content: "(";
+}
+.ic-i-health-sciences-andrology:before {
+  content: ")";
+}
+.ic-i-health-sciences-anatomy:before {
+  content: "*";
+}
+.ic-i-health-sciences-allergy:before {
+  content: "+";
+}
+.ic-i-health-sciences-addiction:before {
+  content: ",";
+}
+.ic-i-cta-log-i:before {
+  content: "-";
+}
+.ic-i-cta-e-mai:before {
+  content: ".";
+}
+.ic-i-cta-contact-u:before {
+  content: "/";
+}
+.ic-i-cta-calenda:before {
+  content: ":";
+}
+.ic-i-health-sciences-endocrinology:before {
+  content: ";";
+}
+.ic-i-health-sciences-gastroenterology:before {
+  content: "<";
+}
+.ic-i-health-sciences-gen-and-internalmed:before {
+  content: "=";
+}
+.ic-i-health-sciences-genetics:before {
+  content: ">";
+}
+.ic-i-health-sciences-geriatrics:before {
+  content: "?";
+}
+.ic-i-health-sciences-health-and-soccare:before {
+  content: "@";
+}
+.ic-i-health-sciences-hematology-and-transfusion:before {
+  content: "[";
+}
+.ic-i-health-sciences-hepatlogy:before {
+  content: "]";
+}
+.ic-i-health-sciences-imaging-radiology:before {
+  content: "^";
+}
+.ic-i-health-sciences-immunology:before {
+  content: "_";
+}
+.ic-i-health-sciences-infectiousdis:before {
+  content: "`";
+}
+.ic-i-health-sciences-language-and-speech:before {
+  content: "{";
+}
+.ic-i-health-sciences-meded:before {
+  content: "|";
+}
+.ic-i-health-sciences-pathology:before {
+  content: "}";
+}
+.ic-i-health-sciences-painmed:before {
+  content: "~";
+}
+.ic-i-health-sciences-otolaryngology:before {
+  content: "\\";
+}
+.ic-i-health-sciences-ophthalmology:before {
+  content: "\e000";
+}
+.ic-i-health-sciences-oncology:before {
+  content: "\e001";
+}
+.ic-i-health-sciences-occupationalhealth:before {
+  content: "\e002";
+}
+.ic-i-health-sciences-occupation-and-phytherapy:before {
+  content: "\e003";
+}
+.ic-i-health-sciences-ob-gyn:before {
+  content: "\e004";
+}
+.ic-i-health-sciences-nutrition:before {
+  content: "\e005";
+}
+.ic-i-health-sciences-nursing:before {
+  content: "\e006";
+}
+.ic-i-health-sciences-neurology:before {
+  content: "\e007";
+}
+.ic-i-health-sciences-nephrology:before {
+  content: "\e008";
+}
+.ic-i-health-sciences-molecularmed:before {
+  content: "\e009";
+}
+.ic-i-health-sciences-pediatrics:before {
+  content: "\e00a";
+}
+.ic-i-health-sciences-pharmacology:before {
+  content: "\e00b";
+}
+.ic-i-health-sciences-psychiatry:before {
+  content: "\e00c";
+}
+.ic-i-health-sciences-respiratorymed:before {
+  content: "\e00d";
+}
+.ic-i-health-sciences-rheumatology:before {
+  content: "\e00e";
+}
+.ic-i-health-sciences-sportsmed:before {
+  content: "\e00f";
+}
+.ic-i-health-sciences-surgery:before {
+  content: "\e010";
+}
+.ic-i-health-sciences-transplantation:before {
+  content: "\e011";
+}
+.ic-i-health-sciences-urology:before {
+  content: "\e012";
+}
+.ic-i-health-sciences-vetmed:before {
+  content: "\e013";
+}
+.ic-i-life-sciences-agriculture:before {
+  content: "\e014";
+}
+.ic-i-life-sciences-animalsci-and-zoo:before {
+  content: "\e015";
+}
+.ic-i-life-sciences-aquaticsci-1:before {
+  content: "\e016";
+}
+.ic-i-life-sciences-gen-and-introsci:before {
+  content: "\e017";
+}
+.ic-i-physical-sciences-energy:before {
+  content: "\e018";
+}
+.ic-i-social-sciences-and-humanities-econ:before {
+  content: "\e019";
+}
+.ic-i-social-sciences-and-humanities-urban-devstudies:before {
+  content: "\e01a";
+}
+.ic-i-social-sciences-and-humanities-comm-and-cultstudies:before {
+  content: "\e01b";
+}
+.ic-i-physical-sciences-electrical-and-electroniceng:before {
+  content: "\e01c";
+}
+.ic-i-life-sciences-gen-and-humanbio:before {
+  content: "\e01d";
+}
+.ic-i-life-sciences-forensicsci:before {
+  content: "\e01e";
+}
+.ic-i-physical-sciences-chemistrydata:before {
+  content: "\e01f";
+}
+.ic-i-social-sciences-and-humanities-classics:before {
+  content: "\e020";
+}
+.ic-i-social-sciences-and-humanities-sociology:before {
+  content: "\e021";
+}
+.ic-i-social-sciences-and-humanities-religion-and-theology:before {
+  content: "\e022";
+}
+.ic-i-social-sciences-and-humanities-business:before {
+  content: "\e023";
+}
+.ic-i-physical-sciences-chemistry:before {
+  content: "\e024";
+}
+.ic-i-life-sciences-foodsci:before {
+  content: "\e025";
+}
+.ic-i-life-sciences-evolution:before {
+  content: "\e026";
+}
+.ic-i-physical-sciences-chemicaleng:before {
+  content: "\e027";
+}
+.ic-i-social-sciences-and-humanities-arts-and-appliedarts:before {
+  content: "\e028";
+}
+.ic-i-social-sciences-and-humanities-psychology:before {
+  content: "\e029";
+}
+.ic-i-social-sciences-and-humanities-politics:before {
+  content: "\e02a";
+}
+.ic-i-social-sciences-and-humanities-anthropology:before {
+  content: "\e02b";
+}
+.ic-i-life-sciences-plantsci:before {
+  content: "\e02c";
+}
+.ic-i-life-sciences-entomology:before {
+  content: "\e02d";
+}
+.ic-i-life-sciences-ecology:before {
+  content: "\e02e";
+}
+.ic-i-life-sciences-pharmacology-and-drug-discovery:before {
+  content: "\e02f";
+}
+.ic-i-social-sciences-and-humanities-acct-finance:before {
+  content: "\e030";
+}
+.ic-i-social-sciences-and-humanities-philosophy:before {
+  content: "\e031";
+}
+.ic-i-social-sciences-and-humanities-literature:before {
+  content: "\e032";
+}
+.ic-i-physical-sciences-statistics-and-maths:before {
+  content: "\e033";
+}
+.ic-i-life-sciences-parasitology:before {
+  content: "\e034";
+}
+.ic-i-life-sciences-earth-and-envirosci-2:before {
+  content: "\e035";
+}
+.ic-i-life-sciences-earth-and-envirosci-1:before {
+  content: "\e036";
+}
+.ic-i-life-sciences-ornitology:before {
+  content: "\e037";
+}
+.ic-i-physical-sciences-statistics:before {
+  content: "\e038";
+}
+.ic-i-social-sciences-and-humanities-language-and-linguistics:before {
+  content: "\e039";
+}
+.ic-i-social-sciences-and-humanities-history:before {
+  content: "\e03a";
+}
+.ic-i-physical-sciences-polymersci-and-tech:before {
+  content: "\e03b";
+}
+.ic-i-life-sciences-neuroscience:before {
+  content: "\e03c";
+}
+.ic-i-life-sciences-devbio:before {
+  content: "\e03d";
+}
+.ic-i-life-sciences-comparativebio:before {
+  content: "\e03e";
+}
+.ic-i-life-sciences-microscopy:before {
+  content: "\e03f";
+}
+.ic-i-physical-sciences-physics:before {
+  content: "\e040";
+}
+.ic-i-social-sciences-and-humanities-geography:before {
+  content: "\e041";
+}
+.ic-i-social-sciences-and-humanities-film:before {
+  content: "\e042";
+}
+.ic-i-physical-sciences-maths:before {
+  content: "\e043";
+}
+.ic-i-life-sciences-microbiology-and-virology:before {
+  content: "\e044";
+}
+.ic-i-life-sciences-cells-and-molecularbio:before {
+  content: "\e045";
+}
+.ic-i-life-sciences-aquaticsci-2:before {
+  content: "\e046";
+}
+.ic-i-life-sciences-genetics:before {
+  content: "\e047";
+}
+.ic-i-physical-sciences-materialsci:before {
+  content: "\e048";
+}
+.ic-i-social-sciences-and-humanities-education:before {
+  content: "\e049";
+}

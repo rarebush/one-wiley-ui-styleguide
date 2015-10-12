@@ -1,0 +1,36 @@
+---
+fabricator: true
+title: Footers
+---
+
+<div class="f--section f--section--light">
+    <div class="f--section__max-width">
+        <h1 class="f--page-title f--page-title--teal" data-f-toggle="labels">Footers</h1>
+    </div>
+</div>
+
+<div class="f--section">
+    <div class="f--section__max-width f--section--hr">
+        <h2>Footer specification</h2>
+        <p>Footers vary from product to product and should follow the guidelines set out in this styleguide and the One Wiley Brand Guidelines.</p>
+        <p>To see an example footer in a full-width page context, please <a href="footers-noui.html">click here</a>.</p>
+        <p>There are specific requirements for the copyright strapline, please <a href="structures.html#copyright-line">click here</a> for more information.</p>
+        <p><strong>All Wiley footers should reflect this specification before the end of 2015.</strong></p>
+    </div>
+</div>
+
+{{#each materials.footers.items}}
+
+<div class="f--section">
+    <div class="f--section__max-width">
+        {{> f-item this}}
+    </div>
+</div>
+
+{{/each}}
+
+<div class="f--section footer">
+    <div class="f--section__max-width">
+<!--        <a href="footers.html" class="footer__text">Footers<span class="oi" data-glyph="chevron-right"></span></a>-->
+    </div>
+</div>

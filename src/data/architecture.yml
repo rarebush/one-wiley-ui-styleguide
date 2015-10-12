@@ -1,0 +1,50 @@
+levels:
+    corporate:
+        name: "Corporate Brand"
+        description: "The Wiley Corporate Brand appears when communicating the business as a whole, rather than a specific service or product."
+        examples:
+            - wiley.com
+            - Building signage
+            - Business cards
+    core:
+        name: "Core business and internal activities"
+        description: "The Wiley Core business and internal activities exist as entities but they are not customer-facing. They may implement the One Wiley Visual Language where possible."
+        examples:
+            - Wiley Portal
+            - Global Brand Committee
+            - Talent Solutions
+    subject:
+        name: "Wiley subjects"
+        description: "Subjects are a cross-business grouping of products within a single category. They are a way to collate and communicate publications and services in a cohesive manner while simultaneously expressing the One Wiley Visual Language."
+        examples:
+            - Psychology
+            - Architecture
+            - Health
+    brand:
+        name: "Wiley brand"
+        description: "The brand and trade name under which work is published. Publishers may use brands to market a group of publications or content to a specific audience or identity a specific genre. A brand is more than a name. It needs to have unique associations, awareness, and equity. Brands are owned by Wiley and not businesses or corporations."
+        examples:
+            - Dummies
+            - Capstone
+            - Sybex
+    series:
+        name: "Series"
+        description: "Similar to Subjects, a series is a sequence of publications that have certain characteristics or an organizational theme in common."
+        examples:
+            - Wiley Visualizing
+            - Wiley Graphic Standards
+            - Building Codes Illustrated
+    product:
+        name: "Wiley products and services"
+        description: "A good that satisfies a set of requirements to meet the needs of a particular user group. Products and services can adopt their own Brand or be a part of an established Wiley or Partnership brand."
+        examples:
+            - Wiley Online Library
+            - Wiley Health Learning
+            - WileyPLUS
+    partner:
+        name: "Partnership"
+        description: "An arrangement between different organizations or publishers whereby both parties agree to cooperate to advance their mutual interest. Partnerships differ from brands in that Wiley does not have full ownership of the partner’s brand."
+        examples:
+            - Cochrane Library
+            - Wiley IEEE
+            - AGU and other societies

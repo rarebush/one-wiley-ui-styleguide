@@ -1,33 +1,48 @@
 ---
-title: One Wiley UI Guidelines
+title: Wiley's UI Living Style Guide
 fabricator: true
 ---
 
 <div class="f--section f--section--light">
     <div class="f--section__max-width">
-        <h1 class="f--page-title f--page-title--teal">One Wiley UI Guidelines</h1>
+        <h1 class="f--page-title f--page-title--teal">Wiley's UI Living Style Guide</h1>
     </div>
 </div>
 
 <div class="f--section">
     <div class="f--section__max-width f--section--hr">
         <h2 class="f--heading">Introduction</h2>
-        <p>This UI toolkit is an accessory to the <a class="lnk lnk--fab" href="#">One Wiley Brand Guidelines</a>. The purpose of the contents here is to document and communicate the various UI elements that appear across the Wiley digital product portfolio. Once inside the toolkit, the assets are easily discoverabe by <a class="lnk lnk--fab" href="#">element type</a>, <a class="lnk lnk--fab" href="#">project</a>, <a class="lnk lnk--fab" href="#">relation to the wiley brand</a> and <a class="lnk lnk--fab" href="#">device</a>.</p>
+        <p>Wiley’s UI Living Style Guide is an accessory to the <a class="f--link" href="http://portal.wiley.com/sites/mrc/brand/Pages/Guidelines%20-%20Templates.aspx">One Wiley Brand Guidelines</a>. The purpose of this style guide is to help inform the design of digital products such as websites, web apps, and mobile apps. Like the One Wiley Brand Guidelines, this living style guide is meant to be flexible, and it will evolve over time. The intention is that UI designers start using it as much as possible over time, so please check back here when starting a new digital initiative.</p>
+        <p>Currently the toolkit only includes some fundamental elements of the One Wiley visual language and several <a class="f--link" href="/footers.html">footer templates</a>. In the future we aim to increase the scope of the One Wiley UI Guidelines to encompass a wide range of HTML and CSS components that can be easily dropped into future websites and applications.</p>
 
-        <p>The UI guidelines are a highly-modular design system for rapid web page development. It contains different materials that can be assembled into more complex components and page layouts.</p>
+        <div class="intro-links">
+            <div class="intro-link">
+                <a href="http://portal.wiley.com/sites/mrc/brand/Pages/Guidelines%20-%20Templates.aspx">
+                    <img src="{{baseurl}}/assets/toolkit/images/wic-download-document.svg" class="wic wic--round wic--orange-dark">
+                    <span class="intro-link__text">View the One Wiley Brand Guidelines</span>
+                </a>
+            </div>
+            <div class="intro-link">
+                <a href="http://portal.wiley.com/sites/mrc/brand/">
+                    <img src="{{baseurl}}/assets/toolkit/images/wic-book.svg" class="wic wic--round wic--orange-dark">
+                    <span class="intro-link__text">Read about the One Wiley Brand</span>
+                </a>
+            </div>
+        </div>
+        <h5>Contractors: If you are unable to access the One Wiley Brand Guidelines using the links above, please consult with an internal contact at Wiley.</h5>
     </div>
 </div>
 
 <div class="f--section f--section--hr">
     <div class="f--section__max-width f--section--hr">
         <h2 class="f--heading">How to use these guidelines</h2>
-        <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into xx key sections that should provide a good understanding of what to do and how to do it.</p>
-        <p>Whilst we’ve covered off many examples and step by step guides, there will always be some exceptions to the rules, or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. But if there’s anything that you’re not 100% sure about then please feel free to contact a member of the brand team. Their details are on the back cover.</p>
+        <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into nine key sections that should provide a good understanding of what to do and how to do it.</p>
+        <p>While we’ve provided many examples, there will always be some exceptions to the rules or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. If there’s something that you’re not 100% sure about, then please feel free to <a href="index.html#contact">contact a member of the UI Living Style Guide team</a>.</p>
         <div class="foundations">
-            <h3 class="h--centred">The Foundations</h3>
+            <h3 class="centred">The Toolkit</h3>
             <ul>
-                {{#each materials.foundations.items}}
-                <li><a href="foundations.html#{{@key}}"><span class="section-label">{{name}}</span></a></li>
+                {{#each materials.toolkit.items}}
+                <li><a href="toolkit.html#{{@key}}"><span class="section-label">{{name}}</span></a></li>
                 {{/each}}
             </ul>
         </div>
@@ -47,9 +62,40 @@ fabricator: true
 -->
 
 <div class="f--section">
-    <div class="f--section__max-width">
+    <div class="f--section__max-width f--section--hr">
         <h2 class="f--heading">Our brand architecture</h2>
-        <p>These guidelines have been designed to ensure we have a consistent, yet flexible brand look and feel across all of Wiley. They’ve been divided into xx key sections that should provide a good understanding of what to do and how to do it.</p>
-        <p>Whilst we’ve covered off many examples and step by step guides, there will always be some exceptions to the rules, or questions that remain unanswered. If you find yourself in such a situation, then do your best to come to a sensible conclusion. But if there’s anything that you’re not 100% sure about then please feel free to contact a member of the brand team. Their details are on the back cover.</p>
+        <p>Wiley has a direct relationship with an increasing amount of products and brands. Some are sub-brands of Wiley, others communicate their own identity to a particular user group.</p>
+        <p>To illustrate the broad range of distinct online products Wiley helps facilitate, we have created the diagram below.</p>
+        <div class="ow-brand-diagram">
+            <ul class="brand-levels">
+                {{#each architecture.levels}}
+                <li class="brand-level">
+                    <span class="brand-level__heading">{{this.name}}</span>
+                    <div class="brand-level__body">
+                        <p>{{this.description}}</p>
+                        <p>Some examples include:</p>
+                        <ul>
+                            {{#each this.examples}}
+                            <li>{{this}}</li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="contact" class="f--section">
+    <div class="f--section__max-width">
+        <h2 class="f--heading">Contact us about these guidelines</h2>
+        <p>The effort to maintain this living style guide is currently being undertaken by <a href="mailto:lkling@wiley.com?Subject=UI%20Guidelines" target="_top">Lea Kling <span class="oi" data-glyph="envelope-closed"></span></a> and <a href="mailto:sallen@wiley.com?Subject=UI%20Guidelines" target="_top">Stuart Allen <span class="oi" data-glyph="envelope-closed"></span></a>.</p>
+    </div>
+</div>
+
+<div class="f--section footer">
+    <div class="f--section__max-width">
+        <a href="toolkit.html" class="footer__text">Toolkit<span class="oi" data-glyph="chevron-right"></span></a>
     </div>
 </div>
