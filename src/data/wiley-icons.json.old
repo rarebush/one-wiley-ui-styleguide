@@ -1,0 +1,2690 @@
+[
+		{
+			"x": "15.60",
+			"y": "23.26",
+			"r": "76.28",
+			"b": "67.96",
+			"width": "60.68",
+			"height": "44.70",
+			"layername": "social-sciences-and-humanities-urban-devstudies.svg",
+			"name": "social-sciences-and-humanities-urban-devstudies",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-urban-devstudies.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.17",
+			"y": "20.20",
+			"r": "69.79",
+			"b": "80.07",
+			"width": "45.62",
+			"height": "59.87",
+			"layername": "social-sciences-and-humanities-sociology.svg",
+			"name": "social-sciences-and-humanities-sociology",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-sociology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.60",
+			"y": "20.59",
+			"r": "73.44",
+			"b": "80.28",
+			"width": "52.84",
+			"height": "59.69",
+			"layername": "social-sciences-and-humanities-religion-and-theology.svg",
+			"name": "social-sciences-and-humanities-religion-and-theology",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-religion-and-theology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.30",
+			"y": "18.19",
+			"r": "77.73",
+			"b": "86.52",
+			"width": "57.43",
+			"height": "68.33",
+			"layername": "social-sciences-and-humanities-psychology.svg",
+			"name": "social-sciences-and-humanities-psychology",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-psychology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.42",
+			"y": "22.48",
+			"r": "67.13",
+			"b": "82.77",
+			"width": "41.71",
+			"height": "60.29",
+			"layername": "social-sciences-and-humanities-politics.svg",
+			"name": "social-sciences-and-humanities-politics",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-politics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "28.09",
+			"y": "23.48",
+			"r": "70.32",
+			"b": "83.60",
+			"width": "42.23",
+			"height": "60.12",
+			"layername": "social-sciences-and-humanities-philosophy.svg",
+			"name": "social-sciences-and-humanities-philosophy",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-philosophy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.55",
+			"y": "28.53",
+			"r": "73.01",
+			"b": "72.38",
+			"width": "53.46",
+			"height": "43.85",
+			"layername": "social-sciences-and-humanities-literature.svg",
+			"name": "social-sciences-and-humanities-literature",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-literature.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.96",
+			"y": "23.20",
+			"r": "77.10",
+			"b": "80.35",
+			"width": "61.14",
+			"height": "57.15",
+			"layername": "social-sciences-and-humanities-language-and-linguistics.svg",
+			"name": "social-sciences-and-humanities-language-and-linguistics",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-language-and-linguistics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.53",
+			"y": "19.30",
+			"r": "69.03",
+			"b": "84.39",
+			"width": "45.50",
+			"height": "65.09",
+			"layername": "social-sciences-and-humanities-history.svg",
+			"name": "social-sciences-and-humanities-history",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-history.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.48",
+			"y": "26.49",
+			"r": "73.63",
+			"b": "77.40",
+			"width": "55.15",
+			"height": "50.91",
+			"layername": "social-sciences-and-humanities-geography.svg",
+			"name": "social-sciences-and-humanities-geography",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-geography.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.12",
+			"y": "20.19",
+			"r": "74.79",
+			"b": "82.38",
+			"width": "52.67",
+			"height": "62.19",
+			"layername": "social-sciences-and-humanities-film.svg",
+			"name": "social-sciences-and-humanities-film",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-film.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.83",
+			"y": "29.52",
+			"r": "77.03",
+			"b": "71.37",
+			"width": "61.20",
+			"height": "41.85",
+			"layername": "social-sciences-and-humanities-education.svg",
+			"name": "social-sciences-and-humanities-education",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-education.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.83",
+			"y": "29.70",
+			"r": "74.72",
+			"b": "74.17",
+			"width": "56.89",
+			"height": "44.47",
+			"layername": "social-sciences-and-humanities-econ.svg",
+			"name": "social-sciences-and-humanities-econ",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-econ.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.62",
+			"y": "25.69",
+			"r": "76.92",
+			"b": "81.38",
+			"width": "61.30",
+			"height": "55.69",
+			"layername": "social-sciences-and-humanities-comm-and-cultstudies.svg",
+			"name": "social-sciences-and-humanities-comm-and-cultstudies",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-comm-and-cultstudies.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.39",
+			"y": "27.50",
+			"r": "74.33",
+			"b": "84.98",
+			"width": "55.94",
+			"height": "57.48",
+			"layername": "social-sciences-and-humanities-classics.svg",
+			"name": "social-sciences-and-humanities-classics",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-classics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.22",
+			"y": "27.01",
+			"r": "75.11",
+			"b": "83.06",
+			"width": "56.89",
+			"height": "56.05",
+			"layername": "social-sciences-and-humanities-business.svg",
+			"name": "social-sciences-and-humanities-business",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-business.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.54",
+			"y": "29.93",
+			"r": "74.01",
+			"b": "73.76",
+			"width": "55.47",
+			"height": "43.83",
+			"layername": "social-sciences-and-humanities-arts-and-appliedarts.svg",
+			"name": "social-sciences-and-humanities-arts-and-appliedarts",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-arts-and-appliedarts.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.82",
+			"y": "18.04",
+			"r": "71.35",
+			"b": "85.66",
+			"width": "50.53",
+			"height": "67.62",
+			"layername": "social-sciences-and-humanities-anthropology.svg",
+			"name": "social-sciences-and-humanities-anthropology",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-anthropology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.67",
+			"y": "24.96",
+			"r": "67.26",
+			"b": "80.60",
+			"width": "42.59",
+			"height": "55.64",
+			"layername": "social-sciences-and-humanities-acct-finance.svg",
+			"name": "social-sciences-and-humanities-acct-finance",
+			"type": "svg",
+			"filename": "social-sciences-and-humanities-acct-finance.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.60",
+			"y": "25.10",
+			"r": "74.95",
+			"b": "78.59",
+			"width": "57.35",
+			"height": "53.49",
+			"layername": "physical-sciences-statistics.svg",
+			"name": "physical-sciences-statistics",
+			"type": "svg",
+			"filename": "physical-sciences-statistics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "26.87",
+			"y": "29.31",
+			"r": "66.36",
+			"b": "74.38",
+			"width": "39.49",
+			"height": "45.07",
+			"layername": "physical-sciences-statistics-and-maths.svg",
+			"name": "physical-sciences-statistics-and-maths",
+			"type": "svg",
+			"filename": "physical-sciences-statistics-and-maths.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.32",
+			"y": "23.58",
+			"r": "77.70",
+			"b": "77.18",
+			"width": "55.38",
+			"height": "53.60",
+			"layername": "physical-sciences-polymersci-and-tech.svg",
+			"name": "physical-sciences-polymersci-and-tech",
+			"type": "svg",
+			"filename": "physical-sciences-polymersci-and-tech.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.15",
+			"y": "22.99",
+			"r": "78.40",
+			"b": "80.70",
+			"width": "64.25",
+			"height": "57.71",
+			"layername": "physical-sciences-physics.svg",
+			"name": "physical-sciences-physics",
+			"type": "svg",
+			"filename": "physical-sciences-physics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.82",
+			"y": "19.04",
+			"r": "75.73",
+			"b": "84.65",
+			"width": "58.91",
+			"height": "65.61",
+			"layername": "physical-sciences-maths.svg",
+			"name": "physical-sciences-maths",
+			"type": "svg",
+			"filename": "physical-sciences-maths.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.33",
+			"y": "19.28",
+			"r": "76.22",
+			"b": "84.42",
+			"width": "59.89",
+			"height": "65.14",
+			"layername": "physical-sciences-materialsci.svg",
+			"name": "physical-sciences-materialsci",
+			"type": "svg",
+			"filename": "physical-sciences-materialsci.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.51",
+			"y": "16.27",
+			"r": "68.05",
+			"b": "86.40",
+			"width": "43.54",
+			"height": "70.13",
+			"layername": "physical-sciences-energy.svg",
+			"name": "physical-sciences-energy",
+			"type": "svg",
+			"filename": "physical-sciences-energy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.85",
+			"y": "17.06",
+			"r": "76.27",
+			"b": "86.64",
+			"width": "61.42",
+			"height": "69.58",
+			"layername": "physical-sciences-electrical-and-electroniceng.svg",
+			"name": "physical-sciences-electrical-and-electroniceng",
+			"type": "svg",
+			"filename": "physical-sciences-electrical-and-electroniceng.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.42",
+			"y": "23.12",
+			"r": "73.14",
+			"b": "80.57",
+			"width": "53.72",
+			"height": "57.45",
+			"layername": "physical-sciences-chemistrydata.svg",
+			"name": "physical-sciences-chemistrydata",
+			"type": "svg",
+			"filename": "physical-sciences-chemistrydata.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.25",
+			"y": "19.01",
+			"r": "75.30",
+			"b": "76.68",
+			"width": "58.05",
+			"height": "57.67",
+			"layername": "physical-sciences-chemistry.svg",
+			"name": "physical-sciences-chemistry",
+			"type": "svg",
+			"filename": "physical-sciences-chemistry.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.13",
+			"y": "19.45",
+			"r": "66.26",
+			"b": "79.32",
+			"width": "45.13",
+			"height": "59.87",
+			"layername": "physical-sciences-chemicaleng.svg",
+			"name": "physical-sciences-chemicaleng",
+			"type": "svg",
+			"filename": "physical-sciences-chemicaleng.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.61",
+			"y": "17.53",
+			"r": "73.94",
+			"b": "86.17",
+			"width": "55.33",
+			"height": "68.64",
+			"layername": "life-sciences-plantsci.svg",
+			"name": "life-sciences-plantsci",
+			"type": "svg",
+			"filename": "life-sciences-plantsci.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.76",
+			"y": "32.60",
+			"r": "80.00",
+			"b": "82.16",
+			"width": "66.24",
+			"height": "49.56",
+			"layername": "life-sciences-pharmacology-and-drug-discovery.svg",
+			"name": "life-sciences-pharmacology-and-drug-discovery",
+			"type": "svg",
+			"filename": "life-sciences-pharmacology-and-drug-discovery.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.42",
+			"y": "20.93",
+			"r": "67.89",
+			"b": "82.90",
+			"width": "49.47",
+			"height": "61.97",
+			"layername": "life-sciences-parasitology.svg",
+			"name": "life-sciences-parasitology",
+			"type": "svg",
+			"filename": "life-sciences-parasitology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.57",
+			"y": "27.23",
+			"r": "73.99",
+			"b": "76.46",
+			"width": "55.42",
+			"height": "49.23",
+			"layername": "life-sciences-ornitology.svg",
+			"name": "life-sciences-ornitology",
+			"type": "svg",
+			"filename": "life-sciences-ornitology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.57",
+			"y": "27.82",
+			"r": "75.98",
+			"b": "74.32",
+			"width": "59.41",
+			"height": "46.50",
+			"layername": "life-sciences-neuroscience.svg",
+			"name": "life-sciences-neuroscience",
+			"type": "svg",
+			"filename": "life-sciences-neuroscience.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.83",
+			"y": "21.10",
+			"r": "67.45",
+			"b": "80.91",
+			"width": "48.62",
+			"height": "59.81",
+			"layername": "life-sciences-microscopy.svg",
+			"name": "life-sciences-microscopy",
+			"type": "svg",
+			"filename": "life-sciences-microscopy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.53",
+			"y": "16.76",
+			"r": "67.10",
+			"b": "80.28",
+			"width": "44.57",
+			"height": "63.52",
+			"layername": "life-sciences-microbiology-and-virology.svg",
+			"name": "life-sciences-microbiology-and-virology",
+			"type": "svg",
+			"filename": "life-sciences-microbiology-and-virology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.73",
+			"y": "18.61",
+			"r": "70.03",
+			"b": "85.08",
+			"width": "47.30",
+			"height": "66.47",
+			"layername": "life-sciences-genetics.svg",
+			"name": "life-sciences-genetics",
+			"type": "svg",
+			"filename": "life-sciences-genetics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "26.07",
+			"y": "20.76",
+			"r": "64.80",
+			"b": "86.63",
+			"width": "38.73",
+			"height": "65.87",
+			"layername": "life-sciences-gen-and-introsci.svg",
+			"name": "life-sciences-gen-and-introsci",
+			"type": "svg",
+			"filename": "life-sciences-gen-and-introsci.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.11",
+			"y": "19.64",
+			"r": "77.11",
+			"b": "80.95",
+			"width": "64.00",
+			"height": "61.31",
+			"layername": "life-sciences-gen-and-humanbio.svg",
+			"name": "life-sciences-gen-and-humanbio",
+			"type": "svg",
+			"filename": "life-sciences-gen-and-humanbio.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.27",
+			"y": "17.24",
+			"r": "74.14",
+			"b": "76.22",
+			"width": "62.87",
+			"height": "58.98",
+			"layername": "life-sciences-forensicsci.svg",
+			"name": "life-sciences-forensicsci",
+			"type": "svg",
+			"filename": "life-sciences-forensicsci.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.25",
+			"y": "18.82",
+			"r": "75.30",
+			"b": "75.80",
+			"width": "58.05",
+			"height": "56.98",
+			"layername": "life-sciences-foodsci.svg",
+			"name": "life-sciences-foodsci",
+			"type": "svg",
+			"filename": "life-sciences-foodsci.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.34",
+			"y": "19.46",
+			"r": "75.43",
+			"b": "82.59",
+			"width": "59.09",
+			"height": "63.13",
+			"layername": "life-sciences-evolution.svg",
+			"name": "life-sciences-evolution",
+			"type": "svg",
+			"filename": "life-sciences-evolution.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.30",
+			"y": "18.13",
+			"r": "79.54",
+			"b": "74.14",
+			"width": "59.24",
+			"height": "56.01",
+			"layername": "life-sciences-entomology.svg",
+			"name": "life-sciences-entomology",
+			"type": "svg",
+			"filename": "life-sciences-entomology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.45",
+			"y": "22.73",
+			"r": "79.38",
+			"b": "83.22",
+			"width": "63.93",
+			"height": "60.49",
+			"layername": "life-sciences-ecology.svg",
+			"name": "life-sciences-ecology",
+			"type": "svg",
+			"filename": "life-sciences-ecology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.48",
+			"y": "20.76",
+			"r": "80.37",
+			"b": "79.82",
+			"width": "67.89",
+			"height": "59.06",
+			"layername": "life-sciences-earth-and-envirosci-2.svg",
+			"name": "life-sciences-earth-and-envirosci-2",
+			"type": "svg",
+			"filename": "life-sciences-earth-and-envirosci-2.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.82",
+			"y": "17.11",
+			"r": "78.73",
+			"b": "78.19",
+			"width": "64.91",
+			"height": "61.08",
+			"layername": "life-sciences-earth-and-envirosci-1.svg",
+			"name": "life-sciences-earth-and-envirosci-1",
+			"type": "svg",
+			"filename": "life-sciences-earth-and-envirosci-1.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.31",
+			"y": "16.88",
+			"r": "81.25",
+			"b": "86.82",
+			"width": "69.94",
+			"height": "69.94",
+			"layername": "life-sciences-devbio.svg",
+			"name": "life-sciences-devbio",
+			"type": "svg",
+			"filename": "life-sciences-devbio.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.52",
+			"y": "18.57",
+			"r": "80.13",
+			"b": "83.93",
+			"width": "67.61",
+			"height": "65.36",
+			"layername": "life-sciences-comparativebio.svg",
+			"name": "life-sciences-comparativebio",
+			"type": "svg",
+			"filename": "life-sciences-comparativebio.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.47",
+			"y": "24.83",
+			"r": "79.08",
+			"b": "78.86",
+			"width": "65.61",
+			"height": "54.03",
+			"layername": "life-sciences-cells-and-molecularbio.svg",
+			"name": "life-sciences-cells-and-molecularbio",
+			"type": "svg",
+			"filename": "life-sciences-cells-and-molecularbio.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.27",
+			"y": "21.93",
+			"r": "80.92",
+			"b": "71.41",
+			"width": "69.65",
+			"height": "49.48",
+			"layername": "life-sciences-aquaticsci-2.svg",
+			"name": "life-sciences-aquaticsci-2",
+			"type": "svg",
+			"filename": "life-sciences-aquaticsci-2.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.73",
+			"y": "22.59",
+			"r": "77.82",
+			"b": "72.63",
+			"width": "63.09",
+			"height": "50.04",
+			"layername": "life-sciences-aquaticsci-1.svg",
+			"name": "life-sciences-aquaticsci-1",
+			"type": "svg",
+			"filename": "life-sciences-aquaticsci-1.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.79",
+			"y": "28.61",
+			"r": "73.41",
+			"b": "76.87",
+			"width": "61.62",
+			"height": "48.26",
+			"layername": "life-sciences-animalsci-and-zoo.svg",
+			"name": "life-sciences-animalsci-and-zoo",
+			"type": "svg",
+			"filename": "life-sciences-animalsci-and-zoo.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "34.01",
+			"y": "16.56",
+			"r": "58.55",
+			"b": "87.13",
+			"width": "24.54",
+			"height": "70.57",
+			"layername": "life-sciences-agriculture.svg",
+			"name": "life-sciences-agriculture",
+			"type": "svg",
+			"filename": "life-sciences-agriculture.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.28",
+			"y": "17.65",
+			"r": "74.28",
+			"b": "85.42",
+			"width": "56.00",
+			"height": "67.77",
+			"layername": "health-sciences-vetmed.svg",
+			"name": "health-sciences-vetmed",
+			"type": "svg",
+			"filename": "health-sciences-vetmed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.25",
+			"y": "28.79",
+			"r": "78.30",
+			"b": "85.42",
+			"width": "64.05",
+			"height": "56.63",
+			"layername": "health-sciences-urology.svg",
+			"name": "health-sciences-urology",
+			"type": "svg",
+			"filename": "health-sciences-urology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.47",
+			"y": "21.93",
+			"r": "74.94",
+			"b": "75.21",
+			"width": "57.47",
+			"height": "53.28",
+			"layername": "health-sciences-transplantation.svg",
+			"name": "health-sciences-transplantation",
+			"type": "svg",
+			"filename": "health-sciences-transplantation.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.79",
+			"y": "25.77",
+			"r": "72.75",
+			"b": "75.60",
+			"width": "52.96",
+			"height": "49.83",
+			"layername": "health-sciences-surgery.svg",
+			"name": "health-sciences-surgery",
+			"type": "svg",
+			"filename": "health-sciences-surgery.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.76",
+			"y": "16.83",
+			"r": "76.47",
+			"b": "85.98",
+			"width": "64.71",
+			"height": "69.15",
+			"layername": "health-sciences-sportsmed.svg",
+			"name": "health-sciences-sportsmed",
+			"type": "svg",
+			"filename": "health-sciences-sportsmed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.00",
+			"y": "22.01",
+			"r": "69.47",
+			"b": "81.69",
+			"width": "44.47",
+			"height": "59.68",
+			"layername": "health-sciences-rheumatology.svg",
+			"name": "health-sciences-rheumatology",
+			"type": "svg",
+			"filename": "health-sciences-rheumatology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.07",
+			"y": "16.68",
+			"r": "76.73",
+			"b": "73.53",
+			"width": "60.66",
+			"height": "56.85",
+			"layername": "health-sciences-respiratorymed.svg",
+			"name": "health-sciences-respiratorymed",
+			"type": "svg",
+			"filename": "health-sciences-respiratorymed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.30",
+			"y": "18.19",
+			"r": "77.73",
+			"b": "83.64",
+			"width": "57.43",
+			"height": "65.45",
+			"layername": "health-sciences-psychiatry.svg",
+			"name": "health-sciences-psychiatry",
+			"type": "svg",
+			"filename": "health-sciences-psychiatry.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "28.34",
+			"y": "19.21",
+			"r": "64.21",
+			"b": "79.79",
+			"width": "35.87",
+			"height": "60.58",
+			"layername": "health-sciences-pharmacology.svg",
+			"name": "health-sciences-pharmacology",
+			"type": "svg",
+			"filename": "health-sciences-pharmacology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.80",
+			"y": "19.03",
+			"r": "75.75",
+			"b": "80.39",
+			"width": "58.95",
+			"height": "61.36",
+			"layername": "health-sciences-pediatrics.svg",
+			"name": "health-sciences-pediatrics",
+			"type": "svg",
+			"filename": "health-sciences-pediatrics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.24",
+			"y": "18.20",
+			"r": "66.76",
+			"b": "79.30",
+			"width": "42.52",
+			"height": "61.10",
+			"layername": "health-sciences-pathology.svg",
+			"name": "health-sciences-pathology",
+			"type": "svg",
+			"filename": "health-sciences-pathology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.55",
+			"y": "17.40",
+			"r": "76.66",
+			"b": "81.32",
+			"width": "65.11",
+			"height": "63.92",
+			"layername": "health-sciences-painmed.svg",
+			"name": "health-sciences-painmed",
+			"type": "svg",
+			"filename": "health-sciences-painmed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "29.45",
+			"y": "21.93",
+			"r": "69.72",
+			"b": "84.49",
+			"width": "40.27",
+			"height": "62.56",
+			"layername": "health-sciences-otolaryngology.svg",
+			"name": "health-sciences-otolaryngology",
+			"type": "svg",
+			"filename": "health-sciences-otolaryngology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.99",
+			"y": "34.82",
+			"r": "74.56",
+			"b": "68.87",
+			"width": "56.57",
+			"height": "34.05",
+			"layername": "health-sciences-ophthalmology.svg",
+			"name": "health-sciences-ophthalmology",
+			"type": "svg",
+			"filename": "health-sciences-ophthalmology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.54",
+			"y": "22.70",
+			"r": "80.91",
+			"b": "75.86",
+			"width": "66.37",
+			"height": "53.16",
+			"layername": "health-sciences-oncology.svg",
+			"name": "health-sciences-oncology",
+			"type": "svg",
+			"filename": "health-sciences-oncology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.14",
+			"y": "18.04",
+			"r": "78.27",
+			"b": "81.53",
+			"width": "66.13",
+			"height": "63.49",
+			"layername": "health-sciences-occupationalhealth.svg",
+			"name": "health-sciences-occupationalhealth",
+			"type": "svg",
+			"filename": "health-sciences-occupationalhealth.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.99",
+			"y": "18.59",
+			"r": "79.88",
+			"b": "78.86",
+			"width": "58.89",
+			"height": "60.27",
+			"layername": "health-sciences-occupation-and-phytherapy.svg",
+			"name": "health-sciences-occupation-and-phytherapy",
+			"type": "svg",
+			"filename": "health-sciences-occupation-and-phytherapy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "29.21",
+			"y": "17.10",
+			"r": "64.54",
+			"b": "86.12",
+			"width": "35.33",
+			"height": "69.02",
+			"layername": "health-sciences-ob-gyn.svg",
+			"name": "health-sciences-ob-gyn",
+			"type": "svg",
+			"filename": "health-sciences-ob-gyn.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.31",
+			"y": "17.88",
+			"r": "80.24",
+			"b": "85.81",
+			"width": "67.93",
+			"height": "67.93",
+			"layername": "health-sciences-nutrition.svg",
+			"name": "health-sciences-nutrition",
+			"type": "svg",
+			"filename": "health-sciences-nutrition.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.35",
+			"y": "16.84",
+			"r": "75.72",
+			"b": "78.15",
+			"width": "58.37",
+			"height": "61.31",
+			"layername": "health-sciences-nursing.svg",
+			"name": "health-sciences-nursing",
+			"type": "svg",
+			"filename": "health-sciences-nursing.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.97",
+			"y": "16.01",
+			"r": "79.15",
+			"b": "85.90",
+			"width": "61.18",
+			"height": "69.89",
+			"layername": "health-sciences-neurology.svg",
+			"name": "health-sciences-neurology",
+			"type": "svg",
+			"filename": "health-sciences-neurology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.74",
+			"y": "31.20",
+			"r": "80.81",
+			"b": "72.50",
+			"width": "69.07",
+			"height": "41.30",
+			"layername": "health-sciences-nephrology.svg",
+			"name": "health-sciences-nephrology",
+			"type": "svg",
+			"filename": "health-sciences-nephrology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.15",
+			"y": "22.99",
+			"r": "78.40",
+			"b": "80.70",
+			"width": "64.25",
+			"height": "57.71",
+			"layername": "health-sciences-molecularmed.svg",
+			"name": "health-sciences-molecularmed",
+			"type": "svg",
+			"filename": "health-sciences-molecularmed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.83",
+			"y": "29.52",
+			"r": "77.03",
+			"b": "71.37",
+			"width": "61.20",
+			"height": "41.85",
+			"layername": "health-sciences-meded.svg",
+			"name": "health-sciences-meded",
+			"type": "svg",
+			"filename": "health-sciences-meded.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.96",
+			"y": "23.20",
+			"r": "77.10",
+			"b": "80.35",
+			"width": "61.14",
+			"height": "57.15",
+			"layername": "health-sciences-language-and-speech.svg",
+			"name": "health-sciences-language-and-speech",
+			"type": "svg",
+			"filename": "health-sciences-language-and-speech.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.39",
+			"y": "17.42",
+			"r": "81.16",
+			"b": "86.28",
+			"width": "69.77",
+			"height": "68.86",
+			"layername": "health-sciences-infectiousdis.svg",
+			"name": "health-sciences-infectiousdis",
+			"type": "svg",
+			"filename": "health-sciences-infectiousdis.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.27",
+			"y": "17.34",
+			"r": "81.28",
+			"b": "86.35",
+			"width": "70.01",
+			"height": "69.01",
+			"layername": "health-sciences-immunology.svg",
+			"name": "health-sciences-immunology",
+			"type": "svg",
+			"filename": "health-sciences-immunology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.93",
+			"y": "17.03",
+			"r": "72.62",
+			"b": "75.90",
+			"width": "52.69",
+			"height": "58.87",
+			"layername": "health-sciences-imaging-radiology.svg",
+			"name": "health-sciences-imaging-radiology",
+			"type": "svg",
+			"filename": "health-sciences-imaging-radiology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.18",
+			"y": "26.44",
+			"r": "78.14",
+			"b": "76.47",
+			"width": "62.96",
+			"height": "50.03",
+			"layername": "health-sciences-hepatlogy.svg",
+			"name": "health-sciences-hepatlogy",
+			"type": "svg",
+			"filename": "health-sciences-hepatlogy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.92",
+			"y": "17.34",
+			"r": "68.63",
+			"b": "84.80",
+			"width": "44.71",
+			"height": "67.46",
+			"layername": "health-sciences-hematology-and-transfusion.svg",
+			"name": "health-sciences-hematology-and-transfusion",
+			"type": "svg",
+			"filename": "health-sciences-hematology-and-transfusion.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.62",
+			"y": "28.14",
+			"r": "76.93",
+			"b": "75.55",
+			"width": "61.31",
+			"height": "47.41",
+			"layername": "health-sciences-health-and-soccare.svg",
+			"name": "health-sciences-health-and-soccare",
+			"type": "svg",
+			"filename": "health-sciences-health-and-soccare.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.19",
+			"y": "17.13",
+			"r": "62.02",
+			"b": "84.43",
+			"width": "38.83",
+			"height": "67.30",
+			"layername": "health-sciences-geriatrics.svg",
+			"name": "health-sciences-geriatrics",
+			"type": "svg",
+			"filename": "health-sciences-geriatrics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.73",
+			"y": "18.61",
+			"r": "70.03",
+			"b": "85.08",
+			"width": "47.30",
+			"height": "66.47",
+			"layername": "health-sciences-genetics.svg",
+			"name": "health-sciences-genetics",
+			"type": "svg",
+			"filename": "health-sciences-genetics.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.20",
+			"y": "21.46",
+			"r": "80.36",
+			"b": "86.46",
+			"width": "60.16",
+			"height": "65.00",
+			"layername": "health-sciences-gen-and-internalmed.svg",
+			"name": "health-sciences-gen-and-internalmed",
+			"type": "svg",
+			"filename": "health-sciences-gen-and-internalmed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.15",
+			"y": "24.91",
+			"r": "80.10",
+			"b": "75.58",
+			"width": "60.95",
+			"height": "50.67",
+			"layername": "health-sciences-gastroenterology.svg",
+			"name": "health-sciences-gastroenterology",
+			"type": "svg",
+			"filename": "health-sciences-gastroenterology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.26",
+			"y": "24.05",
+			"r": "73.30",
+			"b": "79.65",
+			"width": "54.04",
+			"height": "55.60",
+			"layername": "health-sciences-endocrinology.svg",
+			"name": "health-sciences-endocrinology",
+			"type": "svg",
+			"filename": "health-sciences-endocrinology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.70",
+			"y": "25.11",
+			"r": "72.85",
+			"b": "74.75",
+			"width": "53.15",
+			"height": "49.64",
+			"layername": "health-sciences-emergencymed.svg",
+			"name": "health-sciences-emergencymed",
+			"type": "svg",
+			"filename": "health-sciences-emergencymed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.97",
+			"y": "20.35",
+			"r": "70.58",
+			"b": "78.19",
+			"width": "48.61",
+			"height": "57.84",
+			"layername": "health-sciences-dermatology.svg",
+			"name": "health-sciences-dermatology",
+			"type": "svg",
+			"filename": "health-sciences-dermatology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.49",
+			"y": "20.59",
+			"r": "67.06",
+			"b": "83.10",
+			"width": "41.57",
+			"height": "62.51",
+			"layername": "health-sciences-dentistry.svg",
+			"name": "health-sciences-dentistry",
+			"type": "svg",
+			"filename": "health-sciences-dentistry.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.59",
+			"y": "31.64",
+			"r": "81.18",
+			"b": "79.05",
+			"width": "68.59",
+			"height": "47.41",
+			"layername": "health-sciences-cardiology.svg",
+			"name": "health-sciences-cardiology",
+			"type": "svg",
+			"filename": "health-sciences-cardiology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "33.65",
+			"y": "22.55",
+			"r": "71.22",
+			"b": "86.00",
+			"width": "37.57",
+			"height": "63.45",
+			"layername": "health-sciences-anesthesia.svg",
+			"name": "health-sciences-anesthesia",
+			"type": "svg",
+			"filename": "health-sciences-anesthesia.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.11",
+			"y": "27.81",
+			"r": "69.59",
+			"b": "77.51",
+			"width": "48.48",
+			"height": "49.70",
+			"layername": "health-sciences-andrology.svg",
+			"name": "health-sciences-andrology",
+			"type": "svg",
+			"filename": "health-sciences-andrology.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.31",
+			"y": "17.58",
+			"r": "74.77",
+			"b": "84.06",
+			"width": "55.46",
+			"height": "66.48",
+			"layername": "health-sciences-anatomy.svg",
+			"name": "health-sciences-anatomy",
+			"type": "svg",
+			"filename": "health-sciences-anatomy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.56",
+			"y": "22.94",
+			"r": "77.00",
+			"b": "79.33",
+			"width": "61.44",
+			"height": "56.39",
+			"layername": "health-sciences-allergy.svg",
+			"name": "health-sciences-allergy",
+			"type": "svg",
+			"filename": "health-sciences-allergy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.32",
+			"y": "16.84",
+			"r": "79.75",
+			"b": "84.37",
+			"width": "59.43",
+			"height": "67.53",
+			"layername": "health-sciences-addiction.svg",
+			"name": "health-sciences-addiction",
+			"type": "svg",
+			"filename": "health-sciences-addiction.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "32.21",
+			"y": "26.14",
+			"r": "60.34",
+			"b": "77.56",
+			"width": "28.13",
+			"height": "51.42",
+			"layername": "cta-log-i.svg",
+			"name": "cta-log-i",
+			"type": "svg",
+			"filename": "cta-log-i.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.53",
+			"y": "36.76",
+			"r": "70.03",
+			"b": "67.51",
+			"width": "47.50",
+			"height": "30.75",
+			"layername": "cta-e-mai.svg",
+			"name": "cta-e-mai",
+			"type": "svg",
+			"filename": "cta-e-mai.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.94",
+			"y": "26.69",
+			"r": "71.61",
+			"b": "77.58",
+			"width": "50.67",
+			"height": "50.89",
+			"layername": "cta-contact-u.svg",
+			"name": "cta-contact-u",
+			"type": "svg",
+			"filename": "cta-contact-u.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.87",
+			"y": "29.21",
+			"r": "72.68",
+			"b": "72.02",
+			"width": "52.81",
+			"height": "42.81",
+			"layername": "cta-calenda.svg",
+			"name": "cta-calenda",
+			"type": "svg",
+			"filename": "cta-calenda.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.32",
+			"y": "30.00",
+			"r": "76.66",
+			"b": "70.16",
+			"width": "62.34",
+			"height": "40.16",
+			"layername": "cross-knowledge-webinar.svg",
+			"name": "cross-knowledge-webinar",
+			"type": "svg",
+			"filename": "cross-knowledge-webinar.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.30",
+			"y": "31.72",
+			"r": "74.25",
+			"b": "71.98",
+			"width": "55.95",
+			"height": "40.26",
+			"layername": "cross-knowledge-video.svg",
+			"name": "cross-knowledge-video",
+			"type": "svg",
+			"filename": "cross-knowledge-video.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.87",
+			"y": "21.15",
+			"r": "69.68",
+			"b": "82.55",
+			"width": "46.81",
+			"height": "61.40",
+			"layername": "cross-knowledge-telecom-hitech.svg",
+			"name": "cross-knowledge-telecom-hitech",
+			"type": "svg",
+			"filename": "cross-knowledge-telecom-hitech.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.89",
+			"y": "24.73",
+			"r": "68.66",
+			"b": "78.97",
+			"width": "44.77",
+			"height": "54.24",
+			"layername": "cross-knowledge-source.svg",
+			"name": "cross-knowledge-source",
+			"type": "svg",
+			"filename": "cross-knowledge-source.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.69",
+			"y": "22.06",
+			"r": "70.67",
+			"b": "81.63",
+			"width": "58.98",
+			"height": "59.57",
+			"layername": "cross-knowledge-share.svg",
+			"name": "cross-knowledge-share",
+			"type": "svg",
+			"filename": "cross-knowledge-share.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.81",
+			"y": "22.39",
+			"r": "78.30",
+			"b": "69.18",
+			"width": "62.49",
+			"height": "46.79",
+			"layername": "cross-knowledge-services.svg",
+			"name": "cross-knowledge-services",
+			"type": "svg",
+			"filename": "cross-knowledge-services.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.90",
+			"y": "32.65",
+			"r": "73.62",
+			"b": "79.83",
+			"width": "56.72",
+			"height": "47.18",
+			"layername": "cross-knowledge-retail.svg",
+			"name": "cross-knowledge-retail",
+			"type": "svg",
+			"filename": "cross-knowledge-retail.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.08",
+			"y": "17.73",
+			"r": "68.48",
+			"b": "85.96",
+			"width": "44.40",
+			"height": "68.23",
+			"layername": "cross-knowledge-qa.svg",
+			"name": "cross-knowledge-qa",
+			"type": "svg",
+			"filename": "cross-knowledge-qa.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.67",
+			"y": "18.43",
+			"r": "76.89",
+			"b": "71.36",
+			"width": "61.22",
+			"height": "52.93",
+			"layername": "cross-knowledge-publicserv.svg",
+			"name": "cross-knowledge-publicserv",
+			"type": "svg",
+			"filename": "cross-knowledge-publicserv.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.06",
+			"y": "24.67",
+			"r": "76.50",
+			"b": "72.39",
+			"width": "60.44",
+			"height": "47.72",
+			"layername": "cross-knowledge-print.svg",
+			"name": "cross-knowledge-print",
+			"type": "svg",
+			"filename": "cross-knowledge-print.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.63",
+			"y": "26.28",
+			"r": "69.93",
+			"b": "77.42",
+			"width": "47.30",
+			"height": "51.14",
+			"layername": "cross-knowledge-news.svg",
+			"name": "cross-knowledge-news",
+			"type": "svg",
+			"filename": "cross-knowledge-news.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.08",
+			"y": "19.13",
+			"r": "73.48",
+			"b": "76.79",
+			"width": "54.40",
+			"height": "57.66",
+			"layername": "cross-knowledge-media.svg",
+			"name": "cross-knowledge-media",
+			"type": "svg",
+			"filename": "cross-knowledge-media.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.64",
+			"y": "21.21",
+			"r": "76.91",
+			"b": "82.49",
+			"width": "61.27",
+			"height": "61.28",
+			"layername": "cross-knowledge-industry.svg",
+			"name": "cross-knowledge-industry",
+			"type": "svg",
+			"filename": "cross-knowledge-industry.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.39",
+			"y": "30.19",
+			"r": "75.50",
+			"b": "79.12",
+			"width": "63.11",
+			"height": "48.93",
+			"layername": "cross-knowledge-health-and-enviro.svg",
+			"name": "cross-knowledge-health-and-enviro",
+			"type": "svg",
+			"filename": "cross-knowledge-health-and-enviro.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.38",
+			"y": "23.40",
+			"r": "74.01",
+			"b": "77.11",
+			"width": "55.63",
+			"height": "53.71",
+			"layername": "cross-knowledge-event.svg",
+			"name": "cross-knowledge-event",
+			"type": "svg",
+			"filename": "cross-knowledge-event.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "28.11",
+			"y": "18.51",
+			"r": "64.44",
+			"b": "81.85",
+			"width": "36.33",
+			"height": "63.34",
+			"layername": "cross-knowledge-energy.svg",
+			"name": "cross-knowledge-energy",
+			"type": "svg",
+			"filename": "cross-knowledge-energy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.61",
+			"y": "17.19",
+			"r": "72.94",
+			"b": "75.56",
+			"width": "53.33",
+			"height": "58.37",
+			"layername": "cross-knowledge-education.svg",
+			"name": "cross-knowledge-education",
+			"type": "svg",
+			"filename": "cross-knowledge-education.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.27",
+			"y": "24.04",
+			"r": "65.95",
+			"b": "80.00",
+			"width": "41.68",
+			"height": "55.96",
+			"layername": "cross-knowledge-ebook.svg",
+			"name": "cross-knowledge-ebook",
+			"type": "svg",
+			"filename": "cross-knowledge-ebook.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.61",
+			"y": "20.30",
+			"r": "73.40",
+			"b": "81.22",
+			"width": "55.79",
+			"height": "60.92",
+			"layername": "cross-knowledge-docdownload.svg",
+			"name": "cross-knowledge-docdownload",
+			"type": "svg",
+			"filename": "cross-knowledge-docdownload.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "37.65",
+			"y": "21.15",
+			"r": "54.90",
+			"b": "82.55",
+			"width": "17.25",
+			"height": "61.40",
+			"layername": "cross-knowledge-detailedinfo.svg",
+			"name": "cross-knowledge-detailedinfo",
+			"type": "svg",
+			"filename": "cross-knowledge-detailedinfo.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "32.39",
+			"y": "17.65",
+			"r": "60.16",
+			"b": "85.27",
+			"width": "27.77",
+			"height": "67.62",
+			"layername": "cross-knowledge-contactphone.svg",
+			"name": "cross-knowledge-contactphone",
+			"type": "svg",
+			"filename": "cross-knowledge-contactphone.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.02",
+			"y": "34.46",
+			"r": "74.54",
+			"b": "69.33",
+			"width": "56.52",
+			"height": "34.87",
+			"layername": "cross-knowledge-contactemail.svg",
+			"name": "cross-knowledge-contactemail",
+			"type": "svg",
+			"filename": "cross-knowledge-contactemail.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.89",
+			"y": "27.76",
+			"r": "66.66",
+			"b": "75.94",
+			"width": "40.77",
+			"height": "48.18",
+			"layername": "cross-knowledge-consumergoods.svg",
+			"name": "cross-knowledge-consumergoods",
+			"type": "svg",
+			"filename": "cross-knowledge-consumergoods.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "22.55",
+			"y": "21.59",
+			"r": "68.45",
+			"b": "81.67",
+			"width": "45.90",
+			"height": "60.08",
+			"layername": "cross-knowledge-certification.svg",
+			"name": "cross-knowledge-certification",
+			"type": "svg",
+			"filename": "cross-knowledge-certification.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.91",
+			"y": "24.65",
+			"r": "74.64",
+			"b": "72.93",
+			"width": "56.73",
+			"height": "48.28",
+			"layername": "cross-knowledge-banking-insurance.svg",
+			"name": "cross-knowledge-banking-insurance",
+			"type": "svg",
+			"filename": "cross-knowledge-banking-insurance.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.32",
+			"y": "33.13",
+			"r": "76.66",
+			"b": "71.49",
+			"width": "62.34",
+			"height": "38.36",
+			"layername": "channel-marketing-webinar.svg",
+			"name": "channel-marketing-webinar",
+			"type": "svg",
+			"filename": "channel-marketing-webinar.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "18.18",
+			"y": "21.38",
+			"r": "74.37",
+			"b": "82.31",
+			"width": "56.19",
+			"height": "60.93",
+			"layername": "channel-marketing-sponsoredsub.svg",
+			"name": "channel-marketing-sponsoredsub",
+			"type": "svg",
+			"filename": "channel-marketing-sponsoredsub.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.52",
+			"y": "20.13",
+			"r": "69.04",
+			"b": "83.56",
+			"width": "45.52",
+			"height": "63.43",
+			"layername": "channel-marketing-mobileapp.svg",
+			"name": "channel-marketing-mobileapp",
+			"type": "svg",
+			"filename": "channel-marketing-mobileapp.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "10.99",
+			"y": "28.32",
+			"r": "81.56",
+			"b": "73.84",
+			"width": "70.57",
+			"height": "45.52",
+			"layername": "channel-marketing-microsite.svg",
+			"name": "channel-marketing-microsite",
+			"type": "svg",
+			"filename": "channel-marketing-microsite.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.94",
+			"y": "29.63",
+			"r": "77.83",
+			"b": "76.77",
+			"width": "61.89",
+			"height": "47.14",
+			"layername": "channel-marketing-journalreprintbooks.svg",
+			"name": "channel-marketing-journalreprintbooks",
+			"type": "svg",
+			"filename": "channel-marketing-journalreprintbooks.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.04",
+			"y": "29.59",
+			"r": "76.51",
+			"b": "74.10",
+			"width": "60.47",
+			"height": "44.51",
+			"layername": "channel-marketing-elearning.svg",
+			"name": "channel-marketing-elearning",
+			"type": "svg",
+			"filename": "channel-marketing-elearning.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.66",
+			"y": "23.98",
+			"r": "80.16",
+			"b": "81.95",
+			"width": "67.50",
+			"height": "57.97",
+			"layername": "channel-marketing-advertising.svg",
+			"name": "channel-marketing-advertising",
+			"type": "svg",
+			"filename": "channel-marketing-advertising.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.20",
+			"y": "19.20",
+			"r": "70.76",
+			"b": "85.71",
+			"width": "49.56",
+			"height": "66.51",
+			"layername": "author-marketing-wider-web.svg",
+			"name": "author-marketing-wider-web",
+			"type": "svg",
+			"filename": "author-marketing-wider-web.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.34",
+			"y": "17.77",
+			"r": "80.21",
+			"b": "85.64",
+			"width": "67.87",
+			"height": "67.87",
+			"layername": "author-marketing-time.svg",
+			"name": "author-marketing-time",
+			"type": "svg",
+			"filename": "author-marketing-time.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.85",
+			"y": "21.48",
+			"r": "77.71",
+			"b": "76.51",
+			"width": "62.86",
+			"height": "55.03",
+			"layername": "author-marketing-star.svg",
+			"name": "author-marketing-star",
+			"type": "svg",
+			"filename": "author-marketing-star.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.83",
+			"y": "21.24",
+			"r": "78.02",
+			"b": "82.18",
+			"width": "54.19",
+			"height": "60.94",
+			"layername": "author-marketing-social-media.svg",
+			"name": "author-marketing-social-media",
+			"type": "svg",
+			"filename": "author-marketing-social-media.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "28.77",
+			"y": "20.35",
+			"r": "63.78",
+			"b": "83.06",
+			"width": "35.01",
+			"height": "62.71",
+			"layername": "author-marketing-smartphone.svg",
+			"name": "author-marketing-smartphone",
+			"type": "svg",
+			"filename": "author-marketing-smartphone.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "20.53",
+			"y": "19.22",
+			"r": "65.32",
+			"b": "83.14",
+			"width": "44.79",
+			"height": "63.92",
+			"layername": "author-marketing-seo.svg",
+			"name": "author-marketing-seo",
+			"type": "svg",
+			"filename": "author-marketing-seo.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.65",
+			"y": "21.44",
+			"r": "68.90",
+			"b": "81.28",
+			"width": "45.25",
+			"height": "59.84",
+			"layername": "author-marketing-scissors.svg",
+			"name": "author-marketing-scissors",
+			"type": "svg",
+			"filename": "author-marketing-scissors.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "24.18",
+			"y": "21.19",
+			"r": "68.38",
+			"b": "80.63",
+			"width": "44.20",
+			"height": "59.44",
+			"layername": "author-marketing-read.svg",
+			"name": "author-marketing-read",
+			"type": "svg",
+			"filename": "author-marketing-read.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.45",
+			"y": "29.41",
+			"r": "72.57",
+			"b": "74.00",
+			"width": "56.12",
+			"height": "44.59",
+			"layername": "author-marketing-publicity.svg",
+			"name": "author-marketing-publicity",
+			"type": "svg",
+			"filename": "author-marketing-publicity.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "33.00",
+			"y": "17.33",
+			"r": "59.56",
+			"b": "85.93",
+			"width": "26.56",
+			"height": "68.60",
+			"layername": "author-marketing-pencil.svg",
+			"name": "author-marketing-pencil",
+			"type": "svg",
+			"filename": "author-marketing-pencil.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "29.96",
+			"y": "17.77",
+			"r": "62.60",
+			"b": "85.64",
+			"width": "32.64",
+			"height": "67.87",
+			"layername": "author-marketing-paper-clip.svg",
+			"name": "author-marketing-paper-clip",
+			"type": "svg",
+			"filename": "author-marketing-paper-clip.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.06",
+			"y": "18.34",
+			"r": "71.50",
+			"b": "82.75",
+			"width": "50.44",
+			"height": "64.41",
+			"layername": "author-marketing-padlock.svg",
+			"name": "author-marketing-padlock",
+			"type": "svg",
+			"filename": "author-marketing-padlock.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.58",
+			"y": "23.27",
+			"r": "68.44",
+			"b": "81.37",
+			"width": "44.86",
+			"height": "58.10",
+			"layername": "author-marketing-openaccess2.svg",
+			"name": "author-marketing-openaccess2",
+			"type": "svg",
+			"filename": "author-marketing-openaccess2.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "32.68",
+			"y": "29.52",
+			"r": "59.88",
+			"b": "74.18",
+			"width": "27.20",
+			"height": "44.66",
+			"layername": "author-marketing-openaccess1.svg",
+			"name": "author-marketing-openaccess1",
+			"type": "svg",
+			"filename": "author-marketing-openaccess1.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "17.59",
+			"y": "32.04",
+			"r": "73.42",
+			"b": "71.37",
+			"width": "55.83",
+			"height": "39.33",
+			"layername": "author-marketing-multimedia.svg",
+			"name": "author-marketing-multimedia",
+			"type": "svg",
+			"filename": "author-marketing-multimedia.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "26.05",
+			"y": "19.66",
+			"r": "66.50",
+			"b": "82.21",
+			"width": "40.45",
+			"height": "62.55",
+			"layername": "author-marketing-microphone.svg",
+			"name": "author-marketing-microphone",
+			"type": "svg",
+			"filename": "author-marketing-microphone.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.64",
+			"y": "18.03",
+			"r": "78.92",
+			"b": "85.39",
+			"width": "65.28",
+			"height": "67.36",
+			"layername": "author-marketing-light-bulb.svg",
+			"name": "author-marketing-light-bulb",
+			"type": "svg",
+			"filename": "author-marketing-light-bulb.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "21.14",
+			"y": "19.50",
+			"r": "71.41",
+			"b": "78.26",
+			"width": "50.27",
+			"height": "58.76",
+			"layername": "author-marketing-lab-equip.svg",
+			"name": "author-marketing-lab-equip",
+			"type": "svg",
+			"filename": "author-marketing-lab-equip.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.26",
+			"y": "20.80",
+			"r": "79.31",
+			"b": "81.59",
+			"width": "66.05",
+			"height": "60.79",
+			"layername": "author-marketing-globe.svg",
+			"name": "author-marketing-globe",
+			"type": "svg",
+			"filename": "author-marketing-globe.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "14.29",
+			"y": "19.72",
+			"r": "78.26",
+			"b": "83.70",
+			"width": "63.97",
+			"height": "63.98",
+			"layername": "author-marketing-gear.svg",
+			"name": "author-marketing-gear",
+			"type": "svg",
+			"filename": "author-marketing-gear.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.71",
+			"y": "25.28",
+			"r": "77.60",
+			"b": "78.44",
+			"width": "61.89",
+			"height": "53.16",
+			"layername": "author-marketing-funder.svg",
+			"name": "author-marketing-funder",
+			"type": "svg",
+			"filename": "author-marketing-funder.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.63",
+			"y": "31.20",
+			"r": "75.93",
+			"b": "72.22",
+			"width": "59.30",
+			"height": "41.02",
+			"layername": "author-marketing-email.svg",
+			"name": "author-marketing-email",
+			"type": "svg",
+			"filename": "author-marketing-email.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.16",
+			"y": "27.54",
+			"r": "76.78",
+			"b": "73.94",
+			"width": "60.62",
+			"height": "46.40",
+			"layername": "author-marketing-data2.svg",
+			"name": "author-marketing-data2",
+			"type": "svg",
+			"filename": "author-marketing-data2.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.39",
+			"y": "23.82",
+			"r": "77.86",
+			"b": "72.51",
+			"width": "62.47",
+			"height": "48.69",
+			"layername": "author-marketing-data1.svg",
+			"name": "author-marketing-data1",
+			"type": "svg",
+			"filename": "author-marketing-data1.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "12.99",
+			"y": "22.68",
+			"r": "76.41",
+			"b": "74.93",
+			"width": "63.42",
+			"height": "52.25",
+			"layername": "author-marketing-convers-bubble.svg",
+			"name": "author-marketing-convers-bubble",
+			"type": "svg",
+			"filename": "author-marketing-convers-bubble.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.49",
+			"y": "26.93",
+			"r": "76.07",
+			"b": "69.52",
+			"width": "59.58",
+			"height": "42.59",
+			"layername": "author-marketing-conference.svg",
+			"name": "author-marketing-conference",
+			"type": "svg",
+			"filename": "author-marketing-conference.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "19.32",
+			"y": "29.88",
+			"r": "73.23",
+			"b": "78.90",
+			"width": "53.91",
+			"height": "49.02",
+			"layername": "author-marketing-comp-monitor.svg",
+			"name": "author-marketing-comp-monitor",
+			"type": "svg",
+			"filename": "author-marketing-comp-monitor.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "11.99",
+			"y": "26.15",
+			"r": "80.56",
+			"b": "68.77",
+			"width": "68.57",
+			"height": "42.62",
+			"layername": "author-marketing-cloud.svg",
+			"name": "author-marketing-cloud",
+			"type": "svg",
+			"filename": "author-marketing-cloud.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.64",
+			"y": "37.22",
+			"r": "76.91",
+			"b": "66.48",
+			"width": "61.27",
+			"height": "29.26",
+			"layername": "author-marketing-cite.svg",
+			"name": "author-marketing-cite",
+			"type": "svg",
+			"filename": "author-marketing-cite.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.47",
+			"y": "29.02",
+			"r": "72.91",
+			"b": "74.00",
+			"width": "56.44",
+			"height": "44.98",
+			"layername": "author-marketing-check-mark.svg",
+			"name": "author-marketing-check-mark",
+			"type": "svg",
+			"filename": "author-marketing-check-mark.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "16.06",
+			"y": "29.57",
+			"r": "77.71",
+			"b": "76.53",
+			"width": "61.65",
+			"height": "46.96",
+			"layername": "author-marketing-book.svg",
+			"name": "author-marketing-book",
+			"type": "svg",
+			"filename": "author-marketing-book.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.94",
+			"y": "27.14",
+			"r": "75.34",
+			"b": "76.28",
+			"width": "49.40",
+			"height": "49.14",
+			"layername": "author-marketing-bar-chart.svg",
+			"name": "author-marketing-bar-chart",
+			"type": "svg",
+			"filename": "author-marketing-bar-chart.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "23.60",
+			"y": "30.24",
+			"r": "68.95",
+			"b": "73.45",
+			"width": "45.35",
+			"height": "43.21",
+			"layername": "author-marketing-archive.svg",
+			"name": "author-marketing-archive",
+			"type": "svg",
+			"filename": "author-marketing-archive.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]

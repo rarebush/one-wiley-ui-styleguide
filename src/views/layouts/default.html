@@ -20,22 +20,25 @@
 
 </head>
 <body>
-
-	{{#if fabricator}}
+    {{#if icons}}
+        {{> f-icon-modal}}
+    {{/if}}
+    {{#if fabricator}}
 		{{> f-icons}}
 		{{> f-menu}}
-        {{> f-control-bar}}
-		<div class="f-container">
+        {{> f-control-bar}}        
+		<div class="f-container">        
 			
 	{{/if}}
 
 
 	{% body %}
 
-
+            
 	{{#if fabricator}}
 		</div>
-	<script src="{{baseurl}}/assets/fabricator/scripts/f.js"></script>
+        <div class="menu-overlay"></div>
+    <script src="{{baseurl}}/assets/fabricator/scripts/f.js"></script>
 	{{/if}}
 
 	<!-- toolkit scripts -->

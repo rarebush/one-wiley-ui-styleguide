@@ -1,0 +1,33 @@
+<div id="png-modal-overlay" class="png-modal-overlay" style="display: none;" onclick="closePngModal()">
+</div>
+<div id="png-modal" class="png-modal" style="display: none;">
+    <div class="png-modal__header">
+        <strong>Download PNG</strong>
+        <span class="oi" data-glyph="x" onclick="closePngModal()"></span>
+    </div>
+    <div class="png-modal__content">
+        <div class="png-modal__icon-container">
+            <div class="png-modal__icon">
+                {{> f-icon-svg}}
+            </div>
+        </div>
+        <h3>Choose style</h3>
+        <h3>Choose color</h3>
+        <div class="swatches">
+            <div class="swatch">
+                <div class="swatch-core" style="background-color: #000000" onclick='document.getElementById("diagram").setAttribute("fill", "#000000");makeSelected(event);'></div>
+            </div>
+            <div class="swatch">
+                <div class="swatch-core white" style="background-color: #ffffff" onclick='document.getElementById("diagram").setAttribute("fill", "#ffffff");makeSelected(event);'></div>
+            </div>
+            {{#each toolkit.colors}} {{#each this}} {{#if wcagFG}}
+            <div class="swatch">
+                <div class="swatch-core" style="background-color: #{{colorHex}}" onclick='document.getElementById("diagram").setAttribute("fill", "#{{colorHex}}");makeSelected(event);'></div>
+            </div>
+            {{/if}} {{/each}} {{/each}}
+        </div>
+        <h3>Choose size</h3>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-normal.png", {scale: 1});'>download png NORMAL</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-large.png", {scale: 10});'>download png LARGE</button>
+    </div>
+</div>

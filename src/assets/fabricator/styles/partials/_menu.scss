@@ -70,3 +70,19 @@
 		}
 	}
 }
+.menu-overlay {    
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    .f-menu-active & { 
+        display: block;
+        background-color: transparent;
+        background-color: rgba(0,0,0,0.25);
+        @media (min-width: 60em) {
+            display: none;
+        }
+    }
+}

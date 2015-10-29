@@ -1,87 +1,81 @@
 .f-controls {
-	@include clearfix;
-	@include border-box;
-
-	.f-control {
-		display: block;
-		float: left;
-		text-align: center;
-		width: percentage(1/3);
-		margin: 0;
-		padding: 1rem 0;
-
-		&.f-active {
-			box-shadow: inset 0 3px 0 0 map-get($colors, accent);
+    @include clearfix;
+    @include border-box;
+    .f-control {
+        display: block;
+        float: left;
+        text-align: center;
+        width: percentage(1/3);
+        margin: 0;
+        padding: 1rem 0;
+        &.f-active {
+            box-shadow: inset 0 3px 0 0 map-get($colors, accent);
             span {
                 color: map-get($colors, grey-700);
             }
-		}
-
-		span {
-			vertical-align: middle;
+        }
+        span {
+            vertical-align: middle;
             color: map-get($colors, grey-300);
-		}
+        }
         .f-control__iclabel {
             font-size: 0.75em;
             color: map-get($colors, grey-500);
         }
-	}
+    }
 }
 
 .f-control {
-	@include border-box;
-	display: inline-block;
-	cursor: pointer;
-	margin-left: 0.5rem;
-
-	&:first-child {
-		margin-left: 0;
-	}
-
-	svg {
+    @include border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    &:first-child {
+        margin-left: 0;
+    }
+    svg {
         //transform: translate3d(0,0,0);
-		width: 16px;
-		height: 16px;
-
-		use {
-			fill: map-get($colors, grey-700);
-		}
-	}
-    
+        width: 16px;
+        height: 16px;
+        use {
+            fill: map-get($colors, grey-700);
+        }
+    }
     &:hover {
         svg {
             use {
-			 fill: map-get($colors, grey-700);
+                fill: map-get($colors, grey-700);
             }
         }
     }
 }
 
 .f-control-bar {
-	@include clearfix;
-	@include border-box;
-	position: relative;
+    @include clearfix;
+    @include border-box;
+    position: relative;
     margin: 0;
-	padding: 1rem;
+    padding: 1rem;
     position: fixed;
-	z-index: 10;
-	.f-menu-active & {
-			margin-left: $menu-width;
-			transform: translate(0, 0);
-		@media (min-width: 60em) {
-			margin-left: $menu-width;
-			transform: translate(0, 0);
-		}
-	}
+    z-index: 10;
+    .f-menu-active & {
+        margin-left: $menu-width;
+        transform: translate(0, 0);
+        color: white;
+        @media (min-width: 60em) {
+            margin-left: $menu-width;
+            transform: translate(0, 0);
+            color: inherit;
+        }
+    }
 }
 
 .f-menu-toggle {
-	cursor: pointer;
-	vertical-align: middle;
-
-	svg {
-		display: block;
-		float: left;
-		margin-bottom: -1px;
-	}
+    cursor: pointer;
+    vertical-align: middle;
+    svg {
+        display: block;
+        float: left;
+        margin-bottom: -1px;
+    }
 }

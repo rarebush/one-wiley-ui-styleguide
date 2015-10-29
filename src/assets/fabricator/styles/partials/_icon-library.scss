@@ -1,0 +1,235 @@
+//icon search
+.f-iconsearch {    
+    .oi {
+        display: inline-block;
+        box-sizing: border-box;
+        border-bottom: 1px solid grey;
+        border-top: 1px solid grey;
+        border-left: 1px solid grey;
+        padding: 11px;
+        height: 2.5rem;
+        font-size: 1em;
+        line-height: 0;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    input {
+        border-bottom: 1px solid grey;
+        border-top: 1px solid grey;
+        border-right: 1px solid grey;
+        border-left: 0px solid transparent !important;
+        box-sizing: border-box;
+        padding: 0.5rem;        
+        font-family: inherit;
+        font-size: 1em;
+        border: 1px solid grey;
+        vertical-align: middle;
+        height: 2.5rem;
+    }
+}
+
+// icon lists
+.f-iconlist {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    li {
+        position: relative;
+        flex-grow: 1;
+        padding: 0;
+        margin: 1rem;
+        text-align: center;
+        flex-basis: 4rem;
+        max-width: 20rem;
+        @media (min-width: 30em) {
+            flex-basis: 8rem;
+        }
+        .ic-cont {
+            cursor: pointer;
+            font-size: 1rem;
+            color: map-get($colors, grey-700);
+            box-sizing: border-box;
+            border: 1px solid transparent;
+            //border-radius: 64px;
+            margin-bottom: 0.5rem;
+            display: inline-block;
+            line-height: 0;
+            //box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
+            div {
+                width: 1rem;
+                height: 1rem;
+                display: block;
+                margin: 1rem;
+                @media (min-width: 30em) {
+                    margin: 1.5rem;
+                }
+            }
+        }
+        .ic-text {
+            font-size: 0.75em;
+            @media (min-width: 30em) {
+                font-size: 0.875em;
+            }
+        }
+        .ic-links {
+            font-size: 0.625em;
+            @media (min-width: 30em) {
+                font-size: 0.75em;
+            }
+        }
+        .icon-info-button {
+            font-size: 0.75em;
+            @media (min-width: 30em) {
+                font-size: 0.75em;
+            }
+        }
+        &:hover,
+        &:active {
+            .ic-cont {
+                border: 1px solid map-get($colors, accent);
+            }
+            .ic-text {
+                color: map-get($colors, accent);
+            }
+        }
+    }
+}
+
+.f-iconlist--illustrative {
+    li {
+        flex-basis: 4.5rem;
+        @media (min-width: 30em) {
+            flex-basis: 8rem;
+        }
+        .ic-glyph {
+            font-size: 3em;
+            @media (min-width: 30em) {
+            font-size: 4em;
+        }
+        }
+    }
+}
+
+//png modal
+.png-modal-overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.25);
+    z-index: 100;
+}
+
+.png-modal {
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    background-color: white;
+    overflow-y: auto;
+    min-height: 100%;
+    max-height: 100%;
+    @media (min-width: 38em) {
+        top: 10%;
+        bottom: auto;
+        left: 20%;
+        right: 20%;
+        border: 1px solid map-get($colors, grey-500);
+        border-radius: 3px;
+        min-height: auto;
+        max-height: 80%;
+        overflow-y: auto;
+    }
+}
+
+.png-modal__header {
+    padding: 1rem;
+    background-color: map-get($colors, grey-300);
+    .oi {
+        cursor: pointer;
+        float: right;
+    }
+}
+
+.png-modal__content {
+    padding: 1rem;
+    .swatches {
+        @include susy-clearfix;
+        .swatch {
+            padding: 0.5rem;
+            float: left;
+            border: 1px solid transparent;
+            &.selected {
+                border: 1px solid map-get($colors, grey-300);
+            }
+            .swatch-core {
+                cursor: pointer;
+                box-sizing: border-box;
+                width: 2rem;
+                height: 2rem;
+                &.white {
+                    border: 1px solid map-get($colors, grey-300);
+                }
+            }
+        }
+    }
+}
+
+.png-modal__icon-container {
+    text-align: center;
+}
+
+.png-modal__icon {
+    padding: 3rem;
+    border: 1px solid map-get($colors, grey-300);
+    display: inline-block;
+}
+
+// icon info panel
+.icon-info-button {
+    font-size: 0.75em;
+    cursor: pointer;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.icon-info {
+    margin-top: 0.25rem;
+    left: 0;
+    right: 0;
+    font-size: 0.75em;
+    position: absolute;
+    background-color: white;
+    border: 1px solid grey;
+    z-index: 100;
+    padding: 0.5rem;
+    text-align: left;
+    @include shadow;
+    div {
+        margin-bottom: 0.25rem;
+    }
+    .close {
+        float: right;
+        cursor: pointer;
+    }
+    .icon-tags {
+        .tag {
+            cursor: pointer;
+            display: inline-block;
+            padding: 0.125rem;
+            margin-bottom: 0.125rem;
+            color: white;
+            background-color: map-get($colors, orange-dark);
+            &:hover,
+            &:active {
+                background-color: map-get($colors, orange-light);
+            }
+        }
+    }
+}
