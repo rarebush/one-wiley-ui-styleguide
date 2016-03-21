@@ -1,0 +1,1309 @@
+<!doctype html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Toolkit</title>
+    
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto+Mono' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="/assets/fabricator/styles/f.css">
+
+	<!-- toolkit styles -->
+	<link rel="stylesheet" href="/assets/toolkit/styles/toolkit.css">
+	<!-- /toolkit styles -->
+
+</head>
+<body>
+		<!-- fabricator icons -->
+		<svg style="display: none;">
+			<symbol id="f-icon-code" viewBox="0 0 8 8">
+				<path d="M5 1l-3 6h1l3-6h-1zm-4 1l-1 2 1 2h1l-1-2 1-2h-1zm5 0l1 2-1 2h1l1-2-1-2h-1z"></path>
+			</symbol>
+			<symbol id="f-icon-notes" viewBox="0 0 8 8">
+				<path d="M.094 0c-.06 0-.094.034-.094.094v5.813c0 .06.034.094.094.094h5.906l2 2v-7.906c0-.06-.034-.094-.094-.094h-7.813z"></path>
+			</symbol>
+			<symbol id="f-icon-labels" viewBox="0 0 8 8">
+				<path d="M0 0v2h.5c0-.55.45-1 1-1h1.5v5.5c0 .28-.22.5-.5.5h-.5v1h4v-1h-.5c-.28 0-.5-.22-.5-.5v-5.5h1.5c.55 0 1 .45 1 1h.5v-2h-8z"></path>
+			</symbol>
+			<symbol id="f-icon-menu" viewBox="0 0 8 8">
+				<path d="M0 1v1h8v-1h-8zm0 2.969v1h8v-1h-8zm0 3v1h8v-1h-8z"></path>
+			</symbol>
+			<symbol id="f-icon-settings" viewBox="0 0 8 8">
+				<path d="M3.5 0l-.5 1.188-.281.125-1.188-.5-.719.719.5 1.188-.125.281-1.188.5v1l1.188.5.125.313-.5 1.156.719.719 1.188-.5.281.125.5 1.188h1l.5-1.188.281-.125 1.188.5.719-.719-.5-1.188.125-.281 1.188-.5v-1l-1.188-.5-.125-.281.469-1.188-.688-.719-1.188.5-.281-.125-.5-1.188h-1zm.5 2.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5z"></path>
+			</symbol>
+		</svg>
+		<!-- /fabricator icons -->		<!-- fabricator menu -->
+		<div class="f-menu">
+		
+			<div class="f-controls">
+				<div class="f-control f-global-control" data-f-toggle-control="labels" title="Toggle Headings">
+					<span class="ow-ui-header"></span>
+			        <br>
+			        <span class="f-control__iclabel">Headings</span>
+				</div>
+				<div class="f-control f-global-control" data-f-toggle-control="notes" title="Toggle Notes">
+					<span class="ow-ui-comment-square"></span>
+			        <br>
+			        <span class="f-control__iclabel">Notes</span>
+				</div>
+				<div class="f-control f-global-control" data-f-toggle-control="code" title="Toggle Code">
+					<span class="ow-ui-code"></span>
+			        <br>
+			        <span class="f-control__iclabel">Code</span>
+				</div>
+			</div>
+		
+			<ul>
+		
+				<li>
+					<a href="index.html" class="f-menu__heading">Overview</a>
+		            <ul>
+		                <li><a href="index.html#contact">Contact us</a></li>
+		            </ul>
+				</li>
+		
+		<!--	Toolkit    	-->
+				<li>
+					<a href="toolkit.html" class="f-menu__heading">Toolkit</a>
+					<ul>
+						<li>
+							<a href="toolkit.html#01-wordmark">Wordmark</a>
+						</li>
+						<li>
+							<a href="toolkit.html#02-layout">Layout</a>
+						</li>
+						<li>
+							<a href="toolkit.html#03-colors">Colors</a>
+						</li>
+						<li>
+							<a href="toolkit.html#04-iconography">Iconography</a>
+						</li>
+						<li>
+							<a href="toolkit.html#05-typography">Typography</a>
+						</li>
+						<li>
+							<a href="toolkit.html#06-decoration">Decoration</a>
+						</li>
+						<li>
+							<a href="toolkit.html#07-favicon">Favicon</a>
+						</li>
+						<li>
+							<a href="toolkit.html#08-photography">Photography</a>
+						</li>
+						<li>
+							<a href="toolkit.html#09-usability">Usability</a>
+						</li>
+						<li>
+							<a href="toolkit.html#10-accessibility">Accessibility</a>
+						</li>
+					</ul>
+				</li>
+		<!--	Structures    	-->
+		        <li>
+					<a href="structures.html" class="f-menu__heading">Structures</a>
+					<ul>
+						<li>
+							<a href="structures.html#footer-base">Footer Base</a>
+						</li>
+						<li>
+							<a href="structures.html#footer-sochub">Footer Sochub</a>
+						</li>
+						<li>
+							<a href="structures.html#footer-wiley">Footer Wiley</a>
+						</li>
+						<li>
+							<a href="structures.html#hub-header-top">Hub Header Top</a>
+						</li>
+						<li>
+							<a href="structures.html#typography">Typography</a>
+						</li>
+					</ul>
+				</li>
+		<!--	footers    	-->
+		        
+		        <li>
+					<a href="footers.html" class="f-menu__heading">Footers</a>
+					<ul>
+						<li>
+							<a href="footers.html#01-corporate-brand">Corporate Brand</a>
+						</li>
+						<li>
+							<a href="footers.html#02-wiley-brand">Wiley Brand</a>
+						</li>
+						<li>
+							<a href="footers.html#03-wiley-products-and-services">Wiley Products And Services</a>
+						</li>
+						<li>
+							<a href="footers.html#04-society-hub">Society Hub</a>
+						</li>
+						<li>
+							<a href="footers.html#05-partnership-cochrane">Partnership Cochrane</a>
+						</li>
+					</ul>
+				</li>
+		<!--
+				<li>
+					<a href="pages.html" class="f-menu__heading">Pages</a>
+					<ul>
+						<li>
+							<a href="pages/home.html" target="_blank">Home</a>
+						</li>
+					</ul>
+				</li>
+		-->
+		
+		<!--
+				<li>
+					<a href="docs.html" class="f-menu__heading">Docs</a>
+					<ul>
+						<li>
+							<a href="docs.html#javascript">Javascript</a>
+						</li>
+					</ul>
+				</li>
+		-->
+		
+			</ul>
+		
+		
+		</div>
+		<!-- /fabricator menu -->
+        <div class="f-control-bar">
+        	<div class="f-control f-menu-toggle">
+        		<span class="ow-ui-menu"></span>
+        	</div>
+        </div>
+		<div class="f-container">        
+			
+
+
+	
+
+<div class="f--section f--section--light">
+    <div class="f--section__max-width">
+        <h1 class="f--page-title f--page-title--teal" data-f-toggle="labels">Toolkit</h1>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="01-wordmark">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Wordmark</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Aside from <a href="http://www.wiley.com">www.wiley.com</a>, the Wiley wordmark should only be found in the footer of a digital product. See <a href="footers.html">Footers</a> for details.</p>
+        <p>We’ve provided the wordmark in various formats for easy download and usage.</p>
+        <ul>
+        <li><strong>Our Wiley wordmark is only ever seen in black or white</strong></li>
+        <li>For more information on how to use the Wiley wordmark, please consult the <a href="link.portal">One Wiley Brand Guidelines</a></li>
+        </ul>
+        
+        </div>
+        <div class="f-item-preview">
+            <div class="ow-wordmarks">
+        	<div class="ow-wordmark">
+        		<img class="ow-wordmark__image ow-wordmark__image--black" alt="Black Wiley wordmark" src="/assets/toolkit/images/wiley-wordmark-black.svg">
+        		<span class="ow-wordmark__links"><a href="/assets/toolkit/images/wordmark/wiley-wordmark-black.eps">EPS</a> | <a href="/assets/toolkit/images/wordmark/wiley-wordmark-black.svg">SVG</a> | <a href="/assets/toolkit/images/wordmark/wiley-wordmark-black.png">PNG</a></span>
+        	</div>
+        	<div class="ow-wordmark">
+        		<img class="ow-wordmark__image ow-wordmark__image--white" alt="White Wiley wordmark" src="/assets/toolkit/images/wiley-wordmark-white.svg">
+        		<span class="ow-wordmark__links"><a href="/assets/toolkit/images/wordmark/wiley-wordmark-white.eps">EPS</a> | <a href="/assets/toolkit/images/wordmark/wiley-wordmark-white.svg">SVG</a> | <a href="/assets/toolkit/images/wordmark/wiley-wordmark-white.png">PNG</a></span>
+        	</div>
+        </div>
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup">&lt;div class=&quot;ow-wordmarks&quot;&gt;
+        	&lt;div class=&quot;ow-wordmark&quot;&gt;
+        		&lt;img class=&quot;ow-wordmark__image ow-wordmark__image--black&quot; alt=&quot;Black Wiley wordmark&quot; src=&quot;/assets/toolkit/images/wiley-wordmark-black.svg&quot;&gt;
+        		&lt;span class=&quot;ow-wordmark__links&quot;&gt;&lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-black.eps&quot;&gt;EPS&lt;/a&gt; | &lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-black.svg&quot;&gt;SVG&lt;/a&gt; | &lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-black.png&quot;&gt;PNG&lt;/a&gt;&lt;/span&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;ow-wordmark&quot;&gt;
+        		&lt;img class=&quot;ow-wordmark__image ow-wordmark__image--white&quot; alt=&quot;White Wiley wordmark&quot; src=&quot;/assets/toolkit/images/wiley-wordmark-white.svg&quot;&gt;
+        		&lt;span class=&quot;ow-wordmark__links&quot;&gt;&lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-white.eps&quot;&gt;EPS&lt;/a&gt; | &lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-white.svg&quot;&gt;SVG&lt;/a&gt; | &lt;a href=&quot;/assets/toolkit/images/wordmark/wiley-wordmark-white.png&quot;&gt;PNG&lt;/a&gt;&lt;/span&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;</code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="02-layout">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Layout</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Coming soon! Please check back next month.</p>
+        
+        </div>
+        <div class="f-item-preview">
+            
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup"></code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="03-colors">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Colors</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>The Wiley color palette is an important part of our brand identity. When designing UIs, we encourage you to choose from a subset of the secondary colors and to use them only to enhance the usability of your design. If you can easily start implementing this color palette on your digital product, please start doing so immediately. Otherwise, please implement with your next redesign.</p>
+        <p>Our extended secondary color palette helps to make our communications more engaging. There are six key colors in our secondary palette and within each of these are three tones – a light tone, mid tone and dark tone.</p>
+        
+        </div>
+        <div class="f-item-preview">
+            <h3>Core and secondary color palette</h3>
+        <h4 class="capitalize">wiley colors</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">wiley-black</div>
+        		<div class="f-color-chip__color">#1f1f1e</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">wiley-white</div>
+        		<div class="f-color-chip__color">#ffffff</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">warm-grey</div>
+        		<div class="f-color-chip__color">#dfddd6</div>
+        	</div>
+        </div>
+        <h4 class="capitalize">teals</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">teal-light</div>
+        		<div class="f-color-chip__color">#B1D8CF</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=B1D8CF">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">teal</div>
+        		<div class="f-color-chip__color">#00A3B2</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=00A3B2">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">teal-dark</div>
+        		<div class="f-color-chip__color">#075B81</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=075B81">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">purples</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">purple-light</div>
+        		<div class="f-color-chip__color">#BCADE2</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=BCADE2">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">purple</div>
+        		<div class="f-color-chip__color">#855199</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=855199">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">purple-dark</div>
+        		<div class="f-color-chip__color">#522464</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=522464">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">blues</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">blue-light</div>
+        		<div class="f-color-chip__color">#A0C7E5</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=A0C7E5">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">blue</div>
+        		<div class="f-color-chip__color">#648FD8</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=648FD8">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">blue-dark</div>
+        		<div class="f-color-chip__color">#032977</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=032977">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">greens</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">green-light</div>
+        		<div class="f-color-chip__color">#C6DE8C</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=C6DE8C">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">green</div>
+        		<div class="f-color-chip__color">#92CB9C</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=92CB9C">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">green-dark</div>
+        		<div class="f-color-chip__color">#1D5C56</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=1D5C56">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">reds</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">red-light</div>
+        		<div class="f-color-chip__color">#D22938</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=D22938">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">red</div>
+        		<div class="f-color-chip__color">#B40043</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=B40043">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">red-dark</div>
+        		<div class="f-color-chip__color">#800049</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=800049">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">oranges</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">orange-light</div>
+        		<div class="f-color-chip__color">#F2BA49</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=F2BA49">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">orange</div>
+        		<div class="f-color-chip__color">#E87700</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=E87700">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">orange-dark</div>
+        		<div class="f-color-chip__color">#E55800</div>
+        		<div class=""><a target="_blank" href="http://webaim.org/resources/contrastchecker/?fcolor=000000&bcolor=E55800">click for WCAG contrast checker <span class="ow-ui-external-link"></span></a></div>
+        	</div>
+        </div>
+        <h4 class="capitalize">greys</h4>
+        <div class="f-color-chips">
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-50</div>
+        		<div class="f-color-chip__color">#faf7f2</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-100</div>
+        		<div class="f-color-chip__color">#f5f2ed</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-200</div>
+        		<div class="f-color-chip__color">#edebe6</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-300</div>
+        		<div class="f-color-chip__color">#E7E4DF</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-400</div>
+        		<div class="f-color-chip__color">#bdbbb7</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-500</div>
+        		<div class="f-color-chip__color">#9e9d99</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-600</div>
+        		<div class="f-color-chip__color">#757472</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-700</div>
+        		<div class="f-color-chip__color">#61605e</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-800</div>
+        		<div class="f-color-chip__color">#424240</div>
+        	</div>
+        	<div class="f-color-chip">
+        		<div class="f-color-chip__name">grey-900</div>
+        		<div class="f-color-chip__color">#212120</div>
+        	</div>
+        </div>
+        
+        <h3>Tints</h3>
+        <p>If the need arises, tints can be used. They can be implemented either through opacity changes or using the absolute values as described <a href="tints.html">here</a>.</p>
+        <!--
+        <h4>Teal</h4>
+        <div class="tint-table__row">
+                <div style="border-color:#00A3B2;"><h5>100%<br>#00A3B2</h5></div>
+                <div style="border-color:#33B5C1;"><h5>80%<br>#33B5C1</h5></div>
+                <div style="border-color:#66C8D1;"><h5>60%<br>#66C8D1</h5></div>
+                <div style="border-color:#99DAE0;"><h5>40%<br>#99DAE0</h5></div>
+                <div style="border-color:#CCEDF0;"><h5>20%<br>#CCEDF0</h5></div>
+        </div>
+        
+        <div class="tint-table">
+                <div>teal-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#B1D8CF;">#B1D8CF</div>
+                    <div style="border-color:#C1E0D9;">#C1E0D9</div>
+                    <div style="border-color:#D0E8E2;">#D0E8E2</div>
+                    <div style="border-color:#E0EFEC;">#E0EFEC</div>
+                    <div style="border-color:#EFF7F5;">#EFF7F5</div>
+                </div>
+                <div>teal</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#00A3B2;">#00A3B2</div>
+                    <div style="border-color:#33B5C1;">#33B5C1</div>
+                    <div style="border-color:#66C8D1;">#66C8D1</div>
+                    <div style="border-color:#99DAE0;">#99DAE0</div>
+                    <div style="border-color:#CCEDF0;">#CCEDF0</div>
+                </div>
+                <div>teal-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#075B81;">#075B81</div>
+                    <div style="border-color:#397C9A;">#397C9A</div>
+                    <div style="border-color:#6A9DB3;">#6A9DB3</div>
+                    <div style="border-color:#9CBDCD;">#9CBDCD</div>
+                    <div style="border-color:#CDDEE6;">#CDDEE6</div>
+                </div>
+                <div>purple-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#BCADE2;">#BCADE2</div>
+                    <div style="border-color:#C9BDE8;">#C9BDE8</div>
+                    <div style="border-color:#D7CEEE;">#D7CEEE</div>
+                    <div style="border-color:#E4DEF3;">#E4DEF3</div>
+                    <div style="border-color:#F2EFF9;">#F2EFF9</div>
+                </div>
+                <div>purple</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#855199;">#855199</div>
+                    <div style="border-color:#9D74AD;">#9D74AD</div>
+                    <div style="border-color:#B697C2;">#B697C2</div>
+                    <div style="border-color:#CEB9D6;">#CEB9D6</div>
+                    <div style="border-color:#E7DCEB;">#E7DCEB</div>
+                </div>
+                <div>purple-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#522464;">#522464</div>
+                    <div style="border-color:#755083;">#755083</div>
+                    <div style="border-color:#977CA2;">#977CA2</div>
+                    <div style="border-color:#BAA7C1;">#BAA7C1</div>
+                    <div style="border-color:#DCD3E0;">#DCD3E0</div>
+                </div>
+                <div>blue-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#A0C7E5;">#A0C7E5</div>
+                    <div style="border-color:#B3D2EA;">#B3D2EA</div>
+                    <div style="border-color:#C6DDEF;">#C6DDEF</div>
+                    <div style="border-color:#D9E9F5;">#D9E9F5</div>
+                    <div style="border-color:#ECF4FA;">#ECF4FA</div>
+                </div>
+                <div>blue</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#648FD8;">#648FD8</div>
+                    <div style="border-color:#83A5E0;">#83A5E0</div>
+                    <div style="border-color:#A2BCE8;">#A2BCE8</div>
+                    <div style="border-color:#C1D2EF;">#C1D2EF</div>
+                    <div style="border-color:#E0E9F7;">#E0E9F7</div>
+                </div>
+                <div>blue-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#032977;">#032977</div>
+                    <div style="border-color:#355492;">#355492</div>
+                    <div style="border-color:#687FAD;">#687FAD</div>
+                    <div style="border-color:#9AA9C9;">#9AA9C9</div>
+                    <div style="border-color:#CDD4E4;">#CDD4E4</div>
+                </div>
+                <div>green-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#C6DE8C;">#C6DE8C</div>
+                    <div style="border-color:#D1E5A3;">#D1E5A3</div>
+                    <div style="border-color:#DDEBBA;">#DDEBBA</div>
+                    <div style="border-color:#E8F2D1;">#E8F2D1</div>
+                    <div style="border-color:#F4F8E8;">#F4F8E8</div>
+                </div>
+                <div>green</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#92CB9C;">#92CB9C</div>
+                    <div style="border-color:#A8D5B0;">#A8D5B0</div>
+                    <div style="border-color:#BEE0C4;">#BEE0C4</div>
+                    <div style="border-color:#D3EAD7;">#D3EAD7</div>
+                    <div style="border-color:#E9F5EB;">#E9F5EB</div>
+                </div>
+                <div>green-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#1D5C56;">#1D5C56</div>
+                    <div style="border-color:#4A7D78;">#4A7D78</div>
+                    <div style="border-color:#779D9A;">#779D9A</div>
+                    <div style="border-color:#A5BEBB;">#A5BEBB</div>
+                    <div style="border-color:#D2DEDD;">#D2DEDD</div>
+                </div>
+                <div>red-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#D22938;">#D22938</div>
+                    <div style="border-color:#DB5460;">#DB5460</div>
+                    <div style="border-color:#E47F88;">#E47F88</div>
+                    <div style="border-color:#EDA9AF;">#EDA9AF</div>
+                    <div style="border-color:#F6D4D7;">#F6D4D7</div>
+                </div>
+                <div>red</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#B40043;">#B40043</div>
+                    <div style="border-color:#C33369;">#C33369</div>
+                    <div style="border-color:#D2668E;">#D2668E</div>
+                    <div style="border-color:#E199B4;">#E199B4</div>
+                    <div style="border-color:#F0CCD9;">#F0CCD9</div>
+                </div>
+                <div>red-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#800049;">#800049</div>
+                    <div style="border-color:#99336D;">#99336D</div>
+                    <div style="border-color:#B36692;">#B36692</div>
+                    <div style="border-color:#CC99B6;">#CC99B6</div>
+                    <div style="border-color:#E6CCDB;">#E6CCDB</div>
+                </div>
+                <div>orange-light</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#F2BA49;">#F2BA49</div>
+                    <div style="border-color:#F5C86D;">#F5C86D</div>
+                    <div style="border-color:#F7D692;">#F7D692</div>
+                    <div style="border-color:#FAE3B6;">#FAE3B6</div>
+                    <div style="border-color:#FCF1DB;">#FCF1DB</div>
+                </div>
+                <div>orange</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#E87700;">#E87700</div>
+                    <div style="border-color:#ED9233;">#ED9233</div>
+                    <div style="border-color:#F1AD66;">#F1AD66</div>
+                    <div style="border-color:#F6C999;">#F6C999</div>
+                    <div style="border-color:#FAE4CC;">#FAE4CC</div>
+                </div>
+                <div>orange-dark</div>
+                <div class="tint-table__row">
+                    <div style="border-color:#E55800;">#E55800</div>
+                    <div style="border-color:#EA7933;">#EA7933</div>
+                    <div style="border-color:#EF9B66;">#EF9B66</div>
+                    <div style="border-color:#F5BC99;">#F5BC99</div>
+                    <div style="border-color:#FADECC;">#FADECC</div>
+                </div>
+        </div>
+        -->
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup">&lt;h3&gt;Core and secondary color palette&lt;/h3&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;wiley colors&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;wiley-black&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#1f1f1e&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;wiley-white&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#ffffff&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;warm-grey&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#dfddd6&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;teals&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;teal-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#B1D8CF&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=B1D8CF&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;teal&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#00A3B2&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=00A3B2&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;teal-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#075B81&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=075B81&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;purples&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;purple-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#BCADE2&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=BCADE2&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;purple&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#855199&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=855199&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;purple-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#522464&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=522464&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;blues&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;blue-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#A0C7E5&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=A0C7E5&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;blue&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#648FD8&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=648FD8&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;blue-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#032977&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=032977&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;greens&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;green-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#C6DE8C&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=C6DE8C&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;green&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#92CB9C&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=92CB9C&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;green-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#1D5C56&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=1D5C56&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;reds&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;red-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#D22938&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=D22938&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;red&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#B40043&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=B40043&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;red-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#800049&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=ffffff&amp;bcolor=800049&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;oranges&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;orange-light&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#F2BA49&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=F2BA49&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;orange&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#E87700&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=E87700&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;orange-dark&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#E55800&lt;/div&gt;
+        		&lt;div class=&quot;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://webaim.org/resources/contrastchecker/?fcolor=000000&amp;bcolor=E55800&quot;&gt;click for WCAG contrast checker &lt;span class=&quot;ow-ui-external-link&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;h4 class=&quot;capitalize&quot;&gt;greys&lt;/h4&gt;
+        &lt;div class=&quot;f-color-chips&quot;&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-50&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#faf7f2&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-100&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#f5f2ed&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-200&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#edebe6&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-300&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#E7E4DF&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-400&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#bdbbb7&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-500&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#9e9d99&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-600&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#757472&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-700&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#61605e&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-800&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#424240&lt;/div&gt;
+        	&lt;/div&gt;
+        	&lt;div class=&quot;f-color-chip&quot;&gt;
+        		&lt;div class=&quot;f-color-chip__name&quot;&gt;grey-900&lt;/div&gt;
+        		&lt;div class=&quot;f-color-chip__color&quot;&gt;#212120&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;h3&gt;Tints&lt;/h3&gt;
+        &lt;p&gt;If the need arises, tints can be used. They can be implemented either through opacity changes or using the absolute values as described &lt;a href=&quot;tints.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+        &lt;!--
+        &lt;h4&gt;Teal&lt;/h4&gt;
+        &lt;div class=&quot;tint-table__row&quot;&gt;
+                &lt;div style=&quot;border-color:#00A3B2;&quot;&gt;&lt;h5&gt;100%&lt;br&gt;#00A3B2&lt;/h5&gt;&lt;/div&gt;
+                &lt;div style=&quot;border-color:#33B5C1;&quot;&gt;&lt;h5&gt;80%&lt;br&gt;#33B5C1&lt;/h5&gt;&lt;/div&gt;
+                &lt;div style=&quot;border-color:#66C8D1;&quot;&gt;&lt;h5&gt;60%&lt;br&gt;#66C8D1&lt;/h5&gt;&lt;/div&gt;
+                &lt;div style=&quot;border-color:#99DAE0;&quot;&gt;&lt;h5&gt;40%&lt;br&gt;#99DAE0&lt;/h5&gt;&lt;/div&gt;
+                &lt;div style=&quot;border-color:#CCEDF0;&quot;&gt;&lt;h5&gt;20%&lt;br&gt;#CCEDF0&lt;/h5&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;tint-table&quot;&gt;
+                &lt;div&gt;teal-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#B1D8CF;&quot;&gt;#B1D8CF&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#C1E0D9;&quot;&gt;#C1E0D9&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D0E8E2;&quot;&gt;#D0E8E2&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E0EFEC;&quot;&gt;#E0EFEC&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#EFF7F5;&quot;&gt;#EFF7F5&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;teal&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#00A3B2;&quot;&gt;#00A3B2&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#33B5C1;&quot;&gt;#33B5C1&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#66C8D1;&quot;&gt;#66C8D1&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#99DAE0;&quot;&gt;#99DAE0&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#CCEDF0;&quot;&gt;#CCEDF0&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;teal-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#075B81;&quot;&gt;#075B81&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#397C9A;&quot;&gt;#397C9A&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#6A9DB3;&quot;&gt;#6A9DB3&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#9CBDCD;&quot;&gt;#9CBDCD&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#CDDEE6;&quot;&gt;#CDDEE6&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;purple-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#BCADE2;&quot;&gt;#BCADE2&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#C9BDE8;&quot;&gt;#C9BDE8&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D7CEEE;&quot;&gt;#D7CEEE&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E4DEF3;&quot;&gt;#E4DEF3&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F2EFF9;&quot;&gt;#F2EFF9&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;purple&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#855199;&quot;&gt;#855199&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#9D74AD;&quot;&gt;#9D74AD&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#B697C2;&quot;&gt;#B697C2&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#CEB9D6;&quot;&gt;#CEB9D6&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E7DCEB;&quot;&gt;#E7DCEB&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;purple-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#522464;&quot;&gt;#522464&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#755083;&quot;&gt;#755083&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#977CA2;&quot;&gt;#977CA2&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#BAA7C1;&quot;&gt;#BAA7C1&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#DCD3E0;&quot;&gt;#DCD3E0&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;blue-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#A0C7E5;&quot;&gt;#A0C7E5&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#B3D2EA;&quot;&gt;#B3D2EA&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#C6DDEF;&quot;&gt;#C6DDEF&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D9E9F5;&quot;&gt;#D9E9F5&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#ECF4FA;&quot;&gt;#ECF4FA&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;blue&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#648FD8;&quot;&gt;#648FD8&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#83A5E0;&quot;&gt;#83A5E0&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#A2BCE8;&quot;&gt;#A2BCE8&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#C1D2EF;&quot;&gt;#C1D2EF&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E0E9F7;&quot;&gt;#E0E9F7&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;blue-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#032977;&quot;&gt;#032977&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#355492;&quot;&gt;#355492&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#687FAD;&quot;&gt;#687FAD&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#9AA9C9;&quot;&gt;#9AA9C9&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#CDD4E4;&quot;&gt;#CDD4E4&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;green-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#C6DE8C;&quot;&gt;#C6DE8C&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D1E5A3;&quot;&gt;#D1E5A3&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#DDEBBA;&quot;&gt;#DDEBBA&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E8F2D1;&quot;&gt;#E8F2D1&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F4F8E8;&quot;&gt;#F4F8E8&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;green&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#92CB9C;&quot;&gt;#92CB9C&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#A8D5B0;&quot;&gt;#A8D5B0&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#BEE0C4;&quot;&gt;#BEE0C4&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D3EAD7;&quot;&gt;#D3EAD7&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E9F5EB;&quot;&gt;#E9F5EB&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;green-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#1D5C56;&quot;&gt;#1D5C56&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#4A7D78;&quot;&gt;#4A7D78&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#779D9A;&quot;&gt;#779D9A&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#A5BEBB;&quot;&gt;#A5BEBB&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D2DEDD;&quot;&gt;#D2DEDD&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;red-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#D22938;&quot;&gt;#D22938&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#DB5460;&quot;&gt;#DB5460&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E47F88;&quot;&gt;#E47F88&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#EDA9AF;&quot;&gt;#EDA9AF&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F6D4D7;&quot;&gt;#F6D4D7&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;red&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#B40043;&quot;&gt;#B40043&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#C33369;&quot;&gt;#C33369&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#D2668E;&quot;&gt;#D2668E&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E199B4;&quot;&gt;#E199B4&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F0CCD9;&quot;&gt;#F0CCD9&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;red-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#800049;&quot;&gt;#800049&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#99336D;&quot;&gt;#99336D&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#B36692;&quot;&gt;#B36692&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#CC99B6;&quot;&gt;#CC99B6&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#E6CCDB;&quot;&gt;#E6CCDB&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;orange-light&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#F2BA49;&quot;&gt;#F2BA49&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F5C86D;&quot;&gt;#F5C86D&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F7D692;&quot;&gt;#F7D692&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#FAE3B6;&quot;&gt;#FAE3B6&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#FCF1DB;&quot;&gt;#FCF1DB&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;orange&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#E87700;&quot;&gt;#E87700&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#ED9233;&quot;&gt;#ED9233&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F1AD66;&quot;&gt;#F1AD66&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F6C999;&quot;&gt;#F6C999&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#FAE4CC;&quot;&gt;#FAE4CC&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div&gt;orange-dark&lt;/div&gt;
+                &lt;div class=&quot;tint-table__row&quot;&gt;
+                    &lt;div style=&quot;border-color:#E55800;&quot;&gt;#E55800&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#EA7933;&quot;&gt;#EA7933&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#EF9B66;&quot;&gt;#EF9B66&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#F5BC99;&quot;&gt;#F5BC99&lt;/div&gt;
+                    &lt;div style=&quot;border-color:#FADECC;&quot;&gt;#FADECC&lt;/div&gt;
+                &lt;/div&gt;
+        &lt;/div&gt;
+        --&gt;</code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="04-iconography">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Iconography</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Coming soon! Please check back next month.</p>
+        
+        </div>
+        <div class="f-item-preview">
+            <p>To see an early preview, please click <a href="/icon-library.html">here</a></p>
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup">&lt;p&gt;To see an early preview, please click &lt;a href=&quot;/icon-library.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="05-typography">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Typography</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Below is a set of recommended text styles for basic HTML tags. If you can easily start implementing this font on your digital product, please start doing so immediately. Otherwise, please implement with your next redesign. Here are some specifics about font faces and writing style:</p>
+        <ul>
+        <li>Our primary font for online usage is Open Sans which can be found here: <a href="https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans">Open Sans at Google Fonts</a></li>
+        <li><strong>We are currently discussing including a monospaced typeface and serif typeface to broaden the font palette for UI design only. Please check back regularly for updates.</strong></li>
+        <li>Please use 'sentence case' where possible</li>
+        <li>Use all caps sparingly and for key information or headings only</li>
+        <li>Unless specified otherwise, Wiley's corporate written language is American English</li>
+        </ul>
+        
+        </div>
+        <div class="f-item-preview">
+            <h3>Headings</h3>
+        
+        <h1>Heading Level 1 - Please restrict to one use per page</h1>
+        <h2>Heading Level 2 - heading</h2>
+        <h3>Heading Level 3 - sub-heading</h3>
+        <h4>Heading Level 4 - Key information and links/call-to-actions</h4>
+        <h5>Heading Level 5 - Key supporting information</h5>
+        <h6>Heading Level 6 - legislation and copyright</h6>
+        
+        <h3>Paragraph</h3>
+        
+        <p>A paragraph (from the Greek paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax
+        	of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
+        
+        <h3>Blockquote</h3>
+        
+        <blockquote>
+        	<p>A block quotation (also known as a long quotation or extract) is a quotation in a written document, which is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface
+        		or smaller size quotation.</p>
+        </blockquote>
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup">&lt;h3&gt;Headings&lt;/h3&gt;
+        
+        &lt;h1&gt;Heading Level 1 - Please restrict to one use per page&lt;/h1&gt;
+        &lt;h2&gt;Heading Level 2 - heading&lt;/h2&gt;
+        &lt;h3&gt;Heading Level 3 - sub-heading&lt;/h3&gt;
+        &lt;h4&gt;Heading Level 4 - Key information and links/call-to-actions&lt;/h4&gt;
+        &lt;h5&gt;Heading Level 5 - Key supporting information&lt;/h5&gt;
+        &lt;h6&gt;Heading Level 6 - legislation and copyright&lt;/h6&gt;
+        
+        &lt;h3&gt;Paragraph&lt;/h3&gt;
+        
+        &lt;p&gt;A paragraph (from the Greek paragraphos, &quot;to write beside&quot; or &quot;written beside&quot;) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax
+        	of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.&lt;/p&gt;
+        
+        &lt;h3&gt;Blockquote&lt;/h3&gt;
+        
+        &lt;blockquote&gt;
+        	&lt;p&gt;A block quotation (also known as a long quotation or extract) is a quotation in a written document, which is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface
+        		or smaller size quotation.&lt;/p&gt;
+        &lt;/blockquote&gt;</code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="06-decoration">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Decoration</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Below are some examples of how the One Wiley Visual Language (also known as the network) can be used to add decoration to elements.</p>
+        <p>The network should be used sparingly within UI design and adopted primarily to draw focus to key information.</p>
+        <p>Please consult the One Wiley Brand Guidelines for information on marketing collatoral.</p>
+        
+        </div>
+        <div class="f-item-preview">
+            <div class="f-decoration">
+        	<h3>List</h3>
+        	<ul class="ow-list--decorated">
+        		<li><span class="ow-list__heading">250</span>
+        			<br><span class="ow-list__copy">Wiley journals with JCR Impact Factor</span></li>
+        		<li><span class="ow-list__heading">Top 10</span>
+        			<br><span class="ow-list__copy">Wiley journals ranked worldwide</span></li>
+        		<li><span class="ow-list__heading">Over One Million</span>
+        			<br><span class="ow-list__copy">Articles helping the world</span></li>
+        		<li><span class="ow-list__heading">Millions</span>
+        			<br><span class="ow-list__copy">Supporting figures accessible through a comprehensive database</span></li>
+        		<li><span class="ow-list__heading">One Wiley</span>
+        			<br><span class="ow-list__copy">Uniting professional research with learning and development</span></li>
+        	</ul>
+        </div>
+        <div class="f-decoration">
+        	<h3>Heading</h3>
+        	<div class="ow-heading--decorated">
+        		<span class="ow-heading__heading">Transforming learning <span class="ow-heading__heading--orange-dark">together</span></span>
+        		<div class="ow-heading__line"></div>
+        	</div>
+        </div>
+        <div class="f-decoration">
+        	<h3>Key information circle</h3>
+        	<div class="ow-keyinfo--decorated">
+        		<div class="ow-keyinfo__big-circle">
+        			<div class="ow-keyinfo__small-circle">
+        				<div class="ow-keyinfo__copy">100%</div>
+        			</div>
+        		</div>
+        	</div>
+        </div>
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup">&lt;div class=&quot;f-decoration&quot;&gt;
+        	&lt;h3&gt;List&lt;/h3&gt;
+        	&lt;ul class=&quot;ow-list--decorated&quot;&gt;
+        		&lt;li&gt;&lt;span class=&quot;ow-list__heading&quot;&gt;250&lt;/span&gt;
+        			&lt;br&gt;&lt;span class=&quot;ow-list__copy&quot;&gt;Wiley journals with JCR Impact Factor&lt;/span&gt;&lt;/li&gt;
+        		&lt;li&gt;&lt;span class=&quot;ow-list__heading&quot;&gt;Top 10&lt;/span&gt;
+        			&lt;br&gt;&lt;span class=&quot;ow-list__copy&quot;&gt;Wiley journals ranked worldwide&lt;/span&gt;&lt;/li&gt;
+        		&lt;li&gt;&lt;span class=&quot;ow-list__heading&quot;&gt;Over One Million&lt;/span&gt;
+        			&lt;br&gt;&lt;span class=&quot;ow-list__copy&quot;&gt;Articles helping the world&lt;/span&gt;&lt;/li&gt;
+        		&lt;li&gt;&lt;span class=&quot;ow-list__heading&quot;&gt;Millions&lt;/span&gt;
+        			&lt;br&gt;&lt;span class=&quot;ow-list__copy&quot;&gt;Supporting figures accessible through a comprehensive database&lt;/span&gt;&lt;/li&gt;
+        		&lt;li&gt;&lt;span class=&quot;ow-list__heading&quot;&gt;One Wiley&lt;/span&gt;
+        			&lt;br&gt;&lt;span class=&quot;ow-list__copy&quot;&gt;Uniting professional research with learning and development&lt;/span&gt;&lt;/li&gt;
+        	&lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;f-decoration&quot;&gt;
+        	&lt;h3&gt;Heading&lt;/h3&gt;
+        	&lt;div class=&quot;ow-heading--decorated&quot;&gt;
+        		&lt;span class=&quot;ow-heading__heading&quot;&gt;Transforming learning &lt;span class=&quot;ow-heading__heading--orange-dark&quot;&gt;together&lt;/span&gt;&lt;/span&gt;
+        		&lt;div class=&quot;ow-heading__line&quot;&gt;&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;f-decoration&quot;&gt;
+        	&lt;h3&gt;Key information circle&lt;/h3&gt;
+        	&lt;div class=&quot;ow-keyinfo--decorated&quot;&gt;
+        		&lt;div class=&quot;ow-keyinfo__big-circle&quot;&gt;
+        			&lt;div class=&quot;ow-keyinfo__small-circle&quot;&gt;
+        				&lt;div class=&quot;ow-keyinfo__copy&quot;&gt;100%&lt;/div&gt;
+        			&lt;/div&gt;
+        		&lt;/div&gt;
+        	&lt;/div&gt;
+        &lt;/div&gt;</code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="07-favicon">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Favicon</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>Coming soon! Please check back next month.</p>
+        
+        </div>
+        <div class="f-item-preview">
+            
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup"></code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="08-photography">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Photography</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <ul>
+        <li>Please consult the One Wiley Brand Guidelines for information on the use and selection of photography and imagery</li>
+        <li>Keep in mind that images and figures within Wiley content (e.g., journal articles or book content) may follow their own guide lines. This is okay.</li>
+        </ul>
+        
+        </div>
+        <div class="f-item-preview">
+            
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup"></code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="09-usability">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Usability</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <h4>Best Practices for Designing an Interface</h4>
+        <p>Everything stems from knowing your users, including understanding their goals, skills, preferences, and tendencies.  Once you know about your user, make sure to consider the following when designing your interface:</p>
+        <ul>
+        <li><strong>Keep the interface simple.</strong> The best interfaces are almost invisible to the user. They avoid unnecessary elements and are clear in the language they use on labels and in messaging.</li>
+        <li><strong>Create consistency and use common UI elements.</strong> By using <a href="http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html">common elements</a> in your UI, users feel more comfortable and are able to get things done more quickly.  It is also important to create patterns in language, layout and design throughout the site to help facilitate efficiency. Once a user learns how to do something, they should be able to transfer that skill to other parts of the site.</li>
+        <li><strong>Be purposeful in page layout.</strong> Consider the spatial relationships between items on the page and structure the page based on importance. Careful placement of items can help draw attention to the most important pieces of information and can aid scanning and readability.</li>
+        <li><strong>Strategically use color and texture.</strong> You can direct attention toward or redirect attention away from items using color, light, contrast, and texture to your advantage.</li>
+        <li><strong>Use typography to create hierarchy and clarity.</strong> Carefully consider how you use typeface. Different sizes, fonts, and arrangement of the text to help increase scanability, legibility and readability.</li>
+        <li><strong>Make sure that the system communicates what’s happening.</strong> Always inform your users of location, actions, changes in state, or errors. The use of various UI elements to communicate status and, if necessary, next steps can reduce frustration for your user.</li>
+        <li><strong>Think about the defaults.</strong> By carefully thinking about and anticipating the goals people bring to your site, you can create defaults that reduce the burden on the user.  This becomes particularly important when it comes to form design where you might have an opportunity to have some fields pre-chosen or filled out.</li>
+        <li><strong>Touch devices and hit areas.</strong> The physical size of CTAs are important when designing for touch screen. 44px/1cm is a good starting point.</li>
+        <li><strong>Animation</strong> Responsiveness should never be sacrificed for fancy animations. However, motion can be used to describe spatial relationships, functionality, and intention.</li>
+        </ul>
+        
+        </div>
+        <div class="f-item-preview">
+            
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup"></code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+<div class="f--section">
+    <div class="f--section__max-width">
+        <div class="f-item-group" id="10-accessibility">
+        
+        	<div class="f-item-heading-group" data-f-toggle="labels">
+        		<h2 class="f-item-heading">Accessibility</h2>
+        		<div class="f-item-controls">
+        		    <span>Toggle:</span>
+        			<span class="f-control" data-f-toggle-control="notes" title="Toggle Notes">
+        				Notes
+        			</span>
+        			<span class="f-control" data-f-toggle-control="code" title="Toggle Code">
+        				Code
+        			</span>
+        		</div>
+        	</div><div class="f-item-notes" data-f-toggle="notes">
+            <p>At Wiley, we work to meet the requirements for 'WCAG 2.0: Level AA' compliance. A full checklist of the guidelines can be found <a href="http://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html">here</a>.</p>
+        <p>UX Architects, UI developers and UI designers all play a significant part in meeting the accessibility requirements. Here are some key points for UI designers:</p>
+        <ul>
+        <li>Text or diagrams, and their background, have a luminosity contrast ratio of at least 5:1. <a href="http://webaim.org/resources/contrastchecker/">Click here for an online color contrast checker tool</a>.</li>
+        <li>A mechanism is available to turn off background audio that plays automatically, without requiring the user to turn off all audio.</li>
+        <li>Content does not blink for more than three seconds, or a method is available to stop all blinking content in the Web unit or authored component.</li>
+        <li>Content can be paused by the user unless the timing or movement is part of an activity where timing or movement is essential.</li>
+        <li>A full checklist of the guidelines can be found <a href="http://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html">here</a>.</li>
+        <li>A useful article that outlines the various responsibilities regarding accessibility can be found <a href="http://marketingland.com/measuring-accessibility-user-experience-ux-searcher-experience-139546">here</a></li>
+        </ul>
+        
+        </div>
+        <div class="f-item-preview">
+            
+        </div>
+        <div class="f-item-code f-item-hidden" data-f-toggle="code">
+            <pre><code class="language-markup"></code></pre>
+        </div>
+        
+        </div>
+    </div>
+</div>
+
+<div class="f--section footer">
+    <div class="f--section__max-width">
+        <a href="structures.html" class="footer__text">Structures <span class="ow-ui-chevron-right"></span></a>
+    </div>
+</div>
+
+            
+		</div>
+        <div class="menu-overlay"></div>
+    <script src="/assets/fabricator/scripts/f.js"></script>
+
+	<!-- toolkit scripts -->
+	<script src="/assets/toolkit/scripts/toolkit.js"></script>
+	<!-- /toolkit scripts -->
+
+</body>
+</html>
