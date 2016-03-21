@@ -3,15 +3,15 @@
 <div id="png-modal" class="png-modal" style="display: none;">
     <div class="png-modal__header">
         <strong>Download PNG</strong>
-        <span class="oi" data-glyph="x" onclick="closePngModal()"></span>
+        <span class="ow-ui-x" onclick="closePngModal()"></span>
     </div>
     <div class="png-modal__content">
         <div class="png-modal__icon-container">
             <div class="png-modal__icon">
-                {{> f-icon-svg}}
+                {{#if il-icons}} {{> f-icon-il-svg}} {{/if}} {{#if ui-icons}} {{> f-icon-ui-svg}} {{/if}}
             </div>
         </div>
-        <h3>Choose style</h3>
+<!--        <h3>Choose style</h3>-->
         <h3>Choose color</h3>
         <div class="swatches">
             <div class="swatch">
@@ -26,8 +26,16 @@
             </div>
             {{/if}} {{/each}} {{/each}}
         </div>
-        <h3>Choose size</h3>
-        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-normal.png", {scale: 1});'>download png NORMAL</button>
-        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-large.png", {scale: 10});'>download png LARGE</button>
+        <h3>Choose size</h3> {{#if il-icons}}
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-normal.png", {scale: 1});'>download PNG small 64px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-normal.png", {scale: 2});'>download PNG medium 128px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-large.png", {scale: 10});'>download PNG large 640px</button>
+        {{/if}} {{#if ui-icons}}
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-8px.png", {scale: 0.25});'>download PNG 8px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-16px.png", {scale: 0.5});'>download PNG 16px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-24px.png", {scale: 0.75});'>download PNG 24px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-32px.png", {scale: 1});'>download PNG 32px</button>
+        <button class="ow-button" onclick='saveSvgAsPng(document.getElementById("diagram"), "icon-64px.png", {scale: 2});'>download PNG 64px</button>
+        {{/if}}
     </div>
 </div>

@@ -1,1010 +1,1177 @@
 [
   {
-    "name": "social-sciences-and-humanities-urban-devstudies",
-    "category": "social sciences",
-    "available": null,
-    "tags": ["urban", "science", "social", "crazy"]
+     "reference":"author-marketing-archive"
+    ,"name":"archive"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-sociology",
-    "category": "social sciences",
-    "available": null,
-    "tags": ["social", "society", "sociology", "community"]
+     "reference":"author-marketing-bar-chart"
+    ,"name":"bar chart"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-religion-and-theology",
-    "category": "social sciences",
-    "available": "social sciences",
-    "tags": null
+     "reference":"author-marketing-book"
+    ,"name":"book"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-psychology",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-check-mark"
+    ,"name":"check mark"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-politics",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-cite"
+    ,"name":"cite"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-philosophy",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-cloud"
+    ,"name":"cloud"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-literature",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-comp-monitor"
+    ,"name":"comp monitor"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-language-and-linguistics",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-conference"
+    ,"name":"conference"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-history",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-convers-bubble"
+    ,"name":"convers bubble"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-geography",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-data1"
+    ,"name":"data1"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-film",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-data2"
+    ,"name":"data2"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-education",
-    "category": "social sciences",
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-email"
+    ,"name":"email"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-econ",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-funder"
+    ,"name":"funder"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-comm-and-cultstudies",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-gear"
+    ,"name":"gear"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-classics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-globe"
+    ,"name":"globe"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-business",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-lab-equip"
+    ,"name":"lab equip"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-arts-and-appliedarts",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-light-bulb"
+    ,"name":"light bulb"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-anthropology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-microphone"
+    ,"name":"microphone"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "social-sciences-and-humanities-acct-finance",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-multimedia"
+    ,"name":"multimedia"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-statistics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-openaccess1"
+    ,"name":"openaccess1"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-statistics-and-maths",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-openaccess2"
+    ,"name":"openaccess2"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-polymersci-and-tech",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-padlock"
+    ,"name":"padlock"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-physics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-paper-clip"
+    ,"name":"paper clip"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-maths",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-pencil"
+    ,"name":"pencil"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-materialsci",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-publicity"
+    ,"name":"publicity"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-energy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-read"
+    ,"name":"read"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-electrical-and-electroniceng",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-scissors"
+    ,"name":"scissors"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-chemistrydata",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-seo"
+    ,"name":"seo"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-chemistry",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-smartphone"
+    ,"name":"smartphone"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "physical-sciences-chemicaleng",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-social-media"
+    ,"name":"social media"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-plantsci",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-star"
+    ,"name":"star"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-pharmacology-and-drug-discovery",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-time"
+    ,"name":"time"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-parasitology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"author-marketing-wider-web"
+    ,"name":"wider web"
+    ,"category":"author marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-ornitology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-advertising"
+    ,"name":"advertising"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-neuroscience",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-elearning"
+    ,"name":"elearning"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-microscopy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-journalreprintbooks"
+    ,"name":"journal reprint books"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-microbiology-and-virology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-microsite"
+    ,"name":"microsite"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-genetics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-mobileapp"
+    ,"name":"mobile app"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-gen-and-introsci",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-sponsoredsub"
+    ,"name":"sponsored sub"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-gen-and-humanbio",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"channel-marketing-webinar"
+    ,"name":"webinar"
+    ,"category":"channel marketing"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-forensicsci",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-banking-insurance"
+    ,"name":"banking insurance"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-foodsci",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-certification"
+    ,"name":"certification"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-evolution",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-consumergoods"
+    ,"name":"consumer goods"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-entomology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-contactemail"
+    ,"name":"email"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-ecology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-contactphone"
+    ,"name":"phone"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-earth-and-envirosci-2",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-detailedinfo"
+    ,"name":"information"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-earth-and-envirosci-1",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-docdownload"
+    ,"name":"document download"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-devbio",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-ebook"
+    ,"name":"e-book"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-comparativebio",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-education"
+    ,"name":"education"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-cells-and-molecularbio",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-energy"
+    ,"name":"energy"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-aquaticsci-2",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-event"
+    ,"name":"event"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-aquaticsci-1",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-health-and-enviro"
+    ,"name":"health and environment"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-animalsci-and-zoo",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-industry"
+    ,"name":"industry"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "life-sciences-agriculture",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-media"
+    ,"name":"media"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-vetmed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-news"
+    ,"name":"news"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-urology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-print"
+    ,"name":"print"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-transplantation",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-publicserv"
+    ,"name":"publicserv"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-surgery",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-qa"
+    ,"name":"qa"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-sportsmed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-retail"
+    ,"name":"retail"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-rheumatology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-services"
+    ,"name":"services"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-respiratorymed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-share"
+    ,"name":"share"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-psychiatry",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-source"
+    ,"name":"source"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-pharmacology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-telecom-hitech"
+    ,"name":"telecom hitech"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-pediatrics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-video"
+    ,"name":"video"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-pathology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cross-knowledge-webinar"
+    ,"name":"webinar"
+    ,"category":"cross knowledge"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-painmed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cta-calendar"
+    ,"name":"calendar"
+    ,"category":"general"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-otolaryngology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cta-contact-us"
+    ,"name":"contact us"
+    ,"category":"general"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-ophthalmology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cta-e-mail"
+    ,"name":"email"
+    ,"category":"general"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-oncology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"cta-log-in"
+    ,"name":"log in"
+    ,"category":"general"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-occupationalhealth",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-addiction"
+    ,"name":"addiction"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-occupation-and-phytherapy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-allergy"
+    ,"name":"allergy"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-ob-gyn",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-anatomy"
+    ,"name":"anatomy"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-nutrition",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-andrology"
+    ,"name":"andrology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-nursing",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-anesthesia"
+    ,"name":"anesthesia"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-neurology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-cardiology"
+    ,"name":"cardiology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-nephrology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-dentistry"
+    ,"name":"dentistry"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-molecularmed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-dermatology"
+    ,"name":"dermatology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-meded",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-emergencymed"
+    ,"name":"emergencymed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-language-and-speech",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-endocrinology"
+    ,"name":"endocrinology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-infectiousdis",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-gastroenterology"
+    ,"name":"gastroenterology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-immunology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-gen-and-internalmed"
+    ,"name":"gen and internalmed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-imaging-radiology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-genetics"
+    ,"name":"genetics"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-hepatlogy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-geriatrics"
+    ,"name":"geriatrics"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-hematology-and-transfusion",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-health-and-soccare"
+    ,"name":"health and soccare"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-health-and-soccare",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-hematology-and-transfusion"
+    ,"name":"hematology and transfusion"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-geriatrics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-hepatlogy"
+    ,"name":"hepatlogy"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-genetics",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-imaging-radiology"
+    ,"name":"imaging radiology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-gen-and-internalmed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-immunology"
+    ,"name":"immunology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-gastroenterology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-infectiousdis"
+    ,"name":"infectiousdis"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-endocrinology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-language-and-speech"
+    ,"name":"language and speech"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-emergencymed",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-meded"
+    ,"name":"meded"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-dermatology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-molecularmed"
+    ,"name":"molecularmed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-dentistry",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-nephrology"
+    ,"name":"nephrology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-cardiology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-neurology"
+    ,"name":"neurology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-anesthesia",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-nursing"
+    ,"name":"nursing"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-andrology",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-nutrition"
+    ,"name":"nutrition"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-anatomy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-ob-gyn"
+    ,"name":"ob gyn"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-allergy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-occupationalhealth"
+    ,"name":"occupationalhealth"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "health-sciences-addiction",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-occupation-and-phytherapy"
+    ,"name":"occupation and phytherapy"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cta-log-i",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-oncology"
+    ,"name":"oncology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cta-e-mai",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-ophthalmology"
+    ,"name":"ophthalmology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cta-contact-u",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-otolaryngology"
+    ,"name":"otolaryngology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cta-calenda",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-painmed"
+    ,"name":"painmed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-webinar",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-pathology"
+    ,"name":"pathology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-video",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-pediatrics"
+    ,"name":"pediatrics"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-telecom-hitech",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-pharmacology"
+    ,"name":"pharmacology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-source",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-psychiatry"
+    ,"name":"psychiatry"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-share",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-respiratorymed"
+    ,"name":"respiratorymed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-services",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-rheumatology"
+    ,"name":"rheumatology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-retail",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-sportsmed"
+    ,"name":"sportsmed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-qa",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-surgery"
+    ,"name":"surgery"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-publicserv",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-transplantation"
+    ,"name":"transplantation"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-print",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-urology"
+    ,"name":"urology"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-news",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"health-sciences-vetmed"
+    ,"name":"vetmed"
+    ,"category":"health sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-media",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-agriculture"
+    ,"name":"agriculture"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-industry",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-animalsci-and-zoo"
+    ,"name":"animalsci and zoo"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-health-and-enviro",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-aquaticsci-1"
+    ,"name":"aquaticsci 1"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-event",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-aquaticsci-2"
+    ,"name":"aquaticsci 2"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-energy",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-cells-and-molecularbio"
+    ,"name":"cells and molecularbio"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-education",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-comparativebio"
+    ,"name":"comparativebio"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-ebook",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-devbio"
+    ,"name":"devbio"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-docdownload",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-earth-and-envirosci-1"
+    ,"name":"earth and envirosci 1"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-detailedinfo",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-earth-and-envirosci-2"
+    ,"name":"earth and envirosci 2"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-contactphone",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-ecology"
+    ,"name":"ecology"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-contactemail",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-entomology"
+    ,"name":"entomology"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-consumergoods",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-evolution"
+    ,"name":"evolution"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-certification",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-foodsci"
+    ,"name":"foodsci"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "cross-knowledge-banking-insurance",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-forensicsci"
+    ,"name":"forensicsci"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-webinar",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-gen-and-humanbio"
+    ,"name":"gen and humanbio"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-sponsoredsub",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-gen-and-introsci"
+    ,"name":"gen and introsci"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-mobileapp",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-genetics"
+    ,"name":"genetics"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-microsite",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-microbiology-and-virology"
+    ,"name":"microbiology and virology"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-journalreprintbooks",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-microscopy"
+    ,"name":"microscopy"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-elearning",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-neuroscience"
+    ,"name":"neuroscience"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "channel-marketing-advertising",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-ornitology"
+    ,"name":"ornitology"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-wider-web",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-parasitology"
+    ,"name":"parasitology"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-time",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-pharmacology-and-drug-discovery"
+    ,"name":"pharmacology and drug discovery"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-star",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"life-sciences-plantsci"
+    ,"name":"plantsci"
+    ,"category":"life sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-social-media",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-chemicaleng"
+    ,"name":"chemicaleng"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-smartphone",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-chemistry"
+    ,"name":"chemistry"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-seo",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-chemistrydata"
+    ,"name":"chemistrydata"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-scissors",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-electrical-and-electroniceng"
+    ,"name":"electrical and electroniceng"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-read",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-energy"
+    ,"name":"energy"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-publicity",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-materialsci"
+    ,"name":"materialsci"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-pencil",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-maths"
+    ,"name":"maths"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-paper-clip",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-physics"
+    ,"name":"physics"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-padlock",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-polymersci-and-tech"
+    ,"name":"polymersci and tech"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-openaccess2",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-statistics"
+    ,"name":"statistics"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-openaccess1",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"physical-sciences-statistics-and-maths"
+    ,"name":"statistics and maths"
+    ,"category":"physical sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-multimedia",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-acct-finance"
+    ,"name":"acct finance"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-microphone",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-anthropology"
+    ,"name":"anthropology"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-light-bulb",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-arts-and-appliedarts"
+    ,"name":"arts and appliedarts"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-lab-equip",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-business"
+    ,"name":"business"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-globe",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-classics"
+    ,"name":"classics"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-gear",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-comm-and-cultstudies"
+    ,"name":"comm and cultstudies"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-funder",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-econ"
+    ,"name":"econ"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-email",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-education"
+    ,"name":"education"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-data2",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-film"
+    ,"name":"film"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-data1",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-geography"
+    ,"name":"geography"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-convers-bubble",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-history"
+    ,"name":"history"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-conference",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-language-and-linguistics"
+    ,"name":"language and linguistics"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-comp-monitor",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-literature"
+    ,"name":"literature"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-cloud",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-philosophy"
+    ,"name":"philosophy"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-cite",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-politics"
+    ,"name":"politics"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-check-mark",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-psychology"
+    ,"name":"psychology"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-book",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-religion-and-theology"
+    ,"name":"religion and theology"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":null
   },
   {
-    "name": "author-marketing-bar-chart",
-    "category": null,
-    "available": null,
-    "tags": null
+     "reference":"social-sciences-and-humanities-sociology"
+    ,"name":"sociology"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":["social", "society", "sociology", "community"]
   },
   {
-    "name": "author-marketing-archive",
-    "category": null,
-    "available": null,
-    "tags": null
-  }
-]
+     "reference":"social-sciences-and-humanities-urban-devstudies"
+    ,"name":"urban devstudies"
+    ,"category":"social sciences"
+    ,"available":null
+    ,"tags":["urban", "science", "social", "crazy"]
+  }]

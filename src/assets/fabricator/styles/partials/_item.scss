@@ -84,7 +84,7 @@
 .f-item-notes {
     position: relative;
 	font-size: 0.875em;
-    padding: 1.5rem 1rem 1rem;
+    padding: 2rem 1rem 1rem;
     background-color: map-get($colors, grey-100);
     border: 1px solid map-get($colors, grey-300);
     margin-bottom: 1rem;
@@ -95,5 +95,6 @@
         left: 0;
         font-size: 0.875em;
         padding: 0.5rem;
+        color: map-get($colors, grey-500);
     }
 }

@@ -1,0 +1,34 @@
+---
+fabricator: true
+title: Headers
+---
+
+<div class="f--section f--section--light">
+    <div class="f--section__max-width">
+        <h1 class="f--page-title f--page-title--teal" data-f-toggle="labels">Headers</h1>
+    </div>
+</div>
+
+<div class="f--section">
+    <div class="f--section__max-width f--section--hr">
+        <h2>Headers specification</h2>
+        <p>Headers vary from product to product and should follow the guidelines set out in this styleguide and the One Wiley Brand Guidelines.</p>
+        <p>To see an example footer in a full-width page context, please <a href="headers-noui.html">click here</a>.</p>
+    </div>
+</div>
+
+{{#each materials.headers.items}}
+
+<div class="f--section">
+    <div class="f--section__max-width">
+        {{> f-item this}}
+    </div>
+</div>
+
+{{/each}}
+
+<div class="f--section footer">
+    <div class="f--section__max-width">
+<!--        <a href="footers.html" class="footer__text">Footers<span class="ow-ui-chevron-right"></span></a>-->
+    </div>
+</div>

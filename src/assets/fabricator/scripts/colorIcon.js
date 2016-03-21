@@ -34,8 +34,8 @@ window.makeSelected = function (e) {
 /**
  * icon info panel
  */
-window.iconInfo = function () {
-    var iconLi = event.target.parentNode;
+window.iconInfo = function (e) {
+    var iconLi = e.parentElement;
     var icInfoPane = iconLi.getElementsByClassName("icon-info");
     if (icInfoPane[0].style.display == "none") {
         icInfoPane[0].style.display = "block";

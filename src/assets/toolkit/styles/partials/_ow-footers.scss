@@ -44,12 +44,13 @@
     }
 }
 
-// copyright line
+// copyright lines
 .copyright {
     text-align: center;
     font-size: 0.625em;
     margin: 1rem 3rem;
     a {
+        text-decoration: none;
         color: inherit;
         font-weight: 700;
         &:hover {
@@ -60,6 +61,21 @@
         text-align: left;
         margin-left: 1rem;
         margin-right: 10rem;
+    }
+}
+.soc-copyright {
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 1rem;
+    a {
+        color: inherit;
+        font-weight: 700;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    @media (min-width: 38em) {
+        text-align: left;
     }
 }
 
@@ -73,7 +89,7 @@
     padding: 0 1rem;
     text-transform: uppercase;
     @include susy-clearfix;
-    .footer-wiley__list {
+    .footer-wiley__list {        
         font-size: 0.7em;
         text-align: center;
         span {
@@ -86,6 +102,9 @@
         }
         li {
             margin: 0 0 0.25rem;
+            a {
+                color: inherit;
+            }
         }
         @media (min-width: 38em) {
             text-align: left;
@@ -180,3 +199,64 @@
 }
 
 
+// wiley online library HUB footer links
+.footer--sochub {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    border-top: 1px solid map-get($ow-colors, purple);
+    background-color: map-get($ow-colors, grey-100);
+    .footer--sochub__content {
+        max-width: 960px;
+        margin: auto;
+        box-sizing: border-box;
+        padding: 0 1rem;
+        font-size: 0.75em;
+        @include susy-clearfix;
+        .footer--sochub__col {
+            text-align: center;
+            span {
+                display: inline-block;
+                margin-bottom: 1rem;
+            }
+            ul {
+                margin-top: 0;
+                padding: 0;
+                list-style: none;
+                color: map-get($ow-colors, purple);
+                li {
+                    font-weight: 600;
+                }
+            }
+            @media (min-width: 38em) {
+                text-align: left;
+                &.footer--sochub__col--brand {
+                    @include span(3 of 12);
+                }
+                &.footer--sochub__col--links {
+                    @include span(3 of 12);
+                }
+                &:last-child {
+                    @include last;
+                }
+            }
+            @media (min-width: 38em) {
+                text-align: left;
+                &.footer--sochub__col--brand {
+                    @include span(6 of 12);
+                }
+                &.footer--sochub__col--links {
+                    @include span(2 of 12);
+                }
+                &:last-child {
+                    @include last;
+                }
+            }
+        }
+    }
+    &.nobrandcolor {
+        border-top: 4px solid black;
+        li {
+            color: map-get($ow-colors, grey-700);
+        }
+    }
+}

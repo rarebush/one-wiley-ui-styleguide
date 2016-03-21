@@ -3,41 +3,58 @@ html {
 }
 
 body {
+    font-size: 1rem;
     color: map-get($ow-colors, grey-700);
     font-family: $wiley-sans;
     margin: 0;
 }
-
+//headings
 h1 {
     font-weight: 600;
     font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 h2 {
     font-weight: 300;
     font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 h3 {
     font-weight: 700;
     font-size: 1.25em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 h4 {    
     font-weight: 600;
     font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 h5 {    
     font-weight: 700;
     font-size: 0.75em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 h6 {    
     font-weight: 400;
     font-size: 0.75em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
-
+//paragraph
+p {    
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
 blockquote {
     position: relative;
     &:before {
-        content: '\e054';
-        font-family: 'Icons';
+        content: '\3f';
+        font-family: 'ow-ui-icons';
         position: absolute;
         top: 0;
         left: -2rem;
@@ -45,12 +62,45 @@ blockquote {
         color: map-get($ow-colors, teal);
     }
 }
-
 hr {
     border: 0;
     border-bottom: 1px solid map-get($ow-colors, grey-300);
 }
+//lists
+ul, ol, dl {
+    margin-top: 0;
+}
 
+//custom
 .capitalize {
     text-transform: capitalize;
+}
+
+.ow-callout {
+    border-left: 3px solid map-get($ow-colors, grey-500);
+    padding: 0 1rem;
+    &.ow-callout--danger {
+        border-color: map-get($ow-colors, red-light);
+        h4 {
+            color: map-get($ow-colors, red-light);
+        }
+    }
+    &.ow-callout--warning {
+        border-color: map-get($ow-colors, orange-light);
+        h4 {
+            color: map-get($ow-colors, orange-light);
+        }
+    }
+    &.ow-callout--information {
+        border-color: map-get($ow-colors, blue-light);
+        h4 {
+            color: map-get($ow-colors, blue-light);
+        }
+    }
+    &.ow-callout--success {
+        border-color: map-get($ow-colors, green);
+        h4 {
+            color: map-get($ow-colors, green);
+        }
+    }
 }

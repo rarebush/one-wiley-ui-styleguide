@@ -4,6 +4,8 @@ colors:
             colorHex: "1f1f1e"
         -   colorName: "wiley-white"
             colorHex: "ffffff"
+        -   colorName: "warm-grey"
+            colorHex: "dfddd6"
     teal:
         -   colorName: "teal-light"
             colorHex: "B1D8CF"

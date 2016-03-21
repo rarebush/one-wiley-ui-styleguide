@@ -1,0 +1,3639 @@
+{
+	"name": "wiley-ui-icons-8pt-master-v1.ai",
+	"width": 8,
+	"height": 8,
+	"layers": [
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "account-login.svg",
+			"name": "account-login",
+			"type": "svg",
+			"filename": "account-login.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "account-logout.svg",
+			"name": "account-logout",
+			"type": "svg",
+			"filename": "account-logout.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "action-redo.svg",
+			"name": "action-redo",
+			"type": "svg",
+			"filename": "action-redo.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "action-undo.svg",
+			"name": "action-undo",
+			"type": "svg",
+			"filename": "action-undo.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "align-center.svg",
+			"name": "align-center",
+			"type": "svg",
+			"filename": "align-center.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "align-left.svg",
+			"name": "align-left",
+			"type": "svg",
+			"filename": "align-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "align-right.svg",
+			"name": "align-right",
+			"type": "svg",
+			"filename": "align-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "aperture.svg",
+			"name": "aperture",
+			"type": "svg",
+			"filename": "aperture.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "arrow-circle-bottom.svg",
+			"name": "arrow-circle-bottom",
+			"type": "svg",
+			"filename": "arrow-circle-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "arrow-circle-left.svg",
+			"name": "arrow-circle-left",
+			"type": "svg",
+			"filename": "arrow-circle-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "arrow-circle-right.svg",
+			"name": "arrow-circle-right",
+			"type": "svg",
+			"filename": "arrow-circle-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "arrow-circle-top.svg",
+			"name": "arrow-circle-top",
+			"type": "svg",
+			"filename": "arrow-circle-top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "arrow-simple-bottom.svg",
+			"name": "arrow-simple-bottom",
+			"type": "svg",
+			"filename": "arrow-simple-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "arrow-simple-left.svg",
+			"name": "arrow-simple-left",
+			"type": "svg",
+			"filename": "arrow-simple-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "arrow-simple-right.svg",
+			"name": "arrow-simple-right",
+			"type": "svg",
+			"filename": "arrow-simple-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "arrow-simple-top.svg",
+			"name": "arrow-simple-top",
+			"type": "svg",
+			"filename": "arrow-simple-top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "audio-spectrum.svg",
+			"name": "audio-spectrum",
+			"type": "svg",
+			"filename": "audio-spectrum.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "audio.svg",
+			"name": "audio",
+			"type": "svg",
+			"filename": "audio.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "badge.svg",
+			"name": "badge",
+			"type": "svg",
+			"filename": "badge.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "ban.svg",
+			"name": "ban",
+			"type": "svg",
+			"filename": "ban.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "bar-chart.svg",
+			"name": "bar-chart",
+			"type": "svg",
+			"filename": "bar-chart.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "basket.svg",
+			"name": "basket",
+			"type": "svg",
+			"filename": "basket.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "battery-empty.svg",
+			"name": "battery-empty",
+			"type": "svg",
+			"filename": "battery-empty.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "battery-full.svg",
+			"name": "battery-full",
+			"type": "svg",
+			"filename": "battery-full.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "beaker.svg",
+			"name": "beaker",
+			"type": "svg",
+			"filename": "beaker.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "bell.svg",
+			"name": "bell",
+			"type": "svg",
+			"filename": "bell.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.50",
+			"b": "8.00",
+			"width": "5.50",
+			"height": "8.00",
+			"layername": "bluetooth.svg",
+			"name": "bluetooth",
+			"type": "svg",
+			"filename": "bluetooth.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "bold.svg",
+			"name": "bold",
+			"type": "svg",
+			"filename": "bold.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "bolt.svg",
+			"name": "bolt",
+			"type": "svg",
+			"filename": "bolt.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "book.svg",
+			"name": "book",
+			"type": "svg",
+			"filename": "book.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "bookmark.svg",
+			"name": "bookmark",
+			"type": "svg",
+			"filename": "bookmark.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "box.svg",
+			"name": "box",
+			"type": "svg",
+			"filename": "box.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "briefcase.svg",
+			"name": "briefcase",
+			"type": "svg",
+			"filename": "briefcase.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "british-pound.svg",
+			"name": "british-pound",
+			"type": "svg",
+			"filename": "british-pound.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "browser.svg",
+			"name": "browser",
+			"type": "svg",
+			"filename": "browser.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "brush.svg",
+			"name": "brush",
+			"type": "svg",
+			"filename": "brush.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "bug.svg",
+			"name": "bug",
+			"type": "svg",
+			"filename": "bug.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "bullhorn.svg",
+			"name": "bullhorn",
+			"type": "svg",
+			"filename": "bullhorn.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "calculator.svg",
+			"name": "calculator",
+			"type": "svg",
+			"filename": "calculator.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "calendar.svg",
+			"name": "calendar",
+			"type": "svg",
+			"filename": "calendar.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "camera-slr.svg",
+			"name": "camera-slr",
+			"type": "svg",
+			"filename": "camera-slr.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "2.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "4.00",
+			"layername": "caret-bottom.svg",
+			"name": "caret-bottom",
+			"type": "svg",
+			"filename": "caret-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "caret-left.svg",
+			"name": "caret-left",
+			"type": "svg",
+			"filename": "caret-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "caret-right.svg",
+			"name": "caret-right",
+			"type": "svg",
+			"filename": "caret-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "2.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "4.00",
+			"layername": "caret-top.svg",
+			"name": "caret-top",
+			"type": "svg",
+			"filename": "caret-top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "cart.svg",
+			"name": "cart",
+			"type": "svg",
+			"filename": "cart.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "chat.svg",
+			"name": "chat",
+			"type": "svg",
+			"filename": "chat.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "check.svg",
+			"name": "check",
+			"type": "svg",
+			"filename": "check.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "2.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "5.00",
+			"layername": "chevron-bottom.svg",
+			"name": "chevron-bottom",
+			"type": "svg",
+			"filename": "chevron-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "chevron-left.svg",
+			"name": "chevron-left",
+			"type": "svg",
+			"filename": "chevron-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "chevron-right.svg",
+			"name": "chevron-right",
+			"type": "svg",
+			"filename": "chevron-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "5.00",
+			"layername": "chevron-top.svg",
+			"name": "chevron-top",
+			"type": "svg",
+			"filename": "chevron-top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "circle-check.svg",
+			"name": "circle-check",
+			"type": "svg",
+			"filename": "circle-check.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "circle-x.svg",
+			"name": "circle-x",
+			"type": "svg",
+			"filename": "circle-x.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "clipboard.svg",
+			"name": "clipboard",
+			"type": "svg",
+			"filename": "clipboard.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "clock.svg",
+			"name": "clock",
+			"type": "svg",
+			"filename": "clock.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "cloud-download.svg",
+			"name": "cloud-download",
+			"type": "svg",
+			"filename": "cloud-download.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "cloud-upload.svg",
+			"name": "cloud-upload",
+			"type": "svg",
+			"filename": "cloud-upload.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "cloud.svg",
+			"name": "cloud",
+			"type": "svg",
+			"filename": "cloud.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "cloudy.svg",
+			"name": "cloudy",
+			"type": "svg",
+			"filename": "cloudy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "code.svg",
+			"name": "code",
+			"type": "svg",
+			"filename": "code.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "cog.svg",
+			"name": "cog",
+			"type": "svg",
+			"filename": "cog.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "collapse-down.svg",
+			"name": "collapse-down",
+			"type": "svg",
+			"filename": "collapse-down.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "collapse-left.svg",
+			"name": "collapse-left",
+			"type": "svg",
+			"filename": "collapse-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "collapse-right.svg",
+			"name": "collapse-right",
+			"type": "svg",
+			"filename": "collapse-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "collapse-up.svg",
+			"name": "collapse-up",
+			"type": "svg",
+			"filename": "collapse-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "command.svg",
+			"name": "command",
+			"type": "svg",
+			"filename": "command.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "comment-square.svg",
+			"name": "comment-square",
+			"type": "svg",
+			"filename": "comment-square.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "compass.svg",
+			"name": "compass",
+			"type": "svg",
+			"filename": "compass.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "contrast.svg",
+			"name": "contrast",
+			"type": "svg",
+			"filename": "contrast.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "copywriting.svg",
+			"name": "copywriting",
+			"type": "svg",
+			"filename": "copywriting.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "credit-card.svg",
+			"name": "credit-card",
+			"type": "svg",
+			"filename": "credit-card.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "crop.svg",
+			"name": "crop",
+			"type": "svg",
+			"filename": "crop.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "dashboard.svg",
+			"name": "dashboard",
+			"type": "svg",
+			"filename": "dashboard.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "data-transfer-download.svg",
+			"name": "data-transfer-download",
+			"type": "svg",
+			"filename": "data-transfer-download.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "data-transfer-upload.svg",
+			"name": "data-transfer-upload",
+			"type": "svg",
+			"filename": "data-transfer-upload.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "delete.svg",
+			"name": "delete",
+			"type": "svg",
+			"filename": "delete.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "dial.svg",
+			"name": "dial",
+			"type": "svg",
+			"filename": "dial.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "disk-download.svg",
+			"name": "disk-download",
+			"type": "svg",
+			"filename": "disk-download.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "disk.svg",
+			"name": "disk",
+			"type": "svg",
+			"filename": "disk.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "document.svg",
+			"name": "document",
+			"type": "svg",
+			"filename": "document.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "dollar.svg",
+			"name": "dollar",
+			"type": "svg",
+			"filename": "dollar.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "double-quote-sans-left.svg",
+			"name": "double-quote-sans-left",
+			"type": "svg",
+			"filename": "double-quote-sans-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "double-quote-sans-right.svg",
+			"name": "double-quote-sans-right",
+			"type": "svg",
+			"filename": "double-quote-sans-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "double-quote-serif-left.svg",
+			"name": "double-quote-serif-left",
+			"type": "svg",
+			"filename": "double-quote-serif-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "double-quote-serif-right.svg",
+			"name": "double-quote-serif-right",
+			"type": "svg",
+			"filename": "double-quote-serif-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "droplet.svg",
+			"name": "droplet",
+			"type": "svg",
+			"filename": "droplet.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "eject.svg",
+			"name": "eject",
+			"type": "svg",
+			"filename": "eject.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "elevator.svg",
+			"name": "elevator",
+			"type": "svg",
+			"filename": "elevator.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "3.00",
+			"r": "8.00",
+			"b": "5.00",
+			"width": "8.00",
+			"height": "2.00",
+			"layername": "ellipses.svg",
+			"name": "ellipses",
+			"type": "svg",
+			"filename": "ellipses.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "envelope-closed.svg",
+			"name": "envelope-closed",
+			"type": "svg",
+			"filename": "envelope-closed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "envelope-open.svg",
+			"name": "envelope-open",
+			"type": "svg",
+			"filename": "envelope-open.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "euro.svg",
+			"name": "euro",
+			"type": "svg",
+			"filename": "euro.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "excerpt.svg",
+			"name": "excerpt",
+			"type": "svg",
+			"filename": "excerpt.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "expand-down.svg",
+			"name": "expand-down",
+			"type": "svg",
+			"filename": "expand-down.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "expand-left.svg",
+			"name": "expand-left",
+			"type": "svg",
+			"filename": "expand-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "expand-right.svg",
+			"name": "expand-right",
+			"type": "svg",
+			"filename": "expand-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "expand-up.svg",
+			"name": "expand-up",
+			"type": "svg",
+			"filename": "expand-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "external-link.svg",
+			"name": "external-link",
+			"type": "svg",
+			"filename": "external-link.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "eye.svg",
+			"name": "eye",
+			"type": "svg",
+			"filename": "eye.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "eyedropper.svg",
+			"name": "eyedropper",
+			"type": "svg",
+			"filename": "eyedropper.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "file.svg",
+			"name": "file",
+			"type": "svg",
+			"filename": "file.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "filter-alt-add.svg",
+			"name": "filter-alt-add",
+			"type": "svg",
+			"filename": "filter-alt-add.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "filter-alt-clear.svg",
+			"name": "filter-alt-clear",
+			"type": "svg",
+			"filename": "filter-alt-clear.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "filter-alt.svg",
+			"name": "filter-alt",
+			"type": "svg",
+			"filename": "filter-alt.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "filter.svg",
+			"name": "filter",
+			"type": "svg",
+			"filename": "filter.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "fire.svg",
+			"name": "fire",
+			"type": "svg",
+			"filename": "fire.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "flag.svg",
+			"name": "flag",
+			"type": "svg",
+			"filename": "flag.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "flash.svg",
+			"name": "flash",
+			"type": "svg",
+			"filename": "flash.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "folder.svg",
+			"name": "folder",
+			"type": "svg",
+			"filename": "folder.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "fork.svg",
+			"name": "fork",
+			"type": "svg",
+			"filename": "fork.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "fullscreen-enter.svg",
+			"name": "fullscreen-enter",
+			"type": "svg",
+			"filename": "fullscreen-enter.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "fullscreen-exit.svg",
+			"name": "fullscreen-exit",
+			"type": "svg",
+			"filename": "fullscreen-exit.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "globe.svg",
+			"name": "globe",
+			"type": "svg",
+			"filename": "globe.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "graph.svg",
+			"name": "graph",
+			"type": "svg",
+			"filename": "graph.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "grid-four-up.svg",
+			"name": "grid-four-up",
+			"type": "svg",
+			"filename": "grid-four-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "grid-three-up.svg",
+			"name": "grid-three-up",
+			"type": "svg",
+			"filename": "grid-three-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "grid-two-up.svg",
+			"name": "grid-two-up",
+			"type": "svg",
+			"filename": "grid-two-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "hard-drive.svg",
+			"name": "hard-drive",
+			"type": "svg",
+			"filename": "hard-drive.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "header.svg",
+			"name": "header",
+			"type": "svg",
+			"filename": "header.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "headphones.svg",
+			"name": "headphones",
+			"type": "svg",
+			"filename": "headphones.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "heart.svg",
+			"name": "heart",
+			"type": "svg",
+			"filename": "heart.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "home.svg",
+			"name": "home",
+			"type": "svg",
+			"filename": "home.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "image.svg",
+			"name": "image",
+			"type": "svg",
+			"filename": "image.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "inbox.svg",
+			"name": "inbox",
+			"type": "svg",
+			"filename": "inbox.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "2.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "4.00",
+			"layername": "infinity.svg",
+			"name": "infinity",
+			"type": "svg",
+			"filename": "infinity.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "info-16x16.svg",
+			"name": "info-16x16",
+			"type": "svg",
+			"filename": "info-16x16.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "info.svg",
+			"name": "info",
+			"type": "svg",
+			"filename": "info.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "italic.svg",
+			"name": "italic",
+			"type": "svg",
+			"filename": "italic.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "justify-center.svg",
+			"name": "justify-center",
+			"type": "svg",
+			"filename": "justify-center.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "justify-left.svg",
+			"name": "justify-left",
+			"type": "svg",
+			"filename": "justify-left.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "justify-right.svg",
+			"name": "justify-right",
+			"type": "svg",
+			"filename": "justify-right.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "key.svg",
+			"name": "key",
+			"type": "svg",
+			"filename": "key.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "laptop.svg",
+			"name": "laptop",
+			"type": "svg",
+			"filename": "laptop.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "layers.svg",
+			"name": "layers",
+			"type": "svg",
+			"filename": "layers.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "lightbulb.svg",
+			"name": "lightbulb",
+			"type": "svg",
+			"filename": "lightbulb.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "link-broken.svg",
+			"name": "link-broken",
+			"type": "svg",
+			"filename": "link-broken.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "link-intact.svg",
+			"name": "link-intact",
+			"type": "svg",
+			"filename": "link-intact.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "list-rich.svg",
+			"name": "list-rich",
+			"type": "svg",
+			"filename": "list-rich.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "list.svg",
+			"name": "list",
+			"type": "svg",
+			"filename": "list.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "location.svg",
+			"name": "location",
+			"type": "svg",
+			"filename": "location.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "7.00",
+			"layername": "lock-locked.svg",
+			"name": "lock-locked",
+			"type": "svg",
+			"filename": "lock-locked.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "lock-unlocked.svg",
+			"name": "lock-unlocked",
+			"type": "svg",
+			"filename": "lock-unlocked.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "loop-circular.svg",
+			"name": "loop-circular",
+			"type": "svg",
+			"filename": "loop-circular.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "loop-square.svg",
+			"name": "loop-square",
+			"type": "svg",
+			"filename": "loop-square.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "loop.svg",
+			"name": "loop",
+			"type": "svg",
+			"filename": "loop.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "magnifying-glass.svg",
+			"name": "magnifying-glass",
+			"type": "svg",
+			"filename": "magnifying-glass.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "map-marker.svg",
+			"name": "map-marker",
+			"type": "svg",
+			"filename": "map-marker.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "map.svg",
+			"name": "map",
+			"type": "svg",
+			"filename": "map.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "6.00",
+			"height": "6.00",
+			"layername": "media-pause.svg",
+			"name": "media-pause",
+			"type": "svg",
+			"filename": "media-pause.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "6.00",
+			"height": "6.00",
+			"layername": "media-play.svg",
+			"name": "media-play",
+			"type": "svg",
+			"filename": "media-play.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "6.00",
+			"height": "6.00",
+			"layername": "media-record.svg",
+			"name": "media-record",
+			"type": "svg",
+			"filename": "media-record.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "media-skip-backward.svg",
+			"name": "media-skip-backward",
+			"type": "svg",
+			"filename": "media-skip-backward.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "6.00",
+			"layername": "media-skip-forward.svg",
+			"name": "media-skip-forward",
+			"type": "svg",
+			"filename": "media-skip-forward.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "6.00",
+			"layername": "media-step-backward.svg",
+			"name": "media-step-backward",
+			"type": "svg",
+			"filename": "media-step-backward.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "6.00",
+			"layername": "media-step-forward.svg",
+			"name": "media-step-forward",
+			"type": "svg",
+			"filename": "media-step-forward.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "1.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "6.00",
+			"height": "6.00",
+			"layername": "media-stop.svg",
+			"name": "media-stop",
+			"type": "svg",
+			"filename": "media-stop.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "medical-cross.svg",
+			"name": "medical-cross",
+			"type": "svg",
+			"filename": "medical-cross.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "menu.svg",
+			"name": "menu",
+			"type": "svg",
+			"filename": "menu.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "microphone.svg",
+			"name": "microphone",
+			"type": "svg",
+			"filename": "microphone.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "minus-box.svg",
+			"name": "minus-box",
+			"type": "svg",
+			"filename": "minus-box.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "3.00",
+			"r": "8.00",
+			"b": "5.00",
+			"width": "8.00",
+			"height": "2.00",
+			"layername": "minus.svg",
+			"name": "minus",
+			"type": "svg",
+			"filename": "minus.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "monitor.svg",
+			"name": "monitor",
+			"type": "svg",
+			"filename": "monitor.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "moon.svg",
+			"name": "moon",
+			"type": "svg",
+			"filename": "moon.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "move.svg",
+			"name": "move",
+			"type": "svg",
+			"filename": "move.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "musical-note.svg",
+			"name": "musical-note",
+			"type": "svg",
+			"filename": "musical-note.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "paperclip.svg",
+			"name": "paperclip",
+			"type": "svg",
+			"filename": "paperclip.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "pencil.svg",
+			"name": "pencil",
+			"type": "svg",
+			"filename": "pencil.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "people.svg",
+			"name": "people",
+			"type": "svg",
+			"filename": "people.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "person.svg",
+			"name": "person",
+			"type": "svg",
+			"filename": "person.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "phone.svg",
+			"name": "phone",
+			"type": "svg",
+			"filename": "phone.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "pie-chart.svg",
+			"name": "pie-chart",
+			"type": "svg",
+			"filename": "pie-chart.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "pin.svg",
+			"name": "pin",
+			"type": "svg",
+			"filename": "pin.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "play-circle.svg",
+			"name": "play-circle",
+			"type": "svg",
+			"filename": "play-circle.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "plus.svg",
+			"name": "plus",
+			"type": "svg",
+			"filename": "plus.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "power-standby.svg",
+			"name": "power-standby",
+			"type": "svg",
+			"filename": "power-standby.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "print.svg",
+			"name": "print",
+			"type": "svg",
+			"filename": "print.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "project.svg",
+			"name": "project",
+			"type": "svg",
+			"filename": "project.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "pulse.svg",
+			"name": "pulse",
+			"type": "svg",
+			"filename": "pulse.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "puzzle-piece.svg",
+			"name": "puzzle-piece",
+			"type": "svg",
+			"filename": "puzzle-piece.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "question-mark.svg",
+			"name": "question-mark",
+			"type": "svg",
+			"filename": "question-mark.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "rain.svg",
+			"name": "rain",
+			"type": "svg",
+			"filename": "rain.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "random.svg",
+			"name": "random",
+			"type": "svg",
+			"filename": "random.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "reload.svg",
+			"name": "reload",
+			"type": "svg",
+			"filename": "reload.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "resize-both.svg",
+			"name": "resize-both",
+			"type": "svg",
+			"filename": "resize-both.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "5.00",
+			"height": "8.00",
+			"layername": "resize-height.svg",
+			"name": "resize-height",
+			"type": "svg",
+			"filename": "resize-height.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "5.00",
+			"layername": "resize-width.svg",
+			"name": "resize-width",
+			"type": "svg",
+			"filename": "resize-width.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "rss-alt.svg",
+			"name": "rss-alt",
+			"type": "svg",
+			"filename": "rss-alt.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "rss.svg",
+			"name": "rss",
+			"type": "svg",
+			"filename": "rss.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "script.svg",
+			"name": "script",
+			"type": "svg",
+			"filename": "script.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "share-boxed.svg",
+			"name": "share-boxed",
+			"type": "svg",
+			"filename": "share-boxed.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "share.svg",
+			"name": "share",
+			"type": "svg",
+			"filename": "share.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "shield.svg",
+			"name": "shield",
+			"type": "svg",
+			"filename": "shield.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "signal.svg",
+			"name": "signal",
+			"type": "svg",
+			"filename": "signal.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "signpost.svg",
+			"name": "signpost",
+			"type": "svg",
+			"filename": "signpost.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "sort-ascending.svg",
+			"name": "sort-ascending",
+			"type": "svg",
+			"filename": "sort-ascending.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "sort-descending.svg",
+			"name": "sort-descending",
+			"type": "svg",
+			"filename": "sort-descending.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "spreadsheet.svg",
+			"name": "spreadsheet",
+			"type": "svg",
+			"filename": "spreadsheet.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "star.svg",
+			"name": "star",
+			"type": "svg",
+			"filename": "star.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "sun.svg",
+			"name": "sun",
+			"type": "svg",
+			"filename": "sun.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "tablet.svg",
+			"name": "tablet",
+			"type": "svg",
+			"filename": "tablet.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "tag.svg",
+			"name": "tag",
+			"type": "svg",
+			"filename": "tag.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "5.00",
+			"layername": "tags.svg",
+			"name": "tags",
+			"type": "svg",
+			"filename": "tags.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "target.svg",
+			"name": "target",
+			"type": "svg",
+			"filename": "target.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "task.svg",
+			"name": "task",
+			"type": "svg",
+			"filename": "task.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "terminal.svg",
+			"name": "terminal",
+			"type": "svg",
+			"filename": "terminal.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "text.svg",
+			"name": "text",
+			"type": "svg",
+			"filename": "text.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "7.00",
+			"width": "7.00",
+			"height": "7.00",
+			"layername": "thumb-down.svg",
+			"name": "thumb-down",
+			"type": "svg",
+			"filename": "thumb-down.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "thumb-up.svg",
+			"name": "thumb-up",
+			"type": "svg",
+			"filename": "thumb-up.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "timer.svg",
+			"name": "timer",
+			"type": "svg",
+			"filename": "timer.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "transfer.svg",
+			"name": "transfer",
+			"type": "svg",
+			"filename": "transfer.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "trash.svg",
+			"name": "trash",
+			"type": "svg",
+			"filename": "trash.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "underline.svg",
+			"name": "underline",
+			"type": "svg",
+			"filename": "underline.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "vertical-align-bottom.svg",
+			"name": "vertical-align-bottom",
+			"type": "svg",
+			"filename": "vertical-align-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "vertical-align-center.svg",
+			"name": "vertical-align-center",
+			"type": "svg",
+			"filename": "vertical-align-center.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "7.00",
+			"width": "8.00",
+			"height": "7.00",
+			"layername": "vertical-align-top.svg",
+			"name": "vertical-align-top",
+			"type": "svg",
+			"filename": "vertical-align-top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "1.00",
+			"r": "8.00",
+			"b": "6.00",
+			"width": "8.00",
+			"height": "5.00",
+			"layername": "video.svg",
+			"name": "video",
+			"type": "svg",
+			"filename": "video.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "volume-high.svg",
+			"name": "volume-high",
+			"type": "svg",
+			"filename": "volume-high.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "6.00",
+			"b": "8.00",
+			"width": "6.00",
+			"height": "8.00",
+			"layername": "volume-low.svg",
+			"name": "volume-low",
+			"type": "svg",
+			"filename": "volume-low.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "4.00",
+			"b": "8.00",
+			"width": "4.00",
+			"height": "8.00",
+			"layername": "volume-off.svg",
+			"name": "volume-off",
+			"type": "svg",
+			"filename": "volume-off.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "warning.svg",
+			"name": "warning",
+			"type": "svg",
+			"filename": "warning.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "wifi.svg",
+			"name": "wifi",
+			"type": "svg",
+			"filename": "wifi.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "wrench.svg",
+			"name": "wrench",
+			"type": "svg",
+			"filename": "wrench.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "x.svg",
+			"name": "x",
+			"type": "svg",
+			"filename": "x.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "7.00",
+			"b": "8.00",
+			"width": "7.00",
+			"height": "8.00",
+			"layername": "yen.svg",
+			"name": "yen",
+			"type": "svg",
+			"filename": "yen.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "zoom-in.svg",
+			"name": "zoom-in",
+			"type": "svg",
+			"filename": "zoom-in.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "8.00",
+			"height": "8.00",
+			"layername": "zoom-out.svg",
+			"name": "zoom-out",
+			"type": "svg",
+			"filename": "zoom-out.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}

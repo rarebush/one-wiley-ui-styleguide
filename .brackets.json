@@ -1,9 +1,8 @@
 {
-    "jwolfe.file-tree-exclude.list": [
-        "node_modules",
-        "bower_components",
-        ".git",
-        "dist",
-        "vendor"
+    "brackets-file-tree-exclude.excludeList": [
+        "/.git/",
+        "/dist/",
+        "/bower_components/",
+        "/node_modules/"
     ]
 }
