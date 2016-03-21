@@ -1,7 +1,7 @@
 .ow-button {
     position: relative;
     top: 0;
-    box-sizing: padding-box;
+    box-sizing: border-box;
     cursor: pointer;
     padding: 0.5rem;
     border: 0px;
@@ -11,7 +11,8 @@
     font-family: $wiley-sans;
     box-shadow: 0 1px 0 0 rgba(0,0,0,0.5);
     &:hover, &:active {
-        background-color: map-get($ow-colors, teal-dark);        
+        background-color: map-get($ow-colors, teal-dark);  
+        text-decoration: none;
     }
     &:active {
         outline: 0;
