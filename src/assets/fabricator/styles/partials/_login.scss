@@ -1,0 +1,14 @@
+.ow-login {
+    z-index: 99999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: map-get($colors, grey-100);
+    .ow-login__cont {
+        margin: 10% 10%;
+        max-width: 300px
+    }
+}
