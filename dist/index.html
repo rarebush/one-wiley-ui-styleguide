@@ -26,14 +26,27 @@
 <div class="ow-login">
 
     <div class="ow-login__cont">
+        <h4>One Wiley UI Styleguide</h4>
 
-        <form name="login">
-            UserID:
-            <input name="id" type="text">
-            <br> Password:
-            <input name="pass" type="password">
-            <br>
-            <input type="button" value="Login" onClick="pasuser(this.form)">
+        <form id="login-form" name="login" autocomplete="on" onsubmit="event.preventDefault(); pasuser(this);">
+
+            <fieldset>
+                <legend>Login</legend>
+
+                <label for="username">
+                    <div>Username: </div>
+                    <input type="text" id="username" name="username" required />
+                </label>
+
+                <label for="password">
+                    <div>Password: </div>
+                    <input type="password" id="password" name="password" required />
+                </label>
+
+            </fieldset>
+
+            <input type="submit" value="Submit" class="ow-button">
+
         </form>
 
     </div>
@@ -42,12 +55,14 @@
 
 <script language="javascript">
     <!--//
-    /*This Script allows people to enter by using a form that asks for a
-    UserID and Password*/
+    /*THIS IS NOT A SECURE WAY OF SUBMITTING INFORMATION: This Script redirects a user when they enter the correct values into the input fields*/
     function pasuser(form) {
-        if (form.id.value == "stu") {
-            if (form.pass.value == "stu") {
-                location = "home.html"
+
+        if (form.username.value == "owui") {
+            if (form.password.value == "wiley1") {
+                setTimeout(function () {
+                    window.location = "/home.html";
+                }, 1500);
             } else {
                 alert("Invalid Password")
             }

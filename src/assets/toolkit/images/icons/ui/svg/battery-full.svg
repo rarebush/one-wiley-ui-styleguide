@@ -4,7 +4,7 @@
 	 viewBox="0 0 8 8" style="enable-background:new 0 0 8 8;" xml:space="preserve">
 <g id="battery-full">
 	<g>
-		<path d="M7,3V1H1H0v1v4v1h1h6V5h1V3H7z"/>
+		<path d="M7,3V1.5C7,1.224,6.776,1,6.5,1h-6C0.224,1,0,1.224,0,1.5v5C0,6.776,0.224,7,0.5,7h6C6.776,7,7,6.776,7,6.5V5h1V3H7z"/>
 	</g>
 </g>
 <g id="Layer_1">

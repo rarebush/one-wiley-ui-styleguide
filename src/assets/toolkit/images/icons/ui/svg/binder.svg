@@ -2,15 +2,10 @@
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 8 8" style="enable-background:new 0 0 8 8;" xml:space="preserve">
-<g id="trash">
-	<g>
-		<g>
-			<title>Layer 1</title>
-			<path id="svg_1_51_" d="M3,0C2.45,0,2,0.45,2,1H1C0.45,1,0,1.45,0,2h7c0-0.55-0.45-1-1-1H5c0-0.55-0.45-1-1-1H3z M5.5,8
-				C5.776,8,6,7.776,6,7.5V3H5v3.5C5,6.78,4.78,7,4.5,7S4,6.78,4,6.5V3H3v3.5C3,6.78,2.78,7,2.5,7S2,6.78,2,6.5V3H1v4.5
-				C1,7.776,1.224,8,1.5,8H5.5z"/>
-		</g>
-	</g>
+<g id="binder">
+	<path d="M2,0v0.5H1C0.724,0.5,0.5,0.724,0.5,1v1c0,0.276,0.224,0.5,0.5,0.5h1V3H1C0.724,3,0.5,3.224,0.5,3.5v1
+		C0.5,4.776,0.724,5,1,5h1v0.5H1C0.724,5.5,0.5,5.724,0.5,6v1c0,0.276,0.224,0.5,0.5,0.5h1V8h5.5C7.776,8,8,7.776,8,7.5v-7
+		C8,0.224,7.776,0,7.5,0H2z M1,2V1h1h1v1H2H1z M1,4.5v-1h1h1v1H2H1z M1,7V6h1h1v1H2H1z"/>
 </g>
 <g id="Layer_1">
 </g>

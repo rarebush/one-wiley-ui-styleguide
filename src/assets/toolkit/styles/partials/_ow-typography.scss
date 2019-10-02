@@ -53,7 +53,7 @@ p {
 blockquote {
     position: relative;
     &:before {
-        content: '\3f';
+        content: '\40';
         font-family: 'ow-ui-icons';
         position: absolute;
         top: 0;

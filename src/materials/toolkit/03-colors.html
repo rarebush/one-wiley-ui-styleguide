@@ -23,22 +23,24 @@ notes: |
 
 <h3>Tints</h3>
 <p>If the need arises, tints can be used. They can be implemented either through opacity changes or using the absolute values as described <a href="tints.html">here</a>.</p>
-<!--
-<h4>Teal</h4>
-<div class="tint-table__row">
-    {{#each tints.tints.teal}}
-        <div style="border-color:{{this}};"><h5>{{@key}}<br>{{this}}</h5></div>
-    {{/each}}
-</div>
 
-<div class="tint-table">
-        {{#each tints.tints}}
-        <div>{{@key}}</div>
-        <div class="tint-table__row">
-            {{#each this}}
-            <div style="border-color:{{this}};">{{this}}</div>
-            {{/each}}
+<h3>Gradients</h3>
+<div class="f-gradient-chips">
+{{#each toolkit.gradients}}
+<h4 class="capitalize">{{@key}}s</h4>
+    
+    <div class="f-gradient-chips__row">
+        {{#each this}}
+    
+        <div class="f-gradient-chips__swatch" style="background: linear-gradient(135deg, #{{color1Hex}} 0%,#{{color2Hex}} 100%);">
+            <div class="f-gradient-chips__color-names f-gradient-chips__color1name">{{color1Name}}</div>
+            <div class="f-gradient-chips__color-names f-gradient-chips__color2name">{{color2Name}}</div>        
         </div>
+        
         {{/each}}
+    
+    </div>
+    
+{{/each}}
+
 </div>
--->

@@ -3,14 +3,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 8 8" style="enable-background:new 0 0 8 8;" xml:space="preserve">
 <g id="pin">
-	<g>
-		<g>
-			<title>Layer 1</title>
-			<path id="svg_1_76_" d="M1.34,0.002c-0.276,0.044-0.464,0.304-0.42,0.58s0.304,0.464,0.58,0.42H2v2H1c-0.55,0-1,0.45-1,1h3v3
-				l0.44,1l0.56-1v-3h3c0-0.55-0.45-1-1-1H5v-2h0.5c0.276,0,0.5-0.224,0.5-0.5s-0.224-0.5-0.5-0.5h-4c-0.03-0.003-0.06-0.003-0.09,0
-				c-0.02-0.001-0.04-0.001-0.06,0H1.34z"/>
-		</g>
-	</g>
+	<title>Layer 1</title>
+	<title>Layer 1</title>
+	<path id="svg_1_5_" d="M3,7V4H0c0-0.55,0.45-1,1-1h1V1H1.5C1.224,1,1,0.776,1,0.5S1.224,0,1.5,0h4C5.776,0,6,0.224,6,0.5
+		S5.776,1,5.5,1H5v2h1c0.55,0,1,0.45,1,1H4v3L3.5,8L3,7z"/>
 </g>
 <g id="Layer_1">
 </g>

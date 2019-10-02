@@ -5,8 +5,13 @@ il-icons: true
 ---
 
 <!--icons-->
-<div style="padding: 3rem;">
-    <div class="ow-callout ow-callout--warning">
+<div style="padding: 3rem;">    
+    <div id="icon-beta">
+        <ul class="owui-tabs">
+            <li class="owui-tab"><a href="/icon-library-ui.html" id="ui">Wiley UI Icons</a></li>
+            <li class="owui-tab active"><a href="/icon-library.html">Wiley Illustrative Icons</a></li>
+        </ul>
+        <div class="ow-callout ow-callout--warning">
         <h4>This is an early prototype and not a confirmed part of the One Wiley UI Styleguide</h4>
         <p>Most of the icons below are currently already in use througout Wiley.</p>
     </div>
@@ -14,8 +19,6 @@ il-icons: true
         <h4>The PNG export function will not work in Internet Explorer</h4>
         <p>Please use another browser. For example, Chrome or Firefox.</p>
     </div>
-    <p>Jump to <a href="/icon-library-ui.html">UI icons</a></p>
-    <div id="icon-beta">
         <!--icon search-->
         <form class="f-iconsearch">
             <input placeholder="search icons" id="icon-search" type="search"/>
@@ -40,7 +43,7 @@ il-icons: true
             <li>
                 <div class="ic-glyph ic-i-outline-{{this.reference}}" id="{{this.name}}" title="{{this.name}}"></div>
                 <div class="ic-text">{{this.name}}</div>
-                <div class="ic-links"><a href="">SVG</a> | <a href="">EPS</a> | <a onclick="colorIcon('{{this.reference}}')">PNG</a></div>
+                <div class="ic-links"><a onclick="colorIcon('{{this.reference}}')">PNG</a></div>
                 <span class="icon-info-button" onclick="iconInfo(this);return false;"><span class="ow-ui-info"></span> info</span>
                 <div class="icon-info" style="display: none">
                     <div class="oi close" data-glyph="x" onclick="iconInfoClose()"></div>

@@ -5,21 +5,24 @@ ui-icons: true
 ---
 
 <!--icons-->
-<div style="padding: 3rem;">
-    <div class="ow-callout ow-callout--warning">
+<div style="padding: 3rem;">    
+    <div id="icon-beta">
+        <!---->
+        <!--ui icons-->
+        <!---->
+        <ul class="owui-tabs">
+            <li class="owui-tab active"><a href="/icon-library-ui.html" id="ui">Wiley UI Icons</a></li>
+            <li class="owui-tab"><a href="/icon-library.html">Wiley Illustrative Icons</a></li>
+        </ul>
+        <div class="ow-callout ow-callout--warning">
         <h4>Warning, this is an early prototype and not a confirmed part of the One Wiley UI Styleguide</h4>
         <p>Most of the icons below are currently already in use througout Wiley.</p>
     </div>
-    <p>Jump to <a href="/icon-library.html">Illustrative icons</a></p>
-    <div id="icon-beta">
+        
         <!--icon search-->
         <div class="f-iconsearch">
             <input placeholder="search icons" id="icon-search" type="search" />
         </div>
-        <!---->
-        <!--ui icons-->
-        <!---->
-        <h3 id="ui">Wiley UI Icons</h3>
         <ul class="f-iconlist">
             {{#each ow-ui-icons.layers}}
             <li>
@@ -28,7 +31,7 @@ ui-icons: true
                 </div>
                 <br>
                 <div class="ic-text">{{name}}</div>
-                <div class="ic-links"><a href="/assets/toolkit/images/icons/ui/svg/{{name}}.svg">SVG</a> | <a href="">EPS</a> | <a onclick="colorIcon('{{name}}')">PNG</a></div>
+                <div class="ic-links"><a href="/assets/toolkit/images/icons/ui/svg/{{name}}.svg">SVG</a> | <a onclick="colorIcon('{{name}}')">PNG</a></div>
                 <div class="ic-search-string" style="display: none">{{name}}</div>
             </li>
             {{/each}}

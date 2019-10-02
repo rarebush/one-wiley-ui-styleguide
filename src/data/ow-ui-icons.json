@@ -10,10 +10,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "account-login.svg",
+			"layername": "account-login.jpg",
 			"name": "account-login",
-			"type": "svg",
-			"filename": "account-login.svg",
+			"type": "jpg",
+			"filename": "account-login.jpg",
 			"visible": true,
 			"items": [
 				
@@ -26,10 +26,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "account-logout.svg",
+			"layername": "account-logout.jpg",
 			"name": "account-logout",
-			"type": "svg",
-			"filename": "account-logout.svg",
+			"type": "jpg",
+			"filename": "account-logout.jpg",
 			"visible": true,
 			"items": [
 				
@@ -42,10 +42,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "action-redo.svg",
+			"layername": "action-redo.jpg",
 			"name": "action-redo",
-			"type": "svg",
-			"filename": "action-redo.svg",
+			"type": "jpg",
+			"filename": "action-redo.jpg",
 			"visible": true,
 			"items": [
 				
@@ -58,10 +58,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "action-undo.svg",
+			"layername": "action-undo.jpg",
 			"name": "action-undo",
-			"type": "svg",
-			"filename": "action-undo.svg",
+			"type": "jpg",
+			"filename": "action-undo.jpg",
 			"visible": true,
 			"items": [
 				
@@ -74,10 +74,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "align-center.svg",
+			"layername": "align-center.jpg",
 			"name": "align-center",
-			"type": "svg",
-			"filename": "align-center.svg",
+			"type": "jpg",
+			"filename": "align-center.jpg",
 			"visible": true,
 			"items": [
 				
@@ -90,10 +90,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "align-left.svg",
+			"layername": "align-left.jpg",
 			"name": "align-left",
-			"type": "svg",
-			"filename": "align-left.svg",
+			"type": "jpg",
+			"filename": "align-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -106,10 +106,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "align-right.svg",
+			"layername": "align-right.jpg",
 			"name": "align-right",
-			"type": "svg",
-			"filename": "align-right.svg",
+			"type": "jpg",
+			"filename": "align-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -122,10 +122,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "aperture.svg",
+			"layername": "aperture.jpg",
 			"name": "aperture",
-			"type": "svg",
-			"filename": "aperture.svg",
+			"type": "jpg",
+			"filename": "aperture.jpg",
 			"visible": true,
 			"items": [
 				
@@ -138,10 +138,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "arrow-circle-bottom.svg",
+			"layername": "arrow-circle-bottom.jpg",
 			"name": "arrow-circle-bottom",
-			"type": "svg",
-			"filename": "arrow-circle-bottom.svg",
+			"type": "jpg",
+			"filename": "arrow-circle-bottom.jpg",
 			"visible": true,
 			"items": [
 				
@@ -154,10 +154,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "arrow-circle-left.svg",
+			"layername": "arrow-circle-left.jpg",
 			"name": "arrow-circle-left",
-			"type": "svg",
-			"filename": "arrow-circle-left.svg",
+			"type": "jpg",
+			"filename": "arrow-circle-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -170,10 +170,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "arrow-circle-right.svg",
+			"layername": "arrow-circle-right.jpg",
 			"name": "arrow-circle-right",
-			"type": "svg",
-			"filename": "arrow-circle-right.svg",
+			"type": "jpg",
+			"filename": "arrow-circle-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -186,10 +186,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "arrow-circle-top.svg",
+			"layername": "arrow-circle-top.jpg",
 			"name": "arrow-circle-top",
-			"type": "svg",
-			"filename": "arrow-circle-top.svg",
+			"type": "jpg",
+			"filename": "arrow-circle-top.jpg",
 			"visible": true,
 			"items": [
 				
@@ -202,10 +202,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "arrow-simple-bottom.svg",
+			"layername": "arrow-simple-bottom.jpg",
 			"name": "arrow-simple-bottom",
-			"type": "svg",
-			"filename": "arrow-simple-bottom.svg",
+			"type": "jpg",
+			"filename": "arrow-simple-bottom.jpg",
 			"visible": true,
 			"items": [
 				
@@ -218,10 +218,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "arrow-simple-left.svg",
+			"layername": "arrow-simple-left.jpg",
 			"name": "arrow-simple-left",
-			"type": "svg",
-			"filename": "arrow-simple-left.svg",
+			"type": "jpg",
+			"filename": "arrow-simple-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -234,10 +234,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "arrow-simple-right.svg",
+			"layername": "arrow-simple-right.jpg",
 			"name": "arrow-simple-right",
-			"type": "svg",
-			"filename": "arrow-simple-right.svg",
+			"type": "jpg",
+			"filename": "arrow-simple-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -250,10 +250,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "arrow-simple-top.svg",
+			"layername": "arrow-simple-top.jpg",
 			"name": "arrow-simple-top",
-			"type": "svg",
-			"filename": "arrow-simple-top.svg",
+			"type": "jpg",
+			"filename": "arrow-simple-top.jpg",
 			"visible": true,
 			"items": [
 				
@@ -266,10 +266,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "audio-spectrum.svg",
+			"layername": "audio-spectrum.jpg",
 			"name": "audio-spectrum",
-			"type": "svg",
-			"filename": "audio-spectrum.svg",
+			"type": "jpg",
+			"filename": "audio-spectrum.jpg",
 			"visible": true,
 			"items": [
 				
@@ -282,10 +282,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "audio.svg",
+			"layername": "audio.jpg",
 			"name": "audio",
-			"type": "svg",
-			"filename": "audio.svg",
+			"type": "jpg",
+			"filename": "audio.jpg",
 			"visible": true,
 			"items": [
 				
@@ -298,10 +298,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "badge.svg",
+			"layername": "badge.jpg",
 			"name": "badge",
-			"type": "svg",
-			"filename": "badge.svg",
+			"type": "jpg",
+			"filename": "badge.jpg",
 			"visible": true,
 			"items": [
 				
@@ -314,10 +314,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "ban.svg",
+			"layername": "ban.jpg",
 			"name": "ban",
-			"type": "svg",
-			"filename": "ban.svg",
+			"type": "jpg",
+			"filename": "ban.jpg",
 			"visible": true,
 			"items": [
 				
@@ -330,10 +330,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "bar-chart.svg",
+			"layername": "bar-chart.jpg",
 			"name": "bar-chart",
-			"type": "svg",
-			"filename": "bar-chart.svg",
+			"type": "jpg",
+			"filename": "bar-chart.jpg",
 			"visible": true,
 			"items": [
 				
@@ -346,10 +346,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "basket.svg",
+			"layername": "basket.jpg",
 			"name": "basket",
-			"type": "svg",
-			"filename": "basket.svg",
+			"type": "jpg",
+			"filename": "basket.jpg",
 			"visible": true,
 			"items": [
 				
@@ -362,10 +362,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "battery-empty.svg",
+			"layername": "battery-empty.jpg",
 			"name": "battery-empty",
-			"type": "svg",
-			"filename": "battery-empty.svg",
+			"type": "jpg",
+			"filename": "battery-empty.jpg",
 			"visible": true,
 			"items": [
 				
@@ -378,10 +378,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "battery-full.svg",
+			"layername": "battery-full.jpg",
 			"name": "battery-full",
-			"type": "svg",
-			"filename": "battery-full.svg",
+			"type": "jpg",
+			"filename": "battery-full.jpg",
 			"visible": true,
 			"items": [
 				
@@ -394,10 +394,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "beaker.svg",
+			"layername": "beaker.jpg",
 			"name": "beaker",
-			"type": "svg",
-			"filename": "beaker.svg",
+			"type": "jpg",
+			"filename": "beaker.jpg",
 			"visible": true,
 			"items": [
 				
@@ -410,10 +410,26 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "bell.svg",
+			"layername": "bell.jpg",
 			"name": "bell",
-			"type": "svg",
-			"filename": "bell.svg",
+			"type": "jpg",
+			"filename": "bell.jpg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.50",
+			"y": "-0.00",
+			"r": "8.00",
+			"b": "8.00",
+			"width": "7.50",
+			"height": "8.00",
+			"layername": "binder.jpg",
+			"name": "binder",
+			"type": "jpg",
+			"filename": "binder.jpg",
 			"visible": true,
 			"items": [
 				
@@ -426,10 +442,10 @@
 			"b": "8.00",
 			"width": "5.50",
 			"height": "8.00",
-			"layername": "bluetooth.svg",
+			"layername": "bluetooth.jpg",
 			"name": "bluetooth",
-			"type": "svg",
-			"filename": "bluetooth.svg",
+			"type": "jpg",
+			"filename": "bluetooth.jpg",
 			"visible": true,
 			"items": [
 				
@@ -442,10 +458,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "bold.svg",
+			"layername": "bold.jpg",
 			"name": "bold",
-			"type": "svg",
-			"filename": "bold.svg",
+			"type": "jpg",
+			"filename": "bold.jpg",
 			"visible": true,
 			"items": [
 				
@@ -458,10 +474,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "bolt.svg",
+			"layername": "bolt.jpg",
 			"name": "bolt",
-			"type": "svg",
-			"filename": "bolt.svg",
+			"type": "jpg",
+			"filename": "bolt.jpg",
 			"visible": true,
 			"items": [
 				
@@ -474,10 +490,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "book.svg",
+			"layername": "book.jpg",
 			"name": "book",
-			"type": "svg",
-			"filename": "book.svg",
+			"type": "jpg",
+			"filename": "book.jpg",
 			"visible": true,
 			"items": [
 				
@@ -490,10 +506,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "bookmark.svg",
+			"layername": "bookmark.jpg",
 			"name": "bookmark",
-			"type": "svg",
-			"filename": "bookmark.svg",
+			"type": "jpg",
+			"filename": "bookmark.jpg",
 			"visible": true,
 			"items": [
 				
@@ -506,10 +522,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "box.svg",
+			"layername": "box.jpg",
 			"name": "box",
-			"type": "svg",
-			"filename": "box.svg",
+			"type": "jpg",
+			"filename": "box.jpg",
 			"visible": true,
 			"items": [
 				
@@ -522,10 +538,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "briefcase.svg",
+			"layername": "briefcase.jpg",
 			"name": "briefcase",
-			"type": "svg",
-			"filename": "briefcase.svg",
+			"type": "jpg",
+			"filename": "briefcase.jpg",
 			"visible": true,
 			"items": [
 				
@@ -538,10 +554,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "british-pound.svg",
+			"layername": "british-pound.jpg",
 			"name": "british-pound",
-			"type": "svg",
-			"filename": "british-pound.svg",
+			"type": "jpg",
+			"filename": "british-pound.jpg",
 			"visible": true,
 			"items": [
 				
@@ -554,10 +570,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "browser.svg",
+			"layername": "browser.jpg",
 			"name": "browser",
-			"type": "svg",
-			"filename": "browser.svg",
+			"type": "jpg",
+			"filename": "browser.jpg",
 			"visible": true,
 			"items": [
 				
@@ -570,10 +586,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "brush.svg",
+			"layername": "brush.jpg",
 			"name": "brush",
-			"type": "svg",
-			"filename": "brush.svg",
+			"type": "jpg",
+			"filename": "brush.jpg",
 			"visible": true,
 			"items": [
 				
@@ -586,10 +602,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "bug.svg",
+			"layername": "bug.jpg",
 			"name": "bug",
-			"type": "svg",
-			"filename": "bug.svg",
+			"type": "jpg",
+			"filename": "bug.jpg",
 			"visible": true,
 			"items": [
 				
@@ -602,10 +618,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "bullhorn.svg",
+			"layername": "bullhorn.jpg",
 			"name": "bullhorn",
-			"type": "svg",
-			"filename": "bullhorn.svg",
+			"type": "jpg",
+			"filename": "bullhorn.jpg",
 			"visible": true,
 			"items": [
 				
@@ -618,10 +634,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "calculator.svg",
+			"layername": "calculator.jpg",
 			"name": "calculator",
-			"type": "svg",
-			"filename": "calculator.svg",
+			"type": "jpg",
+			"filename": "calculator.jpg",
 			"visible": true,
 			"items": [
 				
@@ -634,10 +650,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "calendar.svg",
+			"layername": "calendar.jpg",
 			"name": "calendar",
-			"type": "svg",
-			"filename": "calendar.svg",
+			"type": "jpg",
+			"filename": "calendar.jpg",
 			"visible": true,
 			"items": [
 				
@@ -650,10 +666,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "camera-slr.svg",
+			"layername": "camera-slr.jpg",
 			"name": "camera-slr",
-			"type": "svg",
-			"filename": "camera-slr.svg",
+			"type": "jpg",
+			"filename": "camera-slr.jpg",
 			"visible": true,
 			"items": [
 				
@@ -666,10 +682,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "4.00",
-			"layername": "caret-bottom.svg",
+			"layername": "caret-bottom.jpg",
 			"name": "caret-bottom",
-			"type": "svg",
-			"filename": "caret-bottom.svg",
+			"type": "jpg",
+			"filename": "caret-bottom.jpg",
 			"visible": true,
 			"items": [
 				
@@ -682,10 +698,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "caret-left.svg",
+			"layername": "caret-left.jpg",
 			"name": "caret-left",
-			"type": "svg",
-			"filename": "caret-left.svg",
+			"type": "jpg",
+			"filename": "caret-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -698,10 +714,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "caret-right.svg",
+			"layername": "caret-right.jpg",
 			"name": "caret-right",
-			"type": "svg",
-			"filename": "caret-right.svg",
+			"type": "jpg",
+			"filename": "caret-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -714,26 +730,26 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "4.00",
-			"layername": "caret-top.svg",
+			"layername": "caret-top.jpg",
 			"name": "caret-top",
-			"type": "svg",
-			"filename": "caret-top.svg",
+			"type": "jpg",
+			"filename": "caret-top.jpg",
 			"visible": true,
 			"items": [
 				
 			]
 		},
 		{
-			"x": "-0.00",
+			"x": "0.00",
 			"y": "1.00",
 			"r": "8.00",
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "cart.svg",
+			"layername": "cart.jpg",
 			"name": "cart",
-			"type": "svg",
-			"filename": "cart.svg",
+			"type": "jpg",
+			"filename": "cart.jpg",
 			"visible": true,
 			"items": [
 				
@@ -746,10 +762,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "chat.svg",
+			"layername": "chat.jpg",
 			"name": "chat",
-			"type": "svg",
-			"filename": "chat.svg",
+			"type": "jpg",
+			"filename": "chat.jpg",
 			"visible": true,
 			"items": [
 				
@@ -762,10 +778,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "check.svg",
+			"layername": "check.jpg",
 			"name": "check",
-			"type": "svg",
-			"filename": "check.svg",
+			"type": "jpg",
+			"filename": "check.jpg",
 			"visible": true,
 			"items": [
 				
@@ -778,10 +794,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "5.00",
-			"layername": "chevron-bottom.svg",
+			"layername": "chevron-bottom.jpg",
 			"name": "chevron-bottom",
-			"type": "svg",
-			"filename": "chevron-bottom.svg",
+			"type": "jpg",
+			"filename": "chevron-bottom.jpg",
 			"visible": true,
 			"items": [
 				
@@ -794,10 +810,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "chevron-left.svg",
+			"layername": "chevron-left.jpg",
 			"name": "chevron-left",
-			"type": "svg",
-			"filename": "chevron-left.svg",
+			"type": "jpg",
+			"filename": "chevron-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -810,10 +826,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "chevron-right.svg",
+			"layername": "chevron-right.jpg",
 			"name": "chevron-right",
-			"type": "svg",
-			"filename": "chevron-right.svg",
+			"type": "jpg",
+			"filename": "chevron-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -826,10 +842,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "5.00",
-			"layername": "chevron-top.svg",
+			"layername": "chevron-top.jpg",
 			"name": "chevron-top",
-			"type": "svg",
-			"filename": "chevron-top.svg",
+			"type": "jpg",
+			"filename": "chevron-top.jpg",
 			"visible": true,
 			"items": [
 				
@@ -842,10 +858,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "circle-check.svg",
+			"layername": "circle-check.jpg",
 			"name": "circle-check",
-			"type": "svg",
-			"filename": "circle-check.svg",
+			"type": "jpg",
+			"filename": "circle-check.jpg",
 			"visible": true,
 			"items": [
 				
@@ -858,10 +874,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "circle-x.svg",
+			"layername": "circle-x.jpg",
 			"name": "circle-x",
-			"type": "svg",
-			"filename": "circle-x.svg",
+			"type": "jpg",
+			"filename": "circle-x.jpg",
 			"visible": true,
 			"items": [
 				
@@ -874,10 +890,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "clipboard.svg",
+			"layername": "clipboard.jpg",
 			"name": "clipboard",
-			"type": "svg",
-			"filename": "clipboard.svg",
+			"type": "jpg",
+			"filename": "clipboard.jpg",
 			"visible": true,
 			"items": [
 				
@@ -890,10 +906,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "clock.svg",
+			"layername": "clock.jpg",
 			"name": "clock",
-			"type": "svg",
-			"filename": "clock.svg",
+			"type": "jpg",
+			"filename": "clock.jpg",
 			"visible": true,
 			"items": [
 				
@@ -906,10 +922,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "cloud-download.svg",
+			"layername": "cloud-download.jpg",
 			"name": "cloud-download",
-			"type": "svg",
-			"filename": "cloud-download.svg",
+			"type": "jpg",
+			"filename": "cloud-download.jpg",
 			"visible": true,
 			"items": [
 				
@@ -922,10 +938,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "cloud-upload.svg",
+			"layername": "cloud-upload.jpg",
 			"name": "cloud-upload",
-			"type": "svg",
-			"filename": "cloud-upload.svg",
+			"type": "jpg",
+			"filename": "cloud-upload.jpg",
 			"visible": true,
 			"items": [
 				
@@ -938,10 +954,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "cloud.svg",
+			"layername": "cloud.jpg",
 			"name": "cloud",
-			"type": "svg",
-			"filename": "cloud.svg",
+			"type": "jpg",
+			"filename": "cloud.jpg",
 			"visible": true,
 			"items": [
 				
@@ -954,10 +970,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "cloudy.svg",
+			"layername": "cloudy.jpg",
 			"name": "cloudy",
-			"type": "svg",
-			"filename": "cloudy.svg",
+			"type": "jpg",
+			"filename": "cloudy.jpg",
 			"visible": true,
 			"items": [
 				
@@ -970,10 +986,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "code.svg",
+			"layername": "code.jpg",
 			"name": "code",
-			"type": "svg",
-			"filename": "code.svg",
+			"type": "jpg",
+			"filename": "code.jpg",
 			"visible": true,
 			"items": [
 				
@@ -986,10 +1002,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "cog.svg",
+			"layername": "cog.jpg",
 			"name": "cog",
-			"type": "svg",
-			"filename": "cog.svg",
+			"type": "jpg",
+			"filename": "cog.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1002,10 +1018,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "collapse-down.svg",
+			"layername": "collapse-down.jpg",
 			"name": "collapse-down",
-			"type": "svg",
-			"filename": "collapse-down.svg",
+			"type": "jpg",
+			"filename": "collapse-down.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1018,10 +1034,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "collapse-left.svg",
+			"layername": "collapse-left.jpg",
 			"name": "collapse-left",
-			"type": "svg",
-			"filename": "collapse-left.svg",
+			"type": "jpg",
+			"filename": "collapse-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1034,10 +1050,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "collapse-right.svg",
+			"layername": "collapse-right.jpg",
 			"name": "collapse-right",
-			"type": "svg",
-			"filename": "collapse-right.svg",
+			"type": "jpg",
+			"filename": "collapse-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1050,10 +1066,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "collapse-up.svg",
+			"layername": "collapse-up.jpg",
 			"name": "collapse-up",
-			"type": "svg",
-			"filename": "collapse-up.svg",
+			"type": "jpg",
+			"filename": "collapse-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1066,10 +1082,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "command.svg",
+			"layername": "command.jpg",
 			"name": "command",
-			"type": "svg",
-			"filename": "command.svg",
+			"type": "jpg",
+			"filename": "command.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1082,10 +1098,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "comment-square.svg",
+			"layername": "comment-square.jpg",
 			"name": "comment-square",
-			"type": "svg",
-			"filename": "comment-square.svg",
+			"type": "jpg",
+			"filename": "comment-square.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1098,10 +1114,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "compass.svg",
+			"layername": "compass.jpg",
 			"name": "compass",
-			"type": "svg",
-			"filename": "compass.svg",
+			"type": "jpg",
+			"filename": "compass.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1114,10 +1130,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "contrast.svg",
+			"layername": "contrast.jpg",
 			"name": "contrast",
-			"type": "svg",
-			"filename": "contrast.svg",
+			"type": "jpg",
+			"filename": "contrast.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1130,10 +1146,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "copywriting.svg",
+			"layername": "copywriting.jpg",
 			"name": "copywriting",
-			"type": "svg",
-			"filename": "copywriting.svg",
+			"type": "jpg",
+			"filename": "copywriting.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1146,10 +1162,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "credit-card.svg",
+			"layername": "credit-card.jpg",
 			"name": "credit-card",
-			"type": "svg",
-			"filename": "credit-card.svg",
+			"type": "jpg",
+			"filename": "credit-card.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1162,10 +1178,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "crop.svg",
+			"layername": "crop.jpg",
 			"name": "crop",
-			"type": "svg",
-			"filename": "crop.svg",
+			"type": "jpg",
+			"filename": "crop.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1178,10 +1194,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "dashboard.svg",
+			"layername": "dashboard.jpg",
 			"name": "dashboard",
-			"type": "svg",
-			"filename": "dashboard.svg",
+			"type": "jpg",
+			"filename": "dashboard.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1194,10 +1210,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "data-transfer-download.svg",
+			"layername": "data-transfer-download.jpg",
 			"name": "data-transfer-download",
-			"type": "svg",
-			"filename": "data-transfer-download.svg",
+			"type": "jpg",
+			"filename": "data-transfer-download.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1210,10 +1226,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "data-transfer-upload.svg",
+			"layername": "data-transfer-upload.jpg",
 			"name": "data-transfer-upload",
-			"type": "svg",
-			"filename": "data-transfer-upload.svg",
+			"type": "jpg",
+			"filename": "data-transfer-upload.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1226,10 +1242,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "delete.svg",
+			"layername": "delete.jpg",
 			"name": "delete",
-			"type": "svg",
-			"filename": "delete.svg",
+			"type": "jpg",
+			"filename": "delete.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1242,10 +1258,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "dial.svg",
+			"layername": "dial.jpg",
 			"name": "dial",
-			"type": "svg",
-			"filename": "dial.svg",
+			"type": "jpg",
+			"filename": "dial.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1258,10 +1274,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "disk-download.svg",
+			"layername": "disk-download.jpg",
 			"name": "disk-download",
-			"type": "svg",
-			"filename": "disk-download.svg",
+			"type": "jpg",
+			"filename": "disk-download.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1274,10 +1290,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "disk.svg",
+			"layername": "disk.jpg",
 			"name": "disk",
-			"type": "svg",
-			"filename": "disk.svg",
+			"type": "jpg",
+			"filename": "disk.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1290,10 +1306,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "document.svg",
+			"layername": "document.jpg",
 			"name": "document",
-			"type": "svg",
-			"filename": "document.svg",
+			"type": "jpg",
+			"filename": "document.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1306,10 +1322,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "dollar.svg",
+			"layername": "dollar.jpg",
 			"name": "dollar",
-			"type": "svg",
-			"filename": "dollar.svg",
+			"type": "jpg",
+			"filename": "dollar.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1322,10 +1338,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "double-quote-sans-left.svg",
+			"layername": "double-quote-sans-left.jpg",
 			"name": "double-quote-sans-left",
-			"type": "svg",
-			"filename": "double-quote-sans-left.svg",
+			"type": "jpg",
+			"filename": "double-quote-sans-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1338,10 +1354,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "double-quote-sans-right.svg",
+			"layername": "double-quote-sans-right.jpg",
 			"name": "double-quote-sans-right",
-			"type": "svg",
-			"filename": "double-quote-sans-right.svg",
+			"type": "jpg",
+			"filename": "double-quote-sans-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1354,10 +1370,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "double-quote-serif-left.svg",
+			"layername": "double-quote-serif-left.jpg",
 			"name": "double-quote-serif-left",
-			"type": "svg",
-			"filename": "double-quote-serif-left.svg",
+			"type": "jpg",
+			"filename": "double-quote-serif-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1370,10 +1386,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "double-quote-serif-right.svg",
+			"layername": "double-quote-serif-right.jpg",
 			"name": "double-quote-serif-right",
-			"type": "svg",
-			"filename": "double-quote-serif-right.svg",
+			"type": "jpg",
+			"filename": "double-quote-serif-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1386,10 +1402,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "droplet.svg",
+			"layername": "droplet.jpg",
 			"name": "droplet",
-			"type": "svg",
-			"filename": "droplet.svg",
+			"type": "jpg",
+			"filename": "droplet.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1402,10 +1418,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "eject.svg",
+			"layername": "eject.jpg",
 			"name": "eject",
-			"type": "svg",
-			"filename": "eject.svg",
+			"type": "jpg",
+			"filename": "eject.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1418,10 +1434,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "elevator.svg",
+			"layername": "elevator.jpg",
 			"name": "elevator",
-			"type": "svg",
-			"filename": "elevator.svg",
+			"type": "jpg",
+			"filename": "elevator.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1434,10 +1450,10 @@
 			"b": "5.00",
 			"width": "8.00",
 			"height": "2.00",
-			"layername": "ellipses.svg",
+			"layername": "ellipses.jpg",
 			"name": "ellipses",
-			"type": "svg",
-			"filename": "ellipses.svg",
+			"type": "jpg",
+			"filename": "ellipses.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1450,10 +1466,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "envelope-closed.svg",
+			"layername": "envelope-closed.jpg",
 			"name": "envelope-closed",
-			"type": "svg",
-			"filename": "envelope-closed.svg",
+			"type": "jpg",
+			"filename": "envelope-closed.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1466,10 +1482,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "envelope-open.svg",
+			"layername": "envelope-open.jpg",
 			"name": "envelope-open",
-			"type": "svg",
-			"filename": "envelope-open.svg",
+			"type": "jpg",
+			"filename": "envelope-open.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1482,10 +1498,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "euro.svg",
+			"layername": "euro.jpg",
 			"name": "euro",
-			"type": "svg",
-			"filename": "euro.svg",
+			"type": "jpg",
+			"filename": "euro.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1498,10 +1514,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "excerpt.svg",
+			"layername": "excerpt.jpg",
 			"name": "excerpt",
-			"type": "svg",
-			"filename": "excerpt.svg",
+			"type": "jpg",
+			"filename": "excerpt.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1514,10 +1530,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "expand-down.svg",
+			"layername": "expand-down.jpg",
 			"name": "expand-down",
-			"type": "svg",
-			"filename": "expand-down.svg",
+			"type": "jpg",
+			"filename": "expand-down.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1530,10 +1546,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "expand-left.svg",
+			"layername": "expand-left.jpg",
 			"name": "expand-left",
-			"type": "svg",
-			"filename": "expand-left.svg",
+			"type": "jpg",
+			"filename": "expand-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1546,10 +1562,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "expand-right.svg",
+			"layername": "expand-right.jpg",
 			"name": "expand-right",
-			"type": "svg",
-			"filename": "expand-right.svg",
+			"type": "jpg",
+			"filename": "expand-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1562,10 +1578,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "expand-up.svg",
+			"layername": "expand-up.jpg",
 			"name": "expand-up",
-			"type": "svg",
-			"filename": "expand-up.svg",
+			"type": "jpg",
+			"filename": "expand-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1578,10 +1594,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "external-link.svg",
+			"layername": "external-link.jpg",
 			"name": "external-link",
-			"type": "svg",
-			"filename": "external-link.svg",
+			"type": "jpg",
+			"filename": "external-link.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1594,10 +1610,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "eye.svg",
+			"layername": "eye.jpg",
 			"name": "eye",
-			"type": "svg",
-			"filename": "eye.svg",
+			"type": "jpg",
+			"filename": "eye.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1610,10 +1626,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "eyedropper.svg",
+			"layername": "eyedropper.jpg",
 			"name": "eyedropper",
-			"type": "svg",
-			"filename": "eyedropper.svg",
+			"type": "jpg",
+			"filename": "eyedropper.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1626,10 +1642,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "file.svg",
+			"layername": "file.jpg",
 			"name": "file",
-			"type": "svg",
-			"filename": "file.svg",
+			"type": "jpg",
+			"filename": "file.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1642,10 +1658,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "filter-alt-add.svg",
+			"layername": "filter-alt-add.jpg",
 			"name": "filter-alt-add",
-			"type": "svg",
-			"filename": "filter-alt-add.svg",
+			"type": "jpg",
+			"filename": "filter-alt-add.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1658,10 +1674,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "filter-alt-clear.svg",
+			"layername": "filter-alt-clear.jpg",
 			"name": "filter-alt-clear",
-			"type": "svg",
-			"filename": "filter-alt-clear.svg",
+			"type": "jpg",
+			"filename": "filter-alt-clear.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1674,10 +1690,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "filter-alt.svg",
+			"layername": "filter-alt.jpg",
 			"name": "filter-alt",
-			"type": "svg",
-			"filename": "filter-alt.svg",
+			"type": "jpg",
+			"filename": "filter-alt.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1690,10 +1706,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "filter.svg",
+			"layername": "filter.jpg",
 			"name": "filter",
-			"type": "svg",
-			"filename": "filter.svg",
+			"type": "jpg",
+			"filename": "filter.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1706,10 +1722,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "fire.svg",
+			"layername": "fire.jpg",
 			"name": "fire",
-			"type": "svg",
-			"filename": "fire.svg",
+			"type": "jpg",
+			"filename": "fire.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1722,10 +1738,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "flag.svg",
+			"layername": "flag.jpg",
 			"name": "flag",
-			"type": "svg",
-			"filename": "flag.svg",
+			"type": "jpg",
+			"filename": "flag.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1738,10 +1754,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "flash.svg",
+			"layername": "flash.jpg",
 			"name": "flash",
-			"type": "svg",
-			"filename": "flash.svg",
+			"type": "jpg",
+			"filename": "flash.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1754,10 +1770,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "folder.svg",
+			"layername": "folder.jpg",
 			"name": "folder",
-			"type": "svg",
-			"filename": "folder.svg",
+			"type": "jpg",
+			"filename": "folder.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1770,10 +1786,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "fork.svg",
+			"layername": "fork.jpg",
 			"name": "fork",
-			"type": "svg",
-			"filename": "fork.svg",
+			"type": "jpg",
+			"filename": "fork.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1786,10 +1802,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "fullscreen-enter.svg",
+			"layername": "fullscreen-enter.jpg",
 			"name": "fullscreen-enter",
-			"type": "svg",
-			"filename": "fullscreen-enter.svg",
+			"type": "jpg",
+			"filename": "fullscreen-enter.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1802,10 +1818,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "fullscreen-exit.svg",
+			"layername": "fullscreen-exit.jpg",
 			"name": "fullscreen-exit",
-			"type": "svg",
-			"filename": "fullscreen-exit.svg",
+			"type": "jpg",
+			"filename": "fullscreen-exit.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1818,10 +1834,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "globe.svg",
+			"layername": "globe.jpg",
 			"name": "globe",
-			"type": "svg",
-			"filename": "globe.svg",
+			"type": "jpg",
+			"filename": "globe.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1834,10 +1850,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "graph.svg",
+			"layername": "graph.jpg",
 			"name": "graph",
-			"type": "svg",
-			"filename": "graph.svg",
+			"type": "jpg",
+			"filename": "graph.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1850,10 +1866,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "grid-four-up.svg",
+			"layername": "grid-four-up.jpg",
 			"name": "grid-four-up",
-			"type": "svg",
-			"filename": "grid-four-up.svg",
+			"type": "jpg",
+			"filename": "grid-four-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1866,10 +1882,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "grid-three-up.svg",
+			"layername": "grid-three-up.jpg",
 			"name": "grid-three-up",
-			"type": "svg",
-			"filename": "grid-three-up.svg",
+			"type": "jpg",
+			"filename": "grid-three-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1882,10 +1898,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "grid-two-up.svg",
+			"layername": "grid-two-up.jpg",
 			"name": "grid-two-up",
-			"type": "svg",
-			"filename": "grid-two-up.svg",
+			"type": "jpg",
+			"filename": "grid-two-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1898,10 +1914,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "hard-drive.svg",
+			"layername": "hard-drive.jpg",
 			"name": "hard-drive",
-			"type": "svg",
-			"filename": "hard-drive.svg",
+			"type": "jpg",
+			"filename": "hard-drive.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1914,10 +1930,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "header.svg",
+			"layername": "header.jpg",
 			"name": "header",
-			"type": "svg",
-			"filename": "header.svg",
+			"type": "jpg",
+			"filename": "header.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1930,10 +1946,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "headphones.svg",
+			"layername": "headphones.jpg",
 			"name": "headphones",
-			"type": "svg",
-			"filename": "headphones.svg",
+			"type": "jpg",
+			"filename": "headphones.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1946,10 +1962,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "heart.svg",
+			"layername": "heart.jpg",
 			"name": "heart",
-			"type": "svg",
-			"filename": "heart.svg",
+			"type": "jpg",
+			"filename": "heart.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1962,10 +1978,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "home.svg",
+			"layername": "home.jpg",
 			"name": "home",
-			"type": "svg",
-			"filename": "home.svg",
+			"type": "jpg",
+			"filename": "home.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1978,10 +1994,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "image.svg",
+			"layername": "image.jpg",
 			"name": "image",
-			"type": "svg",
-			"filename": "image.svg",
+			"type": "jpg",
+			"filename": "image.jpg",
 			"visible": true,
 			"items": [
 				
@@ -1994,10 +2010,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "inbox.svg",
+			"layername": "inbox.jpg",
 			"name": "inbox",
-			"type": "svg",
-			"filename": "inbox.svg",
+			"type": "jpg",
+			"filename": "inbox.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2010,10 +2026,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "4.00",
-			"layername": "infinity.svg",
+			"layername": "infinity.jpg",
 			"name": "infinity",
-			"type": "svg",
-			"filename": "infinity.svg",
+			"type": "jpg",
+			"filename": "infinity.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2026,10 +2042,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "info-16x16.svg",
-			"name": "info-16x16",
-			"type": "svg",
-			"filename": "info-16x16.svg",
+			"layername": "info-circle.jpg",
+			"name": "info-circle",
+			"type": "jpg",
+			"filename": "info-circle.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2042,10 +2058,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "info.svg",
+			"layername": "info.jpg",
 			"name": "info",
-			"type": "svg",
-			"filename": "info.svg",
+			"type": "jpg",
+			"filename": "info.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2058,10 +2074,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "italic.svg",
+			"layername": "italic.jpg",
 			"name": "italic",
-			"type": "svg",
-			"filename": "italic.svg",
+			"type": "jpg",
+			"filename": "italic.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2074,10 +2090,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "justify-center.svg",
+			"layername": "justify-center.jpg",
 			"name": "justify-center",
-			"type": "svg",
-			"filename": "justify-center.svg",
+			"type": "jpg",
+			"filename": "justify-center.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2090,10 +2106,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "justify-left.svg",
+			"layername": "justify-left.jpg",
 			"name": "justify-left",
-			"type": "svg",
-			"filename": "justify-left.svg",
+			"type": "jpg",
+			"filename": "justify-left.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2106,10 +2122,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "justify-right.svg",
+			"layername": "justify-right.jpg",
 			"name": "justify-right",
-			"type": "svg",
-			"filename": "justify-right.svg",
+			"type": "jpg",
+			"filename": "justify-right.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2122,10 +2138,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "key.svg",
+			"layername": "key.jpg",
 			"name": "key",
-			"type": "svg",
-			"filename": "key.svg",
+			"type": "jpg",
+			"filename": "key.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2138,10 +2154,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "laptop.svg",
+			"layername": "laptop.jpg",
 			"name": "laptop",
-			"type": "svg",
-			"filename": "laptop.svg",
+			"type": "jpg",
+			"filename": "laptop.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2154,10 +2170,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "layers.svg",
+			"layername": "layers.jpg",
 			"name": "layers",
-			"type": "svg",
-			"filename": "layers.svg",
+			"type": "jpg",
+			"filename": "layers.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2170,10 +2186,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "lightbulb.svg",
+			"layername": "lightbulb.jpg",
 			"name": "lightbulb",
-			"type": "svg",
-			"filename": "lightbulb.svg",
+			"type": "jpg",
+			"filename": "lightbulb.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2186,10 +2202,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "link-broken.svg",
+			"layername": "link-broken.jpg",
 			"name": "link-broken",
-			"type": "svg",
-			"filename": "link-broken.svg",
+			"type": "jpg",
+			"filename": "link-broken.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2202,10 +2218,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "link-intact.svg",
+			"layername": "link-intact.jpg",
 			"name": "link-intact",
-			"type": "svg",
-			"filename": "link-intact.svg",
+			"type": "jpg",
+			"filename": "link-intact.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2218,10 +2234,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "list-rich.svg",
+			"layername": "list-rich.jpg",
 			"name": "list-rich",
-			"type": "svg",
-			"filename": "list-rich.svg",
+			"type": "jpg",
+			"filename": "list-rich.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2234,10 +2250,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "list.svg",
+			"layername": "list.jpg",
 			"name": "list",
-			"type": "svg",
-			"filename": "list.svg",
+			"type": "jpg",
+			"filename": "list.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2250,10 +2266,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "location.svg",
+			"layername": "location.jpg",
 			"name": "location",
-			"type": "svg",
-			"filename": "location.svg",
+			"type": "jpg",
+			"filename": "location.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2266,10 +2282,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "7.00",
-			"layername": "lock-locked.svg",
+			"layername": "lock-locked.jpg",
 			"name": "lock-locked",
-			"type": "svg",
-			"filename": "lock-locked.svg",
+			"type": "jpg",
+			"filename": "lock-locked.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2282,10 +2298,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "lock-unlocked.svg",
+			"layername": "lock-unlocked.jpg",
 			"name": "lock-unlocked",
-			"type": "svg",
-			"filename": "lock-unlocked.svg",
+			"type": "jpg",
+			"filename": "lock-unlocked.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2298,10 +2314,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "loop-circular.svg",
+			"layername": "loop-circular.jpg",
 			"name": "loop-circular",
-			"type": "svg",
-			"filename": "loop-circular.svg",
+			"type": "jpg",
+			"filename": "loop-circular.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2314,10 +2330,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "loop-square.svg",
+			"layername": "loop-square.jpg",
 			"name": "loop-square",
-			"type": "svg",
-			"filename": "loop-square.svg",
+			"type": "jpg",
+			"filename": "loop-square.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2330,10 +2346,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "loop.svg",
+			"layername": "loop.jpg",
 			"name": "loop",
-			"type": "svg",
-			"filename": "loop.svg",
+			"type": "jpg",
+			"filename": "loop.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2346,10 +2362,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "magnifying-glass.svg",
+			"layername": "magnifying-glass.jpg",
 			"name": "magnifying-glass",
-			"type": "svg",
-			"filename": "magnifying-glass.svg",
+			"type": "jpg",
+			"filename": "magnifying-glass.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2362,10 +2378,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "map-marker.svg",
+			"layername": "map-marker.jpg",
 			"name": "map-marker",
-			"type": "svg",
-			"filename": "map-marker.svg",
+			"type": "jpg",
+			"filename": "map-marker.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2378,10 +2394,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "map.svg",
+			"layername": "map.jpg",
 			"name": "map",
-			"type": "svg",
-			"filename": "map.svg",
+			"type": "jpg",
+			"filename": "map.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2394,10 +2410,10 @@
 			"b": "7.00",
 			"width": "6.00",
 			"height": "6.00",
-			"layername": "media-pause.svg",
+			"layername": "media-pause.jpg",
 			"name": "media-pause",
-			"type": "svg",
-			"filename": "media-pause.svg",
+			"type": "jpg",
+			"filename": "media-pause.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2410,10 +2426,10 @@
 			"b": "7.00",
 			"width": "6.00",
 			"height": "6.00",
-			"layername": "media-play.svg",
+			"layername": "media-play.jpg",
 			"name": "media-play",
-			"type": "svg",
-			"filename": "media-play.svg",
+			"type": "jpg",
+			"filename": "media-play.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2426,10 +2442,10 @@
 			"b": "7.00",
 			"width": "6.00",
 			"height": "6.00",
-			"layername": "media-record.svg",
+			"layername": "media-record.jpg",
 			"name": "media-record",
-			"type": "svg",
-			"filename": "media-record.svg",
+			"type": "jpg",
+			"filename": "media-record.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2442,10 +2458,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "media-skip-backward.svg",
+			"layername": "media-skip-backward.jpg",
 			"name": "media-skip-backward",
-			"type": "svg",
-			"filename": "media-skip-backward.svg",
+			"type": "jpg",
+			"filename": "media-skip-backward.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2458,10 +2474,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "6.00",
-			"layername": "media-skip-forward.svg",
+			"layername": "media-skip-forward.jpg",
 			"name": "media-skip-forward",
-			"type": "svg",
-			"filename": "media-skip-forward.svg",
+			"type": "jpg",
+			"filename": "media-skip-forward.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2474,10 +2490,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "6.00",
-			"layername": "media-step-backward.svg",
+			"layername": "media-step-backward.jpg",
 			"name": "media-step-backward",
-			"type": "svg",
-			"filename": "media-step-backward.svg",
+			"type": "jpg",
+			"filename": "media-step-backward.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2490,10 +2506,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "6.00",
-			"layername": "media-step-forward.svg",
+			"layername": "media-step-forward.jpg",
 			"name": "media-step-forward",
-			"type": "svg",
-			"filename": "media-step-forward.svg",
+			"type": "jpg",
+			"filename": "media-step-forward.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2506,10 +2522,10 @@
 			"b": "7.00",
 			"width": "6.00",
 			"height": "6.00",
-			"layername": "media-stop.svg",
+			"layername": "media-stop.jpg",
 			"name": "media-stop",
-			"type": "svg",
-			"filename": "media-stop.svg",
+			"type": "jpg",
+			"filename": "media-stop.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2522,10 +2538,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "medical-cross.svg",
+			"layername": "medical-cross.jpg",
 			"name": "medical-cross",
-			"type": "svg",
-			"filename": "medical-cross.svg",
+			"type": "jpg",
+			"filename": "medical-cross.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2538,10 +2554,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "menu.svg",
+			"layername": "menu.jpg",
 			"name": "menu",
-			"type": "svg",
-			"filename": "menu.svg",
+			"type": "jpg",
+			"filename": "menu.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2554,10 +2570,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "microphone.svg",
+			"layername": "microphone.jpg",
 			"name": "microphone",
-			"type": "svg",
-			"filename": "microphone.svg",
+			"type": "jpg",
+			"filename": "microphone.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2570,10 +2586,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "minus-box.svg",
+			"layername": "minus-box.jpg",
 			"name": "minus-box",
-			"type": "svg",
-			"filename": "minus-box.svg",
+			"type": "jpg",
+			"filename": "minus-box.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2586,10 +2602,10 @@
 			"b": "5.00",
 			"width": "8.00",
 			"height": "2.00",
-			"layername": "minus.svg",
+			"layername": "minus.jpg",
 			"name": "minus",
-			"type": "svg",
-			"filename": "minus.svg",
+			"type": "jpg",
+			"filename": "minus.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2602,10 +2618,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "monitor.svg",
+			"layername": "monitor.jpg",
 			"name": "monitor",
-			"type": "svg",
-			"filename": "monitor.svg",
+			"type": "jpg",
+			"filename": "monitor.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2618,10 +2634,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "moon.svg",
+			"layername": "moon.jpg",
 			"name": "moon",
-			"type": "svg",
-			"filename": "moon.svg",
+			"type": "jpg",
+			"filename": "moon.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2634,10 +2650,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "move.svg",
+			"layername": "move.jpg",
 			"name": "move",
-			"type": "svg",
-			"filename": "move.svg",
+			"type": "jpg",
+			"filename": "move.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2650,10 +2666,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "musical-note.svg",
+			"layername": "musical-note.jpg",
 			"name": "musical-note",
-			"type": "svg",
-			"filename": "musical-note.svg",
+			"type": "jpg",
+			"filename": "musical-note.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2666,10 +2682,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "paperclip.svg",
+			"layername": "paperclip.jpg",
 			"name": "paperclip",
-			"type": "svg",
-			"filename": "paperclip.svg",
+			"type": "jpg",
+			"filename": "paperclip.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2682,10 +2698,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "pencil.svg",
+			"layername": "pencil.jpg",
 			"name": "pencil",
-			"type": "svg",
-			"filename": "pencil.svg",
+			"type": "jpg",
+			"filename": "pencil.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2698,10 +2714,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "people.svg",
+			"layername": "people.jpg",
 			"name": "people",
-			"type": "svg",
-			"filename": "people.svg",
+			"type": "jpg",
+			"filename": "people.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2714,10 +2730,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "person.svg",
+			"layername": "person.jpg",
 			"name": "person",
-			"type": "svg",
-			"filename": "person.svg",
+			"type": "jpg",
+			"filename": "person.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2730,10 +2746,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "phone.svg",
+			"layername": "phone.jpg",
 			"name": "phone",
-			"type": "svg",
-			"filename": "phone.svg",
+			"type": "jpg",
+			"filename": "phone.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2746,10 +2762,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "pie-chart.svg",
+			"layername": "pie-chart.jpg",
 			"name": "pie-chart",
-			"type": "svg",
-			"filename": "pie-chart.svg",
+			"type": "jpg",
+			"filename": "pie-chart.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2762,10 +2778,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "pin.svg",
+			"layername": "pin.jpg",
 			"name": "pin",
-			"type": "svg",
-			"filename": "pin.svg",
+			"type": "jpg",
+			"filename": "pin.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2778,10 +2794,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "play-circle.svg",
+			"layername": "play-circle.jpg",
 			"name": "play-circle",
-			"type": "svg",
-			"filename": "play-circle.svg",
+			"type": "jpg",
+			"filename": "play-circle.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2794,10 +2810,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "plus.svg",
+			"layername": "plus.jpg",
 			"name": "plus",
-			"type": "svg",
-			"filename": "plus.svg",
+			"type": "jpg",
+			"filename": "plus.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2810,10 +2826,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "power-standby.svg",
+			"layername": "power-standby.jpg",
 			"name": "power-standby",
-			"type": "svg",
-			"filename": "power-standby.svg",
+			"type": "jpg",
+			"filename": "power-standby.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2826,10 +2842,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "print.svg",
+			"layername": "print.jpg",
 			"name": "print",
-			"type": "svg",
-			"filename": "print.svg",
+			"type": "jpg",
+			"filename": "print.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2842,10 +2858,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "project.svg",
+			"layername": "project.jpg",
 			"name": "project",
-			"type": "svg",
-			"filename": "project.svg",
+			"type": "jpg",
+			"filename": "project.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2858,10 +2874,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "pulse.svg",
+			"layername": "pulse.jpg",
 			"name": "pulse",
-			"type": "svg",
-			"filename": "pulse.svg",
+			"type": "jpg",
+			"filename": "pulse.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2874,10 +2890,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "puzzle-piece.svg",
+			"layername": "puzzle-piece.jpg",
 			"name": "puzzle-piece",
-			"type": "svg",
-			"filename": "puzzle-piece.svg",
+			"type": "jpg",
+			"filename": "puzzle-piece.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2890,10 +2906,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "question-mark.svg",
+			"layername": "question-mark.jpg",
 			"name": "question-mark",
-			"type": "svg",
-			"filename": "question-mark.svg",
+			"type": "jpg",
+			"filename": "question-mark.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2906,10 +2922,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "rain.svg",
+			"layername": "rain.jpg",
 			"name": "rain",
-			"type": "svg",
-			"filename": "rain.svg",
+			"type": "jpg",
+			"filename": "rain.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2922,10 +2938,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "random.svg",
+			"layername": "random.jpg",
 			"name": "random",
-			"type": "svg",
-			"filename": "random.svg",
+			"type": "jpg",
+			"filename": "random.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2938,10 +2954,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "reload.svg",
+			"layername": "reload.jpg",
 			"name": "reload",
-			"type": "svg",
-			"filename": "reload.svg",
+			"type": "jpg",
+			"filename": "reload.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2954,10 +2970,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "resize-both.svg",
+			"layername": "resize-both.jpg",
 			"name": "resize-both",
-			"type": "svg",
-			"filename": "resize-both.svg",
+			"type": "jpg",
+			"filename": "resize-both.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2970,10 +2986,10 @@
 			"b": "8.00",
 			"width": "5.00",
 			"height": "8.00",
-			"layername": "resize-height.svg",
+			"layername": "resize-height.jpg",
 			"name": "resize-height",
-			"type": "svg",
-			"filename": "resize-height.svg",
+			"type": "jpg",
+			"filename": "resize-height.jpg",
 			"visible": true,
 			"items": [
 				
@@ -2986,10 +3002,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "5.00",
-			"layername": "resize-width.svg",
+			"layername": "resize-width.jpg",
 			"name": "resize-width",
-			"type": "svg",
-			"filename": "resize-width.svg",
+			"type": "jpg",
+			"filename": "resize-width.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3002,10 +3018,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "rss-alt.svg",
+			"layername": "rss-alt.jpg",
 			"name": "rss-alt",
-			"type": "svg",
-			"filename": "rss-alt.svg",
+			"type": "jpg",
+			"filename": "rss-alt.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3018,10 +3034,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "rss.svg",
+			"layername": "rss.jpg",
 			"name": "rss",
-			"type": "svg",
-			"filename": "rss.svg",
+			"type": "jpg",
+			"filename": "rss.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3034,10 +3050,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "script.svg",
+			"layername": "script.jpg",
 			"name": "script",
-			"type": "svg",
-			"filename": "script.svg",
+			"type": "jpg",
+			"filename": "script.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3050,10 +3066,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "share-boxed.svg",
+			"layername": "share-boxed.jpg",
 			"name": "share-boxed",
-			"type": "svg",
-			"filename": "share-boxed.svg",
+			"type": "jpg",
+			"filename": "share-boxed.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3066,10 +3082,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "share.svg",
+			"layername": "share.jpg",
 			"name": "share",
-			"type": "svg",
-			"filename": "share.svg",
+			"type": "jpg",
+			"filename": "share.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3082,10 +3098,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "shield.svg",
+			"layername": "shield.jpg",
 			"name": "shield",
-			"type": "svg",
-			"filename": "shield.svg",
+			"type": "jpg",
+			"filename": "shield.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3098,10 +3114,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "signal.svg",
+			"layername": "signal.jpg",
 			"name": "signal",
-			"type": "svg",
-			"filename": "signal.svg",
+			"type": "jpg",
+			"filename": "signal.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3114,10 +3130,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "signpost.svg",
+			"layername": "signpost.jpg",
 			"name": "signpost",
-			"type": "svg",
-			"filename": "signpost.svg",
+			"type": "jpg",
+			"filename": "signpost.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3130,10 +3146,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "sort-ascending.svg",
+			"layername": "sort-ascending.jpg",
 			"name": "sort-ascending",
-			"type": "svg",
-			"filename": "sort-ascending.svg",
+			"type": "jpg",
+			"filename": "sort-ascending.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3146,10 +3162,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "sort-descending.svg",
+			"layername": "sort-descending.jpg",
 			"name": "sort-descending",
-			"type": "svg",
-			"filename": "sort-descending.svg",
+			"type": "jpg",
+			"filename": "sort-descending.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3162,10 +3178,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "spreadsheet.svg",
+			"layername": "spreadsheet.jpg",
 			"name": "spreadsheet",
-			"type": "svg",
-			"filename": "spreadsheet.svg",
+			"type": "jpg",
+			"filename": "spreadsheet.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3178,10 +3194,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "star.svg",
+			"layername": "star.jpg",
 			"name": "star",
-			"type": "svg",
-			"filename": "star.svg",
+			"type": "jpg",
+			"filename": "star.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3194,10 +3210,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "sun.svg",
+			"layername": "sun.jpg",
 			"name": "sun",
-			"type": "svg",
-			"filename": "sun.svg",
+			"type": "jpg",
+			"filename": "sun.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3210,10 +3226,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "tablet.svg",
+			"layername": "tablet.jpg",
 			"name": "tablet",
-			"type": "svg",
-			"filename": "tablet.svg",
+			"type": "jpg",
+			"filename": "tablet.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3226,10 +3242,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "tag.svg",
+			"layername": "tag.jpg",
 			"name": "tag",
-			"type": "svg",
-			"filename": "tag.svg",
+			"type": "jpg",
+			"filename": "tag.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3242,10 +3258,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "5.00",
-			"layername": "tags.svg",
+			"layername": "tags.jpg",
 			"name": "tags",
-			"type": "svg",
-			"filename": "tags.svg",
+			"type": "jpg",
+			"filename": "tags.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3258,10 +3274,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "target.svg",
+			"layername": "target.jpg",
 			"name": "target",
-			"type": "svg",
-			"filename": "target.svg",
+			"type": "jpg",
+			"filename": "target.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3271,13 +3287,13 @@
 			"x": "0.00",
 			"y": "-0.00",
 			"r": "8.00",
-			"b": "8.00",
+			"b": "7.00",
 			"width": "8.00",
-			"height": "8.00",
-			"layername": "task.svg",
+			"height": "7.00",
+			"layername": "task.jpg",
 			"name": "task",
-			"type": "svg",
-			"filename": "task.svg",
+			"type": "jpg",
+			"filename": "task.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3290,10 +3306,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "terminal.svg",
+			"layername": "terminal.jpg",
 			"name": "terminal",
-			"type": "svg",
-			"filename": "terminal.svg",
+			"type": "jpg",
+			"filename": "terminal.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3306,10 +3322,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "text.svg",
+			"layername": "text.jpg",
 			"name": "text",
-			"type": "svg",
-			"filename": "text.svg",
+			"type": "jpg",
+			"filename": "text.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3322,10 +3338,10 @@
 			"b": "7.00",
 			"width": "7.00",
 			"height": "7.00",
-			"layername": "thumb-down.svg",
+			"layername": "thumb-down.jpg",
 			"name": "thumb-down",
-			"type": "svg",
-			"filename": "thumb-down.svg",
+			"type": "jpg",
+			"filename": "thumb-down.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3338,10 +3354,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "thumb-up.svg",
+			"layername": "thumb-up.jpg",
 			"name": "thumb-up",
-			"type": "svg",
-			"filename": "thumb-up.svg",
+			"type": "jpg",
+			"filename": "thumb-up.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3354,10 +3370,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "timer.svg",
+			"layername": "timer.jpg",
 			"name": "timer",
-			"type": "svg",
-			"filename": "timer.svg",
+			"type": "jpg",
+			"filename": "timer.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3370,10 +3386,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "transfer.svg",
+			"layername": "transfer.jpg",
 			"name": "transfer",
-			"type": "svg",
-			"filename": "transfer.svg",
+			"type": "jpg",
+			"filename": "transfer.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3386,10 +3402,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "trash.svg",
+			"layername": "trash.jpg",
 			"name": "trash",
-			"type": "svg",
-			"filename": "trash.svg",
+			"type": "jpg",
+			"filename": "trash.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3402,10 +3418,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "underline.svg",
+			"layername": "underline.jpg",
 			"name": "underline",
-			"type": "svg",
-			"filename": "underline.svg",
+			"type": "jpg",
+			"filename": "underline.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3418,10 +3434,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "vertical-align-bottom.svg",
+			"layername": "vertical-align-bottom.jpg",
 			"name": "vertical-align-bottom",
-			"type": "svg",
-			"filename": "vertical-align-bottom.svg",
+			"type": "jpg",
+			"filename": "vertical-align-bottom.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3434,10 +3450,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "vertical-align-center.svg",
+			"layername": "vertical-align-center.jpg",
 			"name": "vertical-align-center",
-			"type": "svg",
-			"filename": "vertical-align-center.svg",
+			"type": "jpg",
+			"filename": "vertical-align-center.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3450,10 +3466,10 @@
 			"b": "7.00",
 			"width": "8.00",
 			"height": "7.00",
-			"layername": "vertical-align-top.svg",
+			"layername": "vertical-align-top.jpg",
 			"name": "vertical-align-top",
-			"type": "svg",
-			"filename": "vertical-align-top.svg",
+			"type": "jpg",
+			"filename": "vertical-align-top.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3466,10 +3482,10 @@
 			"b": "6.00",
 			"width": "8.00",
 			"height": "5.00",
-			"layername": "video.svg",
+			"layername": "video.jpg",
 			"name": "video",
-			"type": "svg",
-			"filename": "video.svg",
+			"type": "jpg",
+			"filename": "video.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3482,10 +3498,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "volume-high.svg",
+			"layername": "volume-high.jpg",
 			"name": "volume-high",
-			"type": "svg",
-			"filename": "volume-high.svg",
+			"type": "jpg",
+			"filename": "volume-high.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3498,10 +3514,10 @@
 			"b": "8.00",
 			"width": "6.00",
 			"height": "8.00",
-			"layername": "volume-low.svg",
+			"layername": "volume-low.jpg",
 			"name": "volume-low",
-			"type": "svg",
-			"filename": "volume-low.svg",
+			"type": "jpg",
+			"filename": "volume-low.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3514,10 +3530,10 @@
 			"b": "8.00",
 			"width": "4.00",
 			"height": "8.00",
-			"layername": "volume-off.svg",
+			"layername": "volume-off.jpg",
 			"name": "volume-off",
-			"type": "svg",
-			"filename": "volume-off.svg",
+			"type": "jpg",
+			"filename": "volume-off.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3530,10 +3546,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "warning.svg",
+			"layername": "warning.jpg",
 			"name": "warning",
-			"type": "svg",
-			"filename": "warning.svg",
+			"type": "jpg",
+			"filename": "warning.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3546,10 +3562,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "wifi.svg",
+			"layername": "wifi.jpg",
 			"name": "wifi",
-			"type": "svg",
-			"filename": "wifi.svg",
+			"type": "jpg",
+			"filename": "wifi.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3562,10 +3578,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "wrench.svg",
+			"layername": "wrench.jpg",
 			"name": "wrench",
-			"type": "svg",
-			"filename": "wrench.svg",
+			"type": "jpg",
+			"filename": "wrench.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3578,10 +3594,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "x.svg",
+			"layername": "x.jpg",
 			"name": "x",
-			"type": "svg",
-			"filename": "x.svg",
+			"type": "jpg",
+			"filename": "x.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3594,10 +3610,10 @@
 			"b": "8.00",
 			"width": "7.00",
 			"height": "8.00",
-			"layername": "yen.svg",
+			"layername": "yen.jpg",
 			"name": "yen",
-			"type": "svg",
-			"filename": "yen.svg",
+			"type": "jpg",
+			"filename": "yen.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3610,10 +3626,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "zoom-in.svg",
+			"layername": "zoom-in.jpg",
 			"name": "zoom-in",
-			"type": "svg",
-			"filename": "zoom-in.svg",
+			"type": "jpg",
+			"filename": "zoom-in.jpg",
 			"visible": true,
 			"items": [
 				
@@ -3626,10 +3642,10 @@
 			"b": "8.00",
 			"width": "8.00",
 			"height": "8.00",
-			"layername": "zoom-out.svg",
+			"layername": "zoom-out.jpg",
 			"name": "zoom-out",
-			"type": "svg",
-			"filename": "zoom-out.svg",
+			"type": "jpg",
+			"filename": "zoom-out.jpg",
 			"visible": true,
 			"items": [
 				
