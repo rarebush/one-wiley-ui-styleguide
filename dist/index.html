@@ -29,7 +29,7 @@
         <h4>One Wiley UI Styleguide</h4>
 
         <form id="login-form" name="login" autocomplete="on" onsubmit="event.preventDefault(); pasuser(this);">
-            
+
             <fieldset>
                 <legend>Login</legend>
 
@@ -37,16 +37,16 @@
                     <div>Username: </div>
                     <input type="text" id="username" name="username" required />
                 </label>
-                
+
                 <label for="password">
                     <div>Password: </div>
                     <input type="password" id="password" name="password" required />
-                </label>              
-                
+                </label>
+
             </fieldset>
-            
+
             <input type="submit" value="Submit" class="ow-button">
-            
+
         </form>
 
     </div>
@@ -57,10 +57,12 @@
     <!--//
     /*THIS IS NOT A SECURE WAY OF SUBMITTING INFORMATION: This Script redirects a user when they enter the correct values into the input fields*/
     function pasuser(form) {
-        
+
         if (form.username.value == "owui") {
-            if (form.password.value == "wiley1") {                
-                window.location = "/home.html";
+            if (form.password.value == "wiley1") {
+                setTimeout(function () {
+                    window.location = "/home.html";
+                }, 1500);
             } else {
                 alert("Invalid Password")
             }

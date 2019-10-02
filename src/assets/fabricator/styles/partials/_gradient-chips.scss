@@ -1,0 +1,32 @@
+.f-gradient-chips__row {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    .f-gradient-chips__swatch {
+        background: black;
+        width: 32%;
+        height: auto;
+        position: relative;
+        &:before {
+            content: '';
+            float: left;
+            padding-top: 100%;
+        }
+        .f-gradient-chips__color-names {
+            padding: 3px;
+            background: rgba(255,255,255,0.75);
+        }
+        .f-gradient-chips__color1name {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .f-gradient-chips__color2name {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
+    }
+}
